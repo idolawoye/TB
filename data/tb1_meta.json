@@ -1,0 +1,76 @@
+{
+ "maintainer": [
+  "Emma Hodcroft",
+  "https://neherlab.org/emma-hodcroft.html"
+ ],
+ "color_options": {
+  "num_date": {
+   "legendTitle": "Sampling date",
+   "menuItem": "date",
+   "type": "continuous",
+   "key": "num_date"
+  },
+  "location": {
+   "legendTitle": "location",
+   "menuItem": "location",
+   "key": "location",
+   "color_map": [
+    [
+     "pinneberg",
+     "#1E90FF"
+    ],
+    [
+     "kiel",
+     "#32CD32"
+    ],
+    [
+     "hamburg",
+     "#F08080"
+    ]
+   ]
+  },
+  "gt": {
+   "legendTitle": "Genotype",
+   "menuItem": "genotype",
+   "type": "discrete",
+   "key": "genotype"
+  },
+  "cluster": {}
+ },
+ "virus_count": 86,
+ "filters": [
+  "location",
+  "cluster",
+  "authors"
+ ],
+ "geo": {
+  "location": {
+   "hamburg": {
+    "latitude": 53.5511,
+    "longitude": 9.9937
+   },
+   "kiel": {
+    "latitude": 54.3233,
+    "longitude": 10.1228
+   },
+   "pinneberg": {
+    "latitude": 53.7354,
+    "longitude": 9.7048
+   }
+  }
+ },
+ "title": "TB outbreak in Germany",
+ "author_info": {
+  "Roetzer et al": {
+   "n": 86,
+   "paper_url": "https://www.ncbi.nlm.nih.gov/pubmed/23424287/",
+   "title": "WGS_versus_traditional_genotyping_for_investigation_of_mycobacterium_tuberculosis_outbreak"
+  }
+ },
+ "panels": [
+  "tree",
+  "map"
+ ],
+ "annotations": {},
+ "updated": "18 Jul 2018"
+}
