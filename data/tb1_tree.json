@@ -1,0 +1,3514 @@
+{
+ "tvalue": null,
+ "children": [
+  {
+   "tvalue": null,
+   "children": [
+    {
+     "tvalue": null,
+     "branch_length": 1.6763195178292416e-07,
+     "xvalue": null,
+     "strain": "ERR550691",
+     "aa_muts": {},
+     "muts": [
+      "G544483A",
+      "C2098787T",
+      "G2239724A"
+     ],
+     "attr": {
+      "date": "1999-01-01",
+      "div": 1.157706634877237e-06,
+      "num_date": 1998.9993411985008,
+      "branch_length": 1.6763195178292416e-07,
+      "mutation_length": 6.946217922166998e-07,
+      "location": "hamburg",
+      "clock_length": 1.6763195178292416e-07,
+      "authors": "Roetzer et al",
+      "numdate": 1998.9993411985008,
+      "raw_date": "1998-XX-XX"
+     },
+     "yvalue": 86,
+     "clade": 0
+    },
+    {
+     "tvalue": null,
+     "branch_length": 3.235093219462569e-07,
+     "xvalue": null,
+     "strain": "ERR553080",
+     "aa_muts": {},
+     "muts": [
+      "G2070006A",
+      "C2485931T",
+      "G2870350A",
+      "C4065000T"
+     ],
+     "attr": {
+      "date": "2003-01-01",
+      "div": 1.3892484850929667e-06,
+      "num_date": 2002.9993411985008,
+      "branch_length": 3.235093219462569e-07,
+      "mutation_length": 9.261636424324298e-07,
+      "location": "hamburg",
+      "clock_length": 3.235093219462569e-07,
+      "authors": "Roetzer et al",
+      "numdate": 2002.9993411985008,
+      "raw_date": "2002-XX-XX"
+     },
+     "yvalue": 85,
+     "clade": 1
+    },
+    {
+     "tvalue": null,
+     "children": [
+      {
+       "tvalue": null,
+       "branch_length": 2.7516917889589513e-07,
+       "xvalue": null,
+       "strain": "ERR551209",
+       "aa_muts": {},
+       "muts": [
+        "C643069A",
+        "G2257984T",
+        "C2680425T",
+        "G3361693A"
+       ],
+       "attr": {
+        "date": "2003-01-01",
+        "div": 1.6207874788436638e-06,
+        "num_date": 2002.9993411985008,
+        "branch_length": 2.7516917889589513e-07,
+        "mutation_length": 9.26162640551823e-07,
+        "location": "hamburg",
+        "clock_length": 2.7516917889589513e-07,
+        "authors": "Roetzer et al",
+        "numdate": 2002.9993411985008,
+        "raw_date": "2002-XX-XX"
+       },
+       "yvalue": 84,
+       "clade": 2
+      },
+      {
+       "tvalue": null,
+       "branch_length": 2.7516917889589513e-07,
+       "xvalue": null,
+       "strain": "ERR552633",
+       "aa_muts": {},
+       "muts": [
+        "G1122712A",
+        "G3159627C",
+        "A3812228G"
+       ],
+       "attr": {
+        "date": "2003-01-01",
+        "div": 1.3892507738404702e-06,
+        "num_date": 2002.9993411985008,
+        "branch_length": 2.7516917889589513e-07,
+        "mutation_length": 6.946259355486293e-07,
+        "location": "hamburg",
+        "clock_length": 2.7516917889589513e-07,
+        "authors": "Roetzer et al",
+        "numdate": 2002.9993411985008,
+        "raw_date": "2002-XX-XX"
+       },
+       "yvalue": 83,
+       "clade": 3
+      }
+     ],
+     "branch_length": 4.834014305036177e-08,
+     "xvalue": null,
+     "strain": "NODE_0000078",
+     "aa_muts": {},
+     "muts": [
+      "T561786G"
+     ],
+     "attr": {
+      "date": "1995-12-09",
+      "div": 6.946248382918408e-07,
+      "num_date": 1995.9381705203564,
+      "branch_length": 4.834014305036177e-08,
+      "mutation_length": 2.3153999563130374e-07,
+      "location": "hamburg",
+      "clock_length": 4.834014305036177e-08,
+      "authors": null,
+      "numdate": 1995.9381705203564,
+      "raw_date": null
+     },
+     "yvalue": 83.5,
+     "clade": 4
+    },
+    {
+     "tvalue": null,
+     "children": [
+      {
+       "tvalue": null,
+       "branch_length": 1.2832913576062365e-07,
+       "xvalue": null,
+       "strain": "ERR552967",
+       "aa_muts": {},
+       "muts": [
+        "C323290G",
+        "T3065225A"
+       ],
+       "attr": {
+        "date": "1998-01-01",
+        "div": 9.261661618999704e-07,
+        "num_date": 1997.9993411985008,
+        "branch_length": 1.2832913576062365e-07,
+        "mutation_length": 4.6308131923886e-07,
+        "location": "hamburg",
+        "clock_length": 1.2832913576062365e-07,
+        "authors": "Roetzer et al",
+        "numdate": 1997.9993411985008,
+        "raw_date": "1997-XX-XX"
+       },
+       "yvalue": 82,
+       "clade": 5
+      },
+      {
+       "tvalue": null,
+       "children": [
+        {
+         "tvalue": null,
+         "branch_length": 1.2195948108255706e-07,
+         "xvalue": null,
+         "strain": "ERR552360",
+         "aa_muts": {},
+         "muts": [
+          "A1888173G"
+         ],
+         "attr": {
+          "date": "1999-01-01",
+          "div": 6.946249564272054e-07,
+          "num_date": 1998.9993411985008,
+          "branch_length": 1.2195948108255706e-07,
+          "mutation_length": 2.3154011376552178e-07,
+          "location": "hamburg",
+          "clock_length": 1.2195948108255706e-07,
+          "authors": "Roetzer et al",
+          "numdate": 1998.9993411985008,
+          "raw_date": "1998-XX-XX"
+         },
+         "yvalue": 81,
+         "clade": 6
+        },
+        {
+         "tvalue": null,
+         "children": [
+          {
+           "tvalue": null,
+           "branch_length": 7.841636121631794e-08,
+           "xvalue": null,
+           "strain": "ERR551341",
+           "aa_muts": {},
+           "muts": [],
+           "attr": {
+            "date": "2001-01-02",
+            "div": 4.630848426628302e-07,
+            "num_date": 2001.0027635119848,
+            "branch_length": 7.841636121631794e-08,
+            "mutation_length": 5.732893358217834e-19,
+            "location": "hamburg",
+            "clock_length": 7.841636121631794e-08,
+            "authors": "Roetzer et al",
+            "numdate": 2001.0027635119848,
+            "raw_date": "2001-XX-XX"
+           },
+           "yvalue": 80,
+           "clade": 7
+          },
+          {
+           "tvalue": null,
+           "branch_length": 4.77676134651612e-10,
+           "xvalue": null,
+           "strain": "ERR552854",
+           "aa_muts": {},
+           "muts": [],
+           "attr": {
+            "date": "1999-01-02",
+            "div": 4.630848426628302e-07,
+            "num_date": 1999.0027635119848,
+            "branch_length": 4.77676134651612e-10,
+            "mutation_length": 5.732893358217834e-19,
+            "location": "hamburg",
+            "clock_length": 4.77676134651612e-10,
+            "authors": "Roetzer et al",
+            "numdate": 1999.0027635119848,
+            "raw_date": "1999-XX-XX"
+           },
+           "yvalue": 79,
+           "clade": 8
+          }
+         ],
+         "branch_length": 1.2161517025434377e-07,
+         "xvalue": null,
+         "strain": "NODE_0000087",
+         "aa_muts": {},
+         "muts": [],
+         "attr": {
+          "date": "1998-12-28",
+          "div": 4.630848426622569e-07,
+          "num_date": 1998.9905057702958,
+          "branch_length": 1.2161517025434377e-07,
+          "mutation_length": 5.732893358217834e-19,
+          "location": "hamburg",
+          "clock_length": 1.2161517025434377e-07,
+          "authors": null,
+          "numdate": 1998.9905057702958,
+          "raw_date": null
+         },
+         "yvalue": 79.5,
+         "clade": 9
+        }
+       ],
+       "branch_length": 4.53389972188997e-08,
+       "xvalue": null,
+       "strain": "NODE_0000086",
+       "aa_muts": {},
+       "muts": [],
+       "attr": {
+        "date": "1995-11-14",
+        "div": 4.6308484266168364e-07,
+        "num_date": 1995.869714853002,
+        "branch_length": 4.53389972188997e-08,
+        "mutation_length": 5.732893358217834e-19,
+        "location": "hamburg",
+        "clock_length": 4.53389972188997e-08,
+        "authors": null,
+        "numdate": 1995.869714853002,
+        "raw_date": null
+       },
+       "yvalue": 80.25,
+       "clade": 10
+      }
+     ],
+     "branch_length": 3.334734814674061e-10,
+     "xvalue": null,
+     "strain": "NODE_0000085",
+     "aa_muts": {},
+     "muts": [],
+     "attr": {
+      "date": "1994-09-15",
+      "div": 4.6308484266111036e-07,
+      "num_date": 1994.706261885547,
+      "branch_length": 3.334734814674061e-10,
+      "mutation_length": 5.732893358217834e-19,
+      "location": "hamburg",
+      "clock_length": 3.334734814674061e-10,
+      "authors": null,
+      "numdate": 1994.706261885547,
+      "raw_date": null
+     },
+     "yvalue": 81.125,
+     "clade": 11
+    },
+    {
+     "tvalue": null,
+     "children": [
+      {
+       "tvalue": null,
+       "branch_length": 2.406400188263992e-07,
+       "xvalue": null,
+       "strain": "ERR550982",
+       "aa_muts": {},
+       "muts": [
+        "C166014T",
+        "C278506T",
+        "A559022C"
+       ],
+       "attr": {
+        "date": "2002-01-01",
+        "div": 1.6207937853590933e-06,
+        "num_date": 2001.9993411985008,
+        "branch_length": 2.406400188263992e-07,
+        "mutation_length": 6.946236236016957e-07,
+        "location": "hamburg",
+        "clock_length": 2.406400188263992e-07,
+        "authors": "Roetzer et al",
+        "numdate": 2001.9993411985008,
+        "raw_date": "2001-XX-XX"
+       },
+       "yvalue": 78,
+       "clade": 12
+      },
+      {
+       "tvalue": null,
+       "branch_length": 1.6270133374473277e-07,
+       "xvalue": null,
+       "strain": "ERR552629",
+       "aa_muts": {},
+       "muts": [
+        "C185521G",
+        "A2565492G",
+        "A3120994T"
+       ],
+       "attr": {
+        "date": "2000-01-01",
+        "div": 1.620795691421025e-06,
+        "num_date": 1999.9993411985008,
+        "branch_length": 1.6270133374473277e-07,
+        "mutation_length": 6.946255296636275e-07,
+        "location": "hamburg",
+        "clock_length": 1.6270133374473277e-07,
+        "authors": "Roetzer et al",
+        "numdate": 1999.9993411985008,
+        "raw_date": "1999-XX-XX"
+       },
+       "yvalue": 77,
+       "clade": 13
+      },
+      {
+       "tvalue": null,
+       "branch_length": 2.0177736853072192e-07,
+       "xvalue": null,
+       "strain": "ERR550917",
+       "aa_muts": {},
+       "muts": [
+        "G253283T",
+        "G942192T",
+        "G1623057T",
+        "G2078367A"
+       ],
+       "attr": {
+        "date": "2001-01-01",
+        "div": 1.8523314651992325e-06,
+        "num_date": 2001.002079049288,
+        "branch_length": 2.0177736853072192e-07,
+        "mutation_length": 9.261613034418348e-07,
+        "location": "hamburg",
+        "clock_length": 2.0177736853072192e-07,
+        "authors": "Roetzer et al",
+        "numdate": 2001.002079049288,
+        "raw_date": "2000-XX-XX"
+       },
+       "yvalue": 76,
+       "clade": 14
+      },
+      {
+       "tvalue": null,
+       "children": [
+        {
+         "tvalue": null,
+         "branch_length": 1.3712549541870024e-08,
+         "xvalue": null,
+         "strain": "ERR553326",
+         "aa_muts": {},
+         "muts": [],
+         "attr": {
+          "date": "2000-01-20",
+          "div": 1.62079403439675e-06,
+          "num_date": 2000.0541709736283,
+          "branch_length": 1.3712549541870024e-08,
+          "mutation_length": 5.732191298515003e-19,
+          "location": "hamburg",
+          "clock_length": 1.3712549541870024e-08,
+          "authors": "Roetzer et al",
+          "numdate": 2000.0541709736283,
+          "raw_date": "2000-XX-XX"
+         },
+         "yvalue": 75,
+         "clade": 15
+        },
+        {
+         "tvalue": null,
+         "branch_length": 5.06519040394798e-08,
+         "xvalue": null,
+         "strain": "ERR552243",
+         "aa_muts": {},
+         "muts": [
+          "A2305822C"
+         ],
+         "attr": {
+          "date": "2001-01-01",
+          "div": 1.8523331509914923e-06,
+          "num_date": 2001.002079049288,
+          "branch_length": 5.06519040394798e-08,
+          "mutation_length": 2.315391165953155e-07,
+          "location": "hamburg",
+          "clock_length": 5.06519040394798e-08,
+          "authors": "Roetzer et al",
+          "numdate": 2001.002079049288,
+          "raw_date": "2000-XX-XX"
+         },
+         "yvalue": 74,
+         "clade": 16
+        }
+       ],
+       "branch_length": 1.5112546449124212e-07,
+       "xvalue": null,
+       "strain": "NODE_0000076",
+       "aa_muts": {},
+       "muts": [
+        "C154882T",
+        "C2206435T",
+        "G3510219A"
+       ],
+       "attr": {
+        "date": "1999-09-14",
+        "div": 1.6207940343961768e-06,
+        "num_date": 1999.702290529982,
+        "branch_length": 1.5112546449124212e-07,
+        "mutation_length": 6.946238726387791e-07,
+        "location": "hamburg",
+        "clock_length": 1.5112546449124212e-07,
+        "authors": null,
+        "numdate": 1999.702290529982,
+        "raw_date": null
+       },
+       "yvalue": 74.5,
+       "clade": 17
+      }
+     ],
+     "branch_length": 4.3899960579024606e-08,
+     "xvalue": null,
+     "strain": "NODE_0000073",
+     "aa_muts": {},
+     "muts": [
+      "A631189G",
+      "C3547358T"
+     ],
+     "attr": {
+      "date": "1995-10-29",
+      "div": 9.261701617573976e-07,
+      "num_date": 1995.8242301204975,
+      "branch_length": 4.3899960579024606e-08,
+      "mutation_length": 4.6308531909686045e-07,
+      "location": "hamburg",
+      "clock_length": 4.3899960579024606e-08,
+      "authors": null,
+      "numdate": 1995.8242301204975,
+      "raw_date": null
+     },
+     "yvalue": 76.25,
+     "clade": 18
+    }
+   ],
+   "branch_length": 2.5146761373316153e-07,
+   "xvalue": null,
+   "strain": "NODE_0000072",
+   "aa_muts": {},
+   "muts": [
+    "A2078367G",
+    "A3609894G"
+   ],
+   "attr": {
+    "date": "1994-09-12",
+    "div": 4.630848426605371e-07,
+    "num_date": 1994.6977045566387,
+    "branch_length": 2.5146761373316153e-07,
+    "mutation_length": 4.630848426605371e-07,
+    "location": "hamburg",
+    "clock_length": 2.5146761373316153e-07,
+    "authors": null,
+    "numdate": 1994.6977045566387,
+    "raw_date": null
+   },
+   "yvalue": 81.125,
+   "clade": 19
+  },
+  {
+   "tvalue": null,
+   "children": [
+    {
+     "tvalue": null,
+     "branch_length": 5.7279624509012e-07,
+     "xvalue": null,
+     "strain": "ERR550799",
+     "aa_muts": {},
+     "muts": [],
+     "attr": {
+      "date": "2003-01-02",
+      "div": 1.146154692996077e-18,
+      "num_date": 2003.0027635119848,
+      "branch_length": 5.7279624509012e-07,
+      "mutation_length": 5.730773464980385e-19,
+      "location": "hamburg",
+      "clock_length": 5.7279624509012e-07,
+      "authors": "Roetzer et al",
+      "numdate": 2003.0027635119848,
+      "raw_date": "2003-XX-XX"
+     },
+     "yvalue": 73,
+     "clade": 20
+    },
+    {
+     "tvalue": null,
+     "children": [
+      {
+       "tvalue": null,
+       "branch_length": 3.519674399722295e-07,
+       "xvalue": null,
+       "strain": "ERR553115",
+       "aa_muts": {},
+       "muts": [
+        "T245326G",
+        "T857406C",
+        "C4268523T"
+       ],
+       "attr": {
+        "date": "2003-01-01",
+        "div": 1.1577096960610003e-06,
+        "num_date": 2002.9993411985008,
+        "branch_length": 3.519674399722295e-07,
+        "mutation_length": 6.946224114581767e-07,
+        "location": "hamburg",
+        "clock_length": 3.519674399722295e-07,
+        "authors": "Roetzer et al",
+        "numdate": 2002.9993411985008,
+        "raw_date": "2002-XX-XX"
+       },
+       "yvalue": 72,
+       "clade": 21
+      },
+      {
+       "tvalue": null,
+       "children": [
+        {
+         "tvalue": null,
+         "branch_length": 1.7122676893500956e-07,
+         "xvalue": null,
+         "strain": "ERR552650",
+         "aa_muts": {},
+         "muts": [
+          "T2528074G"
+         ],
+         "attr": {
+          "date": "1999-01-01",
+          "div": 9.261653195008297e-07,
+          "num_date": 1998.9993411985008,
+          "branch_length": 1.7122676893500956e-07,
+          "mutation_length": 2.315432713183159e-07,
+          "location": "hamburg",
+          "clock_length": 1.7122676893500956e-07,
+          "authors": "Roetzer et al",
+          "numdate": 1998.9993411985008,
+          "raw_date": "1998-XX-XX"
+         },
+         "yvalue": 71,
+         "clade": 22
+        },
+        {
+         "tvalue": null,
+         "branch_length": 4.829815092616751e-07,
+         "xvalue": null,
+         "strain": "ERR553398",
+         "aa_muts": {},
+         "muts": [
+          "C2134304T",
+          "A2995524C",
+          "A2995526C",
+          "A3747437C",
+          "G3772764A"
+         ],
+         "attr": {
+          "date": "2007-01-01",
+          "div": 1.852326504252548e-06,
+          "num_date": 2006.9993411985008,
+          "branch_length": 4.829815092616751e-07,
+          "mutation_length": 1.1577044560700342e-06,
+          "location": "kiel",
+          "clock_length": 4.829815092616751e-07,
+          "authors": "Roetzer et al",
+          "numdate": 2006.9993411985008,
+          "raw_date": "2006-XX-XX"
+         },
+         "yvalue": 70,
+         "clade": 23
+        },
+        {
+         "tvalue": null,
+         "branch_length": 1.7122676893500956e-07,
+         "xvalue": null,
+         "strain": "ERR552867",
+         "aa_muts": {},
+         "muts": [
+          "C30887T"
+         ],
+         "attr": {
+          "date": "1999-01-01",
+          "div": 9.261626125900518e-07,
+          "num_date": 1998.9993411985008,
+          "branch_length": 1.7122676893500956e-07,
+          "mutation_length": 2.3154056440753791e-07,
+          "location": "hamburg",
+          "clock_length": 1.7122676893500956e-07,
+          "authors": "Roetzer et al",
+          "numdate": 1998.9993411985008,
+          "raw_date": "1998-XX-XX"
+         },
+         "yvalue": 69,
+         "clade": 24
+        },
+        {
+         "tvalue": null,
+         "branch_length": 2.881347965575092e-07,
+         "xvalue": null,
+         "strain": "ERR551218",
+         "aa_muts": {},
+         "muts": [
+          "C176463T",
+          "A386136T",
+          "A492917C",
+          "A566807C",
+          "G603822T",
+          "G818073T",
+          "T1786843G",
+          "A1823803C",
+          "T1876539G",
+          "T1941683G",
+          "T2282896G",
+          "G2294099A",
+          "A2939017C",
+          "T3262355G",
+          "A3389073C",
+          "C3473529T",
+          "C3649577A",
+          "T3664901A",
+          "A4361121C"
+         ],
+         "attr": {
+          "date": "2002-01-01",
+          "div": 5.093917959574916e-06,
+          "num_date": 2001.9993411985008,
+          "branch_length": 2.881347965575092e-07,
+          "mutation_length": 4.399295911392402e-06,
+          "location": "hamburg",
+          "clock_length": 2.881347965575092e-07,
+          "authors": "Roetzer et al",
+          "numdate": 2001.9993411985008,
+          "raw_date": "2001-XX-XX"
+         },
+         "yvalue": 68,
+         "clade": 25
+        },
+        {
+         "tvalue": null,
+         "branch_length": 1.3225742639417644e-07,
+         "xvalue": null,
+         "strain": "ERR552368",
+         "aa_muts": {},
+         "muts": [
+          "G4158174A"
+         ],
+         "attr": {
+          "date": "1998-01-01",
+          "div": 9.261613587084568e-07,
+          "num_date": 1997.9993411985008,
+          "branch_length": 1.3225742639417644e-07,
+          "mutation_length": 2.31539310525943e-07,
+          "location": "hamburg",
+          "clock_length": 1.3225742639417644e-07,
+          "authors": "Roetzer et al",
+          "numdate": 1997.9993411985008,
+          "raw_date": "1997-XX-XX"
+         },
+         "yvalue": 67,
+         "clade": 26
+        },
+        {
+         "tvalue": null,
+         "branch_length": 5.219508518025083e-07,
+         "xvalue": null,
+         "strain": "ERR552735",
+         "aa_muts": {},
+         "muts": [
+          "G1211422A",
+          "A3102337C",
+          "C3429119A"
+         ],
+         "attr": {
+          "date": "2008-01-01",
+          "div": 1.3892426959922167e-06,
+          "num_date": 2007.9993411985008,
+          "branch_length": 5.219508518025083e-07,
+          "mutation_length": 6.946206478097029e-07,
+          "location": "hamburg",
+          "clock_length": 5.219508518025083e-07,
+          "authors": "Roetzer et al",
+          "numdate": 2007.9993411985008,
+          "raw_date": "2007-XX-XX"
+         },
+         "yvalue": 66,
+         "clade": 27
+        },
+        {
+         "tvalue": null,
+         "branch_length": 2.881347965575092e-07,
+         "xvalue": null,
+         "strain": "ERR553405",
+         "aa_muts": {},
+         "muts": [
+          "T2403707G",
+          "T3243946C",
+          "A3731429C",
+          "A3734998C"
+         ],
+         "attr": {
+          "date": "2002-01-01",
+          "div": 1.6207861009289639e-06,
+          "num_date": 2001.9993411985008,
+          "branch_length": 2.881347965575092e-07,
+          "mutation_length": 9.261640527464501e-07,
+          "location": "hamburg",
+          "clock_length": 2.881347965575092e-07,
+          "authors": "Roetzer et al",
+          "numdate": 2001.9993411985008,
+          "raw_date": "2001-XX-XX"
+         },
+         "yvalue": 65,
+         "clade": 28
+        },
+        {
+         "tvalue": null,
+         "branch_length": 2.492721462618319e-07,
+         "xvalue": null,
+         "strain": "ERR553408",
+         "aa_muts": {},
+         "muts": [
+          "T1343935G",
+          "A1979596C",
+          "T2945713G",
+          "T4363023G"
+         ],
+         "attr": {
+          "date": "2001-01-01",
+          "div": 1.6207839412805588e-06,
+          "num_date": 2001.002079049288,
+          "branch_length": 2.492721462618319e-07,
+          "mutation_length": 9.261618930980451e-07,
+          "location": "hamburg",
+          "clock_length": 2.492721462618319e-07,
+          "authors": "Roetzer et al",
+          "numdate": 2001.002079049288,
+          "raw_date": "2000-XX-XX"
+         },
+         "yvalue": 64,
+         "clade": 29
+        },
+        {
+         "tvalue": null,
+         "children": [
+          {
+           "tvalue": null,
+           "branch_length": 2.429118719104379e-07,
+           "xvalue": null,
+           "strain": "ERR551885",
+           "aa_muts": {},
+           "muts": [],
+           "attr": {
+            "date": "2005-01-02",
+            "div": 9.261626125906252e-07,
+            "num_date": 2005.0027635119848,
+            "branch_length": 2.429118719104379e-07,
+            "mutation_length": 5.734876027999966e-19,
+            "location": "hamburg",
+            "clock_length": 2.429118719104379e-07,
+            "authors": "Roetzer et al",
+            "numdate": 2005.0027635119848,
+            "raw_date": "2005-XX-XX"
+           },
+           "yvalue": 63,
+           "clade": 30
+          },
+          {
+           "tvalue": null,
+           "children": [
+            {
+             "tvalue": null,
+             "branch_length": 2.876941000366429e-07,
+             "xvalue": null,
+             "strain": "ERR550870",
+             "aa_muts": {},
+             "muts": [
+              "C395927T",
+              "C431131T",
+              "C1436522T"
+             ],
+             "attr": {
+              "date": "2010-01-01",
+              "div": 2.0838670339859004e-06,
+              "num_date": 2009.9993411985008,
+              "branch_length": 2.876941000366429e-07,
+              "mutation_length": 6.946218727285318e-07,
+              "location": "hamburg",
+              "clock_length": 2.876941000366429e-07,
+              "authors": "Roetzer et al",
+              "numdate": 2009.9993411985008,
+              "raw_date": "2009-XX-XX"
+             },
+             "yvalue": 62,
+             "clade": 31
+            },
+            {
+             "tvalue": null,
+             "branch_length": 2.4885812280224797e-07,
+             "xvalue": null,
+             "strain": "ERR550970",
+             "aa_muts": {},
+             "muts": [],
+             "attr": {
+              "date": "2009-01-02",
+              "div": 1.389245161257942e-06,
+              "num_date": 2009.0027635119848,
+              "branch_length": 2.4885812280224797e-07,
+              "mutation_length": 5.7316137821898375e-19,
+              "location": "hamburg",
+              "clock_length": 2.4885812280224797e-07,
+              "authors": "Roetzer et al",
+              "numdate": 2009.0027635119848,
+              "raw_date": "2009-XX-XX"
+             },
+             "yvalue": 61,
+             "clade": 32
+            }
+           ],
+           "branch_length": 1.4993111927152271e-07,
+           "xvalue": null,
+           "strain": "NODE_0000069",
+           "aa_muts": {},
+           "muts": [
+            "A483407G",
+            "C4043372A"
+           ],
+           "attr": {
+            "date": "2002-08-14",
+            "div": 1.3892451612573688e-06,
+            "num_date": 2002.6167660438086,
+            "branch_length": 1.4993111927152271e-07,
+            "mutation_length": 4.6308254866731703e-07,
+            "location": "hamburg",
+            "clock_length": 1.4993111927152271e-07,
+            "authors": null,
+            "numdate": 2002.6167660438086,
+            "raw_date": null
+           },
+           "yvalue": 61.5,
+           "clade": 33
+          }
+         ],
+         "branch_length": 1.6226431757600905e-07,
+         "xvalue": null,
+         "strain": "NODE_0000068",
+         "aa_muts": {},
+         "muts": [
+          "C2384033T"
+         ],
+         "attr": {
+          "date": "1998-10-09",
+          "div": 9.261626125900518e-07,
+          "num_date": 1998.769353963032,
+          "branch_length": 1.6226431757600905e-07,
+          "mutation_length": 2.3154056440753791e-07,
+          "location": "hamburg",
+          "clock_length": 1.6226431757600905e-07,
+          "authors": null,
+          "numdate": 1998.769353963032,
+          "raw_date": null
+         },
+         "yvalue": 62.25,
+         "clade": 34
+        },
+        {
+         "tvalue": null,
+         "children": [
+          {
+           "tvalue": null,
+           "branch_length": 5.830578837892953e-07,
+           "xvalue": null,
+           "strain": "ERR553399",
+           "aa_muts": {},
+           "muts": [
+            "T279772G",
+            "A427023C",
+            "A728405C",
+            "A846164C",
+            "A894708C",
+            "A1979596C",
+            "T2316001G",
+            "A3839706C",
+            "A3839711C",
+            "A3839714C"
+           ],
+           "attr": {
+            "date": "2010-01-01",
+            "div": 3.241577000690707e-06,
+            "num_date": 2009.9993411985008,
+            "branch_length": 5.830578837892953e-07,
+            "mutation_length": 2.315413558879353e-06,
+            "location": "kiel",
+            "clock_length": 5.830578837892953e-07,
+            "authors": "Roetzer et al",
+            "numdate": 2009.9993411985008,
+            "raw_date": "2009-XX-XX"
+           },
+           "yvalue": 60,
+           "clade": 35
+          },
+          {
+           "tvalue": null,
+           "branch_length": 6.220272263301286e-07,
+           "xvalue": null,
+           "strain": "ERR553404",
+           "aa_muts": {},
+           "muts": [
+            "T846741G",
+            "T1169311G",
+            "T2975029G",
+            "A3839698C"
+           ],
+           "attr": {
+            "date": "2011-01-01",
+            "div": 1.8523288805369136e-06,
+            "num_date": 2010.9993411985008,
+            "branch_length": 6.220272263301286e-07,
+            "mutation_length": 9.261654387255592e-07,
+            "location": "pinneberg",
+            "clock_length": 6.220272263301286e-07,
+            "authors": "Roetzer et al",
+            "numdate": 2010.9993411985008,
+            "raw_date": "2010-XX-XX"
+           },
+           "yvalue": 59,
+           "clade": 36
+          },
+          {
+           "tvalue": null,
+           "branch_length": 6.220272263301285e-07,
+           "xvalue": null,
+           "strain": "ERR553407",
+           "aa_muts": {},
+           "muts": [
+            "A1170205C",
+            "T1344800G",
+            "A3488706C",
+            "A3734993C"
+           ],
+           "attr": {
+            "date": "2011-01-01",
+            "div": 1.8523239196070622e-06,
+            "num_date": 2010.9993411985008,
+            "branch_length": 6.220272263301285e-07,
+            "mutation_length": 9.261604777957078e-07,
+            "location": "pinneberg",
+            "clock_length": 6.220272263301285e-07,
+            "authors": "Roetzer et al",
+            "numdate": 2010.9993411985008,
+            "raw_date": "2010-XX-XX"
+           },
+           "yvalue": 58,
+           "clade": 37
+          },
+          {
+           "tvalue": null,
+           "branch_length": 5.051191987076289e-07,
+           "xvalue": null,
+           "strain": "ERR553403",
+           "aa_muts": {},
+           "muts": [
+            "A279779C",
+            "T2311612G",
+            "A2974312C",
+            "A4264012C"
+           ],
+           "attr": {
+            "date": "2008-01-01",
+            "div": 1.8523239196070622e-06,
+            "num_date": 2007.9993411985008,
+            "branch_length": 5.051191987076289e-07,
+            "mutation_length": 9.261604777957078e-07,
+            "location": "hamburg",
+            "clock_length": 5.051191987076289e-07,
+            "authors": "Roetzer et al",
+            "numdate": 2007.9993411985008,
+            "raw_date": "2007-XX-XX"
+           },
+           "yvalue": 57,
+           "clade": 38
+          },
+          {
+           "tvalue": null,
+           "children": [
+            {
+             "tvalue": null,
+             "branch_length": 2.3752331404602674e-07,
+             "xvalue": null,
+             "strain": "ERR553402",
+             "aa_muts": {},
+             "muts": [
+              "A426122C",
+              "T1165517G",
+              "T1254822G",
+              "T1980341G",
+              "A2375437C",
+              "T3844044G",
+              "A4087958C",
+              "A4087960C"
+             ],
+             "attr": {
+              "date": "2002-01-01",
+              "div": 3.0100460031420424e-06,
+              "num_date": 2001.9993411985008,
+              "branch_length": 2.3752331404602674e-07,
+              "mutation_length": 1.8523393617968632e-06,
+              "location": "hamburg",
+              "clock_length": 2.3752331404602674e-07,
+              "authors": "Roetzer et al",
+              "numdate": 2001.9993411985008,
+              "raw_date": "2001-XX-XX"
+             },
+             "yvalue": 56,
+             "clade": 39
+            },
+            {
+             "tvalue": null,
+             "branch_length": 5.882473969135255e-07,
+             "xvalue": null,
+             "strain": "ERR553400",
+             "aa_muts": {},
+             "muts": [
+              "A431589C",
+              "A1784483C",
+              "A2093441G",
+              "T3734720G",
+              "T3846497G"
+             ],
+             "attr": {
+              "date": "2011-01-01",
+              "div": 2.3154078549500895e-06,
+              "num_date": 2010.9993411985008,
+              "branch_length": 5.882473969135255e-07,
+              "mutation_length": 1.15770121360491e-06,
+              "location": "pinneberg",
+              "clock_length": 5.882473969135255e-07,
+              "authors": "Roetzer et al",
+              "numdate": 2010.9993411985008,
+              "raw_date": "2010-XX-XX"
+             },
+             "yvalue": 55,
+             "clade": 40
+            }
+           ],
+           "branch_length": 3.377982941660304e-08,
+           "xvalue": null,
+           "strain": "NODE_0000016",
+           "aa_muts": {},
+           "muts": [
+            "A3734544C"
+           ],
+           "attr": {
+            "date": "1995-11-27",
+            "div": 1.1577066413451793e-06,
+            "num_date": 1995.904208497785,
+            "branch_length": 3.377982941660304e-08,
+            "mutation_length": 2.3154319953382502e-07,
+            "location": "pinneberg",
+            "clock_length": 3.377982941660304e-08,
+            "authors": null,
+            "numdate": 1995.904208497785,
+            "raw_date": null
+           },
+           "yvalue": 55.5,
+           "clade": 41
+          },
+          {
+           "tvalue": null,
+           "children": [
+            {
+             "tvalue": null,
+             "branch_length": 4.845616851004759e-07,
+             "xvalue": null,
+             "strain": "ERR553395",
+             "aa_muts": {},
+             "muts": [
+              "A1165807C",
+              "T1280504G",
+              "T1979306G",
+              "A2305822C",
+              "A3730989C",
+              "A3839711C"
+             ],
+             "attr": {
+              "date": "2011-01-01",
+              "div": 2.546956815318017e-06,
+              "num_date": 2010.9993411985008,
+              "branch_length": 4.845616851004759e-07,
+              "mutation_length": 1.3892492015038142e-06,
+              "location": "hamburg",
+              "clock_length": 4.845616851004759e-07,
+              "authors": "Roetzer et al",
+              "numdate": 2010.9993411985008,
+              "raw_date": "2010-XX-XX"
+             },
+             "yvalue": 54,
+             "clade": 42
+            },
+            {
+             "tvalue": null,
+             "branch_length": 4.5970569450786224e-07,
+             "xvalue": null,
+             "strain": "ERR553411",
+             "aa_muts": {},
+             "muts": [
+              "A581599C",
+              "A3086403C"
+             ],
+             "attr": {
+              "date": "2010-05-13",
+              "div": 1.6207879269034708e-06,
+              "num_date": 2010.3615067119022,
+              "branch_length": 4.5970569450786224e-07,
+              "mutation_length": 4.630803130892683e-07,
+              "location": "pinneberg",
+              "clock_length": 4.5970569450786224e-07,
+              "authors": "Roetzer et al",
+              "numdate": 2010.3615067119022,
+              "raw_date": "2010-XX-XX"
+             },
+             "yvalue": 53,
+             "clade": 43
+            }
+           ],
+           "branch_length": 1.3746554122965265e-07,
+           "xvalue": null,
+           "strain": "NODE_0000020",
+           "aa_muts": {},
+           "muts": [
+            "T1174031G"
+           ],
+           "attr": {
+            "date": "1998-07-26",
+            "div": 1.1577076138142025e-06,
+            "num_date": 1998.5649080388255,
+            "branch_length": 1.3746554122965265e-07,
+            "mutation_length": 2.315441720028483e-07,
+            "location": "pinneberg",
+            "clock_length": 1.3746554122965265e-07,
+            "authors": null,
+            "numdate": 1998.5649080388255,
+            "raw_date": null
+           },
+           "yvalue": 53.5,
+           "clade": 44
+          },
+          {
+           "tvalue": null,
+           "children": [
+            {
+             "tvalue": null,
+             "branch_length": 1.615261593256185e-07,
+             "xvalue": null,
+             "strain": "ERR553409",
+             "aa_muts": {},
+             "muts": [
+              "T1254822G",
+              "T1561794G",
+              "T1639778G",
+              "A2029855C",
+              "T2553654G",
+              "A3119800T",
+              "T3750750G",
+              "A3893236C"
+             ],
+             "attr": {
+              "date": "2000-01-01",
+              "div": 3.0100351944351e-06,
+              "num_date": 1999.9993411985008,
+              "branch_length": 1.615261593256185e-07,
+              "mutation_length": 1.8523285530899206e-06,
+              "location": "hamburg",
+              "clock_length": 1.615261593256185e-07,
+              "authors": "Roetzer et al",
+              "numdate": 1999.9993411985008,
+              "raw_date": "1999-XX-XX"
+             },
+             "yvalue": 52,
+             "clade": 45
+            },
+            {
+             "tvalue": null,
+             "branch_length": 5.901889272747836e-07,
+             "xvalue": null,
+             "strain": "ERR553410",
+             "aa_muts": {},
+             "muts": [
+              "A431574C",
+              "A434268C",
+              "T3099608G",
+              "A3713275C",
+              "T3747348G",
+              "A3841042C",
+              "T3902989G",
+              "A3954927C"
+             ],
+             "attr": {
+              "date": "2011-01-01",
+              "div": 3.0100368395893743e-06,
+              "num_date": 2010.9993411985008,
+              "branch_length": 5.901889272747836e-07,
+              "mutation_length": 1.8523301982441953e-06,
+              "location": "pinneberg",
+              "clock_length": 5.901889272747836e-07,
+              "authors": "Roetzer et al",
+              "numdate": 2010.9993411985008,
+              "raw_date": "2010-XX-XX"
+             },
+             "yvalue": 51,
+             "clade": 46
+            },
+            {
+             "tvalue": null,
+             "branch_length": 5.901889272747837e-07,
+             "xvalue": null,
+             "strain": "ERR553396",
+             "aa_muts": {},
+             "muts": [
+              "T2639282G",
+              "A3734542C",
+              "T4130433G"
+             ],
+             "attr": {
+              "date": "2011-01-01",
+              "div": 1.8523302095724884e-06,
+              "num_date": 2010.9993411985008,
+              "branch_length": 5.901889272747837e-07,
+              "mutation_length": 6.946235682273092e-07,
+              "location": "pinneberg",
+              "clock_length": 5.901889272747837e-07,
+              "authors": "Roetzer et al",
+              "numdate": 2010.9993411985008,
+              "raw_date": "2010-XX-XX"
+             },
+             "yvalue": 50,
+             "clade": 47
+            }
+           ],
+           "branch_length": 3.183829905534489e-08,
+           "xvalue": null,
+           "strain": "NODE_0000021",
+           "aa_muts": {},
+           "muts": [
+            "A4070040C"
+           ],
+           "attr": {
+            "date": "1995-11-09",
+            "div": 1.1577066413451793e-06,
+            "num_date": 1995.8543865035026,
+            "branch_length": 3.183829905534489e-08,
+            "mutation_length": 2.3154319953382502e-07,
+            "location": "pinneberg",
+            "clock_length": 3.183829905534489e-08,
+            "authors": null,
+            "numdate": 1995.8543865035026,
+            "raw_date": null
+           },
+           "yvalue": 51.0,
+           "clade": 48
+          },
+          {
+           "tvalue": null,
+           "children": [
+            {
+             "tvalue": null,
+             "children": [
+              {
+               "tvalue": null,
+               "branch_length": 4.1964715677079906e-08,
+               "xvalue": null,
+               "strain": "ERR551425",
+               "aa_muts": {},
+               "muts": [],
+               "attr": {
+                "date": "2008-01-02",
+                "div": 9.261634418130743e-07,
+                "num_date": 2008.0027635119848,
+                "branch_length": 4.1964715677079906e-08,
+                "mutation_length": 5.732951549306433e-19,
+                "location": "hamburg",
+                "clock_length": 4.1964715677079906e-08,
+                "authors": "Roetzer et al",
+                "numdate": 2008.0027635119848,
+                "raw_date": "2008-XX-XX"
+               },
+               "yvalue": 49,
+               "clade": 49
+              },
+              {
+               "tvalue": null,
+               "children": [
+                {
+                 "tvalue": null,
+                 "branch_length": 1.919760774817294e-08,
+                 "xvalue": null,
+                 "strain": "ERR550804",
+                 "aa_muts": {},
+                 "muts": [],
+                 "attr": {
+                  "date": "2008-01-02",
+                  "div": 9.261634418136476e-07,
+                  "num_date": 2008.0027635119848,
+                  "branch_length": 1.919760774817294e-08,
+                  "mutation_length": 5.732951549306433e-19,
+                  "location": "hamburg",
+                  "clock_length": 1.919760774817294e-08,
+                  "authors": "Roetzer et al",
+                  "numdate": 2008.0027635119848,
+                  "raw_date": "2008-XX-XX"
+                 },
+                 "yvalue": 48,
+                 "clade": 50
+                },
+                {
+                 "tvalue": null,
+                 "children": [
+                  {
+                   "tvalue": null,
+                   "branch_length": 1.2010631794168747e-08,
+                   "xvalue": null,
+                   "strain": "ERR552627",
+                   "aa_muts": {},
+                   "muts": [],
+                   "attr": {
+                    "date": "2008-01-02",
+                    "div": 9.26163441814221e-07,
+                    "num_date": 2008.0027635119848,
+                    "branch_length": 1.2010631794168747e-08,
+                    "mutation_length": 5.732951549306433e-19,
+                    "location": "hamburg",
+                    "clock_length": 1.2010631794168747e-08,
+                    "authors": "Roetzer et al",
+                    "numdate": 2008.0027635119848,
+                    "raw_date": "2008-XX-XX"
+                   },
+                   "yvalue": 47,
+                   "clade": 51
+                  },
+                  {
+                   "tvalue": null,
+                   "children": [
+                    {
+                     "tvalue": null,
+                     "branch_length": 4.471575061579987e-08,
+                     "xvalue": null,
+                     "strain": "ERR551049",
+                     "aa_muts": {},
+                     "muts": [],
+                     "attr": {
+                      "date": "2009-01-02",
+                      "div": 9.261634418147943e-07,
+                      "num_date": 2009.0027635119848,
+                      "branch_length": 4.471575061579987e-08,
+                      "mutation_length": 5.732951549306433e-19,
+                      "location": "hamburg",
+                      "clock_length": 4.471575061579987e-08,
+                      "authors": "Roetzer et al",
+                      "numdate": 2009.0027635119848,
+                      "raw_date": "2009-XX-XX"
+                     },
+                     "yvalue": 46,
+                     "clade": 52
+                    },
+                    {
+                     "tvalue": null,
+                     "branch_length": 4.471575061579987e-08,
+                     "xvalue": null,
+                     "strain": "ERR551517",
+                     "aa_muts": {},
+                     "muts": [],
+                     "attr": {
+                      "date": "2009-01-02",
+                      "div": 9.261634418147943e-07,
+                      "num_date": 2009.0027635119848,
+                      "branch_length": 4.471575061579987e-08,
+                      "mutation_length": 5.732951549306433e-19,
+                      "location": "hamburg",
+                      "clock_length": 4.471575061579987e-08,
+                      "authors": "Roetzer et al",
+                      "numdate": 2009.0027635119848,
+                      "raw_date": "2009-XX-XX"
+                     },
+                     "yvalue": 45,
+                     "clade": 53
+                    }
+                   ],
+                   "branch_length": 6.264223719202041e-09,
+                   "xvalue": null,
+                   "strain": "NODE_0000092",
+                   "aa_muts": {},
+                   "muts": [],
+                   "attr": {
+                    "date": "2007-11-09",
+                    "div": 9.26163441814221e-07,
+                    "num_date": 2007.855303798777,
+                    "branch_length": 6.264223719202041e-09,
+                    "mutation_length": 5.732951549306433e-19,
+                    "location": "hamburg",
+                    "clock_length": 6.264223719202041e-09,
+                    "authors": null,
+                    "numdate": 2007.855303798777,
+                    "raw_date": null
+                   },
+                   "yvalue": 45.5,
+                   "clade": 54
+                  }
+                 ],
+                 "branch_length": 7.186975954004194e-09,
+                 "xvalue": null,
+                 "strain": "NODE_0000091",
+                 "aa_muts": {},
+                 "muts": [],
+                 "attr": {
+                  "date": "2007-09-11",
+                  "div": 9.261634418136476e-07,
+                  "num_date": 2007.6945563159925,
+                  "branch_length": 7.186975954004194e-09,
+                  "mutation_length": 5.732951549306433e-19,
+                  "location": "hamburg",
+                  "clock_length": 7.186975954004194e-09,
+                  "authors": null,
+                  "numdate": 2007.6945563159925,
+                  "raw_date": null
+                 },
+                 "yvalue": 46.25,
+                 "clade": 55
+                }
+               ],
+               "branch_length": 2.2767107928906966e-08,
+               "xvalue": null,
+               "strain": "NODE_0000090",
+               "aa_muts": {},
+               "muts": [],
+               "attr": {
+                "date": "2007-07-06",
+                "div": 9.261634418130743e-07,
+                "num_date": 2007.510129905758,
+                "branch_length": 2.2767107928906966e-08,
+                "mutation_length": 5.732951549306433e-19,
+                "location": "hamburg",
+                "clock_length": 2.2767107928906966e-08,
+                "authors": null,
+                "numdate": 2007.510129905758,
+                "raw_date": null
+               },
+               "yvalue": 47.125,
+               "clade": 56
+              }
+             ],
+             "branch_length": 3.106132209673506e-07,
+             "xvalue": null,
+             "strain": "NODE_0000089",
+             "aa_muts": {},
+             "muts": [],
+             "attr": {
+              "date": "2006-12-05",
+              "div": 9.26163441812501e-07,
+              "num_date": 2006.9258986499947,
+              "branch_length": 3.106132209673506e-07,
+              "mutation_length": 5.732951549306433e-19,
+              "location": "hamburg",
+              "clock_length": 3.106132209673506e-07,
+              "authors": null,
+              "numdate": 2006.9258986499947,
+              "raw_date": null
+             },
+             "yvalue": 48.0625,
+             "clade": 57
+            },
+            {
+             "tvalue": null,
+             "children": [
+              {
+               "tvalue": null,
+               "branch_length": 2.76859042072484e-07,
+               "xvalue": null,
+               "strain": "ERR553305",
+               "aa_muts": {},
+               "muts": [],
+               "attr": {
+                "date": "2009-01-02",
+                "div": 9.261634418130743e-07,
+                "num_date": 2009.0027635119848,
+                "branch_length": 2.76859042072484e-07,
+                "mutation_length": 5.732951549306433e-19,
+                "location": "kiel",
+                "clock_length": 2.76859042072484e-07,
+                "authors": "Roetzer et al",
+                "numdate": 2009.0027635119848,
+                "raw_date": "2009-XX-XX"
+               },
+               "yvalue": 44,
+               "clade": 58
+              },
+              {
+               "tvalue": null,
+               "children": [
+                {
+                 "tvalue": null,
+                 "branch_length": 4.5723880154600144e-08,
+                 "xvalue": null,
+                 "strain": "ERR553279",
+                 "aa_muts": {},
+                 "muts": [],
+                 "attr": {
+                  "date": "2008-01-02",
+                  "div": 9.261634418136476e-07,
+                  "num_date": 2008.0027635119848,
+                  "branch_length": 4.5723880154600144e-08,
+                  "mutation_length": 5.732951549306433e-19,
+                  "location": "hamburg",
+                  "clock_length": 4.5723880154600144e-08,
+                  "authors": "Roetzer et al",
+                  "numdate": 2008.0027635119848,
+                  "raw_date": "2008-XX-XX"
+                 },
+                 "yvalue": 43,
+                 "clade": 59
+                },
+                {
+                 "tvalue": null,
+                 "children": [
+                  {
+                   "tvalue": null,
+                   "branch_length": 2.7021530549400318e-08,
+                   "xvalue": null,
+                   "strain": "ERR551325",
+                   "aa_muts": {},
+                   "muts": [],
+                   "attr": {
+                    "date": "2008-01-02",
+                    "div": 9.26163441814221e-07,
+                    "num_date": 2008.0027635119848,
+                    "branch_length": 2.7021530549400318e-08,
+                    "mutation_length": 5.732951549306433e-19,
+                    "location": "hamburg",
+                    "clock_length": 2.7021530549400318e-08,
+                    "authors": "Roetzer et al",
+                    "numdate": 2008.0027635119848,
+                    "raw_date": "2008-XX-XX"
+                   },
+                   "yvalue": 42,
+                   "clade": 60
+                  },
+                  {
+                   "tvalue": null,
+                   "children": [
+                    {
+                     "tvalue": null,
+                     "branch_length": 0.0,
+                     "xvalue": null,
+                     "strain": "ERR552275",
+                     "aa_muts": {},
+                     "muts": [],
+                     "attr": {
+                      "date": "2007-05-01",
+                      "div": 9.261634418147943e-07,
+                      "num_date": 2007.3299769885816,
+                      "branch_length": 0.0,
+                      "mutation_length": 5.732951549306433e-19,
+                      "location": "kiel",
+                      "clock_length": 0.0,
+                      "authors": "Roetzer et al",
+                      "numdate": 2007.3299769885816,
+                      "raw_date": "2007-XX-XX"
+                     },
+                     "yvalue": 41,
+                     "clade": 61
+                    },
+                    {
+                     "tvalue": null,
+                     "branch_length": 2.621804848735157e-08,
+                     "xvalue": null,
+                     "strain": "ERR552380",
+                     "aa_muts": {},
+                     "muts": [],
+                     "attr": {
+                      "date": "2008-01-02",
+                      "div": 9.261634418147943e-07,
+                      "num_date": 2008.0027635119848,
+                      "branch_length": 2.621804848735157e-08,
+                      "mutation_length": 5.732951549306433e-19,
+                      "location": "hamburg",
+                      "clock_length": 2.621804848735157e-08,
+                      "authors": "Roetzer et al",
+                      "numdate": 2008.0027635119848,
+                      "raw_date": "2008-XX-XX"
+                     },
+                     "yvalue": 40,
+                     "clade": 62
+                    }
+                   ],
+                   "branch_length": 8.034820620487606e-10,
+                   "xvalue": null,
+                   "strain": "NODE_0000096",
+                   "aa_muts": {},
+                   "muts": [],
+                   "attr": {
+                    "date": "2007-05-01",
+                    "div": 9.26163441814221e-07,
+                    "num_date": 2007.3299769885816,
+                    "branch_length": 8.034820620487606e-10,
+                    "mutation_length": 5.732951549306433e-19,
+                    "location": "kiel",
+                    "clock_length": 8.034820620487606e-10,
+                    "authors": null,
+                    "numdate": 2007.3299769885816,
+                    "raw_date": null
+                   },
+                   "yvalue": 40.5,
+                   "clade": 63
+                  }
+                 ],
+                 "branch_length": 1.8702349605199826e-08,
+                 "xvalue": null,
+                 "strain": "NODE_0000095",
+                 "aa_muts": {},
+                 "muts": [],
+                 "attr": {
+                  "date": "2007-04-23",
+                  "div": 9.261634418136476e-07,
+                  "num_date": 2007.3093586766045,
+                  "branch_length": 1.8702349605199826e-08,
+                  "mutation_length": 5.732951549306433e-19,
+                  "location": "kiel",
+                  "clock_length": 1.8702349605199826e-08,
+                  "authors": null,
+                  "numdate": 2007.3093586766045,
+                  "raw_date": null
+                 },
+                 "yvalue": 41.25,
+                 "clade": 64
+                }
+               ],
+               "branch_length": 1.9216581937705066e-07,
+               "xvalue": null,
+               "strain": "NODE_0000094",
+               "aa_muts": {},
+               "muts": [],
+               "attr": {
+                "date": "2006-10-30",
+                "div": 9.261634418130743e-07,
+                "num_date": 2006.8294339874567,
+                "branch_length": 1.9216581937705066e-07,
+                "mutation_length": 5.732951549306433e-19,
+                "location": "kiel",
+                "clock_length": 1.9216581937705066e-07,
+                "authors": null,
+                "numdate": 2006.8294339874567,
+                "raw_date": null
+               },
+               "yvalue": 42.125,
+               "clade": 65
+              }
+             ],
+             "branch_length": 1.1468823711277972e-07,
+             "xvalue": null,
+             "strain": "NODE_0000093",
+             "aa_muts": {},
+             "muts": [],
+             "attr": {
+              "date": "2001-11-25",
+              "div": 9.26163441812501e-07,
+              "num_date": 2001.8982289209177,
+              "branch_length": 1.1468823711277972e-07,
+              "mutation_length": 5.732951549306433e-19,
+              "location": "kiel",
+              "clock_length": 1.1468823711277972e-07,
+              "authors": null,
+              "numdate": 2001.8982289209177,
+              "raw_date": null
+             },
+             "yvalue": 43.0625,
+             "clade": 66
+            }
+           ],
+           "branch_length": 1.526746273696366e-07,
+           "xvalue": null,
+           "strain": "NODE_0000088",
+           "aa_muts": {},
+           "muts": [],
+           "attr": {
+            "date": "1998-12-15",
+            "div": 9.261634418119276e-07,
+            "num_date": 1998.955191403859,
+            "branch_length": 1.526746273696366e-07,
+            "mutation_length": 5.732951549306433e-19,
+            "location": "pinneberg",
+            "clock_length": 1.526746273696366e-07,
+            "authors": null,
+            "numdate": 1998.955191403859,
+            "raw_date": null
+           },
+           "yvalue": 45.5625,
+           "clade": 67
+          }
+         ],
+         "branch_length": 1.6831653094879367e-08,
+         "xvalue": null,
+         "strain": "NODE_0000015",
+         "aa_muts": {},
+         "muts": [
+          "G1254822T"
+         ],
+         "attr": {
+          "date": "1995-01-14",
+          "div": 9.261634418113543e-07,
+          "num_date": 1995.0373776196093,
+          "branch_length": 1.6831653094879367e-08,
+          "mutation_length": 2.3154139362884045e-07,
+          "location": "pinneberg",
+          "clock_length": 1.6831653094879367e-08,
+          "authors": null,
+          "numdate": 1995.0373776196093,
+          "raw_date": null
+         },
+         "yvalue": 52.78125,
+         "clade": 68
+        },
+        {
+         "tvalue": null,
+         "children": [
+          {
+           "tvalue": null,
+           "children": [
+            {
+             "tvalue": null,
+             "children": [
+              {
+               "tvalue": null,
+               "branch_length": 1.5070837521872846e-07,
+               "xvalue": null,
+               "strain": "ERR552414",
+               "aa_muts": {},
+               "muts": [
+                "A200668C"
+               ],
+               "attr": {
+                "date": "2001-01-01",
+                "div": 9.261611262984739e-07,
+                "num_date": 2001.002079049288,
+                "branch_length": 1.5070837521872846e-07,
+                "mutation_length": 2.315390781142417e-07,
+                "location": "hamburg",
+                "clock_length": 1.5070837521872846e-07,
+                "authors": "Roetzer et al",
+                "numdate": 2001.002079049288,
+                "raw_date": "2000-XX-XX"
+               },
+               "yvalue": 39,
+               "clade": 69
+              },
+              {
+               "tvalue": null,
+               "children": [
+                {
+                 "tvalue": null,
+                 "branch_length": 0.0,
+                 "xvalue": null,
+                 "strain": "ERR552714",
+                 "aa_muts": {},
+                 "muts": [],
+                 "attr": {
+                  "date": "1997-06-29",
+                  "div": 6.946220481853778e-07,
+                  "num_date": 1997.4905300700957,
+                  "branch_length": 0.0,
+                  "mutation_length": 5.728180977485805e-19,
+                  "location": "hamburg",
+                  "clock_length": 0.0,
+                  "authors": "Roetzer et al",
+                  "numdate": 1997.4905300700957,
+                  "raw_date": "1997-XX-XX"
+                 },
+                 "yvalue": 38,
+                 "clade": 70
+                },
+                {
+                 "tvalue": null,
+                 "branch_length": 2.537774557028445e-07,
+                 "xvalue": null,
+                 "strain": "ERR551903",
+                 "aa_muts": {},
+                 "muts": [],
+                 "attr": {
+                  "date": "2004-01-02",
+                  "div": 6.946220481853778e-07,
+                  "num_date": 2004.0027635119848,
+                  "branch_length": 2.537774557028445e-07,
+                  "mutation_length": 5.728180977485805e-19,
+                  "location": "hamburg",
+                  "clock_length": 2.537774557028445e-07,
+                  "authors": "Roetzer et al",
+                  "numdate": 2004.0027635119848,
+                  "raw_date": "2004-XX-XX"
+                 },
+                 "yvalue": 37,
+                 "clade": 71
+                }
+               ],
+               "branch_length": 1.3865620199665736e-08,
+               "xvalue": null,
+               "strain": "NODE_0000100",
+               "aa_muts": {},
+               "muts": [],
+               "attr": {
+                "date": "1997-06-29",
+                "div": 6.94622048184805e-07,
+                "num_date": 1997.4905300700957,
+                "branch_length": 1.3865620199665736e-08,
+                "mutation_length": 5.728180977485805e-19,
+                "location": "hamburg",
+                "clock_length": 1.3865620199665736e-08,
+                "authors": null,
+                "numdate": 1997.4905300700957,
+                "raw_date": null
+               },
+               "yvalue": 37.5,
+               "clade": 72
+              }
+             ],
+             "branch_length": 1.0922530328352071e-08,
+             "xvalue": null,
+             "strain": "NODE_0000099",
+             "aa_muts": {},
+             "muts": [],
+             "attr": {
+              "date": "1997-02-19",
+              "div": 6.946220481842322e-07,
+              "num_date": 1997.13472165005,
+              "branch_length": 1.0922530328352071e-08,
+              "mutation_length": 5.728180977485805e-19,
+              "location": "hamburg",
+              "clock_length": 1.0922530328352071e-08,
+              "authors": null,
+              "numdate": 1997.13472165005,
+              "raw_date": null
+             },
+             "yvalue": 38.25,
+             "clade": 73
+            },
+            {
+             "tvalue": null,
+             "children": [
+              {
+               "tvalue": null,
+               "children": [
+                {
+                 "tvalue": null,
+                 "children": [
+                  {
+                   "tvalue": null,
+                   "branch_length": 2.0432591499219203e-09,
+                   "xvalue": null,
+                   "strain": "ERR552339",
+                   "aa_muts": {},
+                   "muts": [],
+                   "attr": {
+                    "date": "1999-01-02",
+                    "div": 6.946220481859507e-07,
+                    "num_date": 1999.0027635119848,
+                    "branch_length": 2.0432591499219203e-09,
+                    "mutation_length": 5.728180977485805e-19,
+                    "location": "hamburg",
+                    "clock_length": 2.0432591499219203e-09,
+                    "authors": "Roetzer et al",
+                    "numdate": 1999.0027635119848,
+                    "raw_date": "1999-XX-XX"
+                   },
+                   "yvalue": 36,
+                   "clade": 74
+                  },
+                  {
+                   "tvalue": null,
+                   "branch_length": 2.0432591499219203e-09,
+                   "xvalue": null,
+                   "strain": "ERR551764",
+                   "aa_muts": {},
+                   "muts": [],
+                   "attr": {
+                    "date": "1999-01-02",
+                    "div": 6.946220481859507e-07,
+                    "num_date": 1999.0027635119848,
+                    "branch_length": 2.0432591499219203e-09,
+                    "mutation_length": 5.728180977485805e-19,
+                    "location": "hamburg",
+                    "clock_length": 2.0432591499219203e-09,
+                    "authors": "Roetzer et al",
+                    "numdate": 1999.0027635119848,
+                    "raw_date": "1999-XX-XX"
+                   },
+                   "yvalue": 35,
+                   "clade": 75
+                  }
+                 ],
+                 "branch_length": 3.6874084157543166e-09,
+                 "xvalue": null,
+                 "strain": "NODE_0000103",
+                 "aa_muts": {},
+                 "muts": [],
+                 "attr": {
+                  "date": "1998-12-14",
+                  "div": 6.946220481853778e-07,
+                  "num_date": 1998.9503310351529,
+                  "branch_length": 3.6874084157543166e-09,
+                  "mutation_length": 5.728180977485805e-19,
+                  "location": "hamburg",
+                  "clock_length": 3.6874084157543166e-09,
+                  "authors": null,
+                  "numdate": 1998.9503310351529,
+                  "raw_date": null
+                 },
+                 "yvalue": 35.5,
+                 "clade": 76
+                },
+                {
+                 "tvalue": null,
+                 "children": [
+                  {
+                   "tvalue": null,
+                   "branch_length": 2.0432591499219203e-09,
+                   "xvalue": null,
+                   "strain": "ERR551088",
+                   "aa_muts": {},
+                   "muts": [],
+                   "attr": {
+                    "date": "1999-01-02",
+                    "div": 6.946220481859507e-07,
+                    "num_date": 1999.0027635119848,
+                    "branch_length": 2.0432591499219203e-09,
+                    "mutation_length": 5.728180977485805e-19,
+                    "location": "hamburg",
+                    "clock_length": 2.0432591499219203e-09,
+                    "authors": "Roetzer et al",
+                    "numdate": 1999.0027635119848,
+                    "raw_date": "1999-XX-XX"
+                   },
+                   "yvalue": 34,
+                   "clade": 77
+                  },
+                  {
+                   "tvalue": null,
+                   "branch_length": 2.0432591499219203e-09,
+                   "xvalue": null,
+                   "strain": "ERR551702",
+                   "aa_muts": {},
+                   "muts": [],
+                   "attr": {
+                    "date": "1999-01-02",
+                    "div": 6.946220481859507e-07,
+                    "num_date": 1999.0027635119848,
+                    "branch_length": 2.0432591499219203e-09,
+                    "mutation_length": 5.728180977485805e-19,
+                    "location": "hamburg",
+                    "clock_length": 2.0432591499219203e-09,
+                    "authors": "Roetzer et al",
+                    "numdate": 1999.0027635119848,
+                    "raw_date": "1999-XX-XX"
+                   },
+                   "yvalue": 33,
+                   "clade": 78
+                  }
+                 ],
+                 "branch_length": 3.6874084157543166e-09,
+                 "xvalue": null,
+                 "strain": "NODE_0000104",
+                 "aa_muts": {},
+                 "muts": [],
+                 "attr": {
+                  "date": "1998-12-14",
+                  "div": 6.946220481853778e-07,
+                  "num_date": 1998.9503310351529,
+                  "branch_length": 3.6874084157543166e-09,
+                  "mutation_length": 5.728180977485805e-19,
+                  "location": "hamburg",
+                  "clock_length": 3.6874084157543166e-09,
+                  "authors": null,
+                  "numdate": 1998.9503310351529,
+                  "raw_date": null
+                 },
+                 "yvalue": 33.5,
+                 "clade": 79
+                }
+               ],
+               "branch_length": 4.25983862157956e-09,
+               "xvalue": null,
+               "strain": "NODE_0000102",
+               "aa_muts": {},
+               "muts": [],
+               "attr": {
+                "date": "1998-11-09",
+                "div": 6.94622048184805e-07,
+                "num_date": 1998.8557077190965,
+                "branch_length": 4.25983862157956e-09,
+                "mutation_length": 5.728180977485805e-19,
+                "location": "hamburg",
+                "clock_length": 4.25983862157956e-09,
+                "authors": null,
+                "numdate": 1998.8557077190965,
+                "raw_date": null
+               },
+               "yvalue": 34.5,
+               "clade": 80
+              },
+              {
+               "tvalue": null,
+               "children": [
+                {
+                 "tvalue": null,
+                 "children": [
+                  {
+                   "tvalue": null,
+                   "branch_length": 3.093436952175233e-08,
+                   "xvalue": null,
+                   "strain": "ERR552817",
+                   "aa_muts": {},
+                   "muts": [],
+                   "attr": {
+                    "date": "2000-01-02",
+                    "div": 6.946220481859507e-07,
+                    "num_date": 2000.0027635119848,
+                    "branch_length": 3.093436952175233e-08,
+                    "mutation_length": 5.728180977485805e-19,
+                    "location": "hamburg",
+                    "clock_length": 3.093436952175233e-08,
+                    "authors": "Roetzer et al",
+                    "numdate": 2000.0027635119848,
+                    "raw_date": "2000-XX-XX"
+                   },
+                   "yvalue": 32,
+                   "clade": 81
+                  },
+                  {
+                   "tvalue": null,
+                   "branch_length": 3.093436952175233e-08,
+                   "xvalue": null,
+                   "strain": "ERR552890",
+                   "aa_muts": {},
+                   "muts": [],
+                   "attr": {
+                    "date": "2000-01-02",
+                    "div": 6.946220481859507e-07,
+                    "num_date": 2000.0027635119848,
+                    "branch_length": 3.093436952175233e-08,
+                    "mutation_length": 5.728180977485805e-19,
+                    "location": "hamburg",
+                    "clock_length": 3.093436952175233e-08,
+                    "authors": "Roetzer et al",
+                    "numdate": 2000.0027635119848,
+                    "raw_date": "2000-XX-XX"
+                   },
+                   "yvalue": 31,
+                   "clade": 82
+                  }
+                 ],
+                 "branch_length": 1.2228155066169792e-08,
+                 "xvalue": null,
+                 "strain": "NODE_0000106",
+                 "aa_muts": {},
+                 "muts": [],
+                 "attr": {
+                  "date": "1999-03-18",
+                  "div": 6.946220481853778e-07,
+                  "num_date": 1999.208950542486,
+                  "branch_length": 1.2228155066169792e-08,
+                  "mutation_length": 5.728180977485805e-19,
+                  "location": "hamburg",
+                  "clock_length": 1.2228155066169792e-08,
+                  "authors": null,
+                  "numdate": 1999.208950542486,
+                  "raw_date": null
+                 },
+                 "yvalue": 31.5,
+                 "clade": 83
+                },
+                {
+                 "tvalue": null,
+                 "children": [
+                  {
+                   "tvalue": null,
+                   "branch_length": 3.938866074554209e-07,
+                   "xvalue": null,
+                   "strain": "ERR553406",
+                   "aa_muts": {},
+                   "muts": [
+                    "G8270C"
+                   ],
+                   "attr": {
+                    "date": "2009-01-02",
+                    "div": 9.261624914098383e-07,
+                    "num_date": 2009.0027635119848,
+                    "branch_length": 3.938866074554209e-07,
+                    "mutation_length": 2.315404432244604e-07,
+                    "location": "kiel",
+                    "clock_length": 3.938866074554209e-07,
+                    "authors": "Roetzer et al",
+                    "numdate": 2009.0027635119848,
+                    "raw_date": "2009-XX-XX"
+                   },
+                   "yvalue": 30,
+                   "clade": 84
+                  },
+                  {
+                   "tvalue": null,
+                   "children": [
+                    {
+                     "tvalue": null,
+                     "branch_length": 1.9635732132345728e-07,
+                     "xvalue": null,
+                     "strain": "ERR553288",
+                     "aa_muts": {},
+                     "muts": [],
+                     "attr": {
+                      "date": "2007-01-02",
+                      "div": 6.946220481865235e-07,
+                      "num_date": 2007.0027635119848,
+                      "branch_length": 1.9635732132345728e-07,
+                      "mutation_length": 5.728180977485805e-19,
+                      "location": "kiel",
+                      "clock_length": 1.9635732132345728e-07,
+                      "authors": "Roetzer et al",
+                      "numdate": 2007.0027635119848,
+                      "raw_date": "2007-XX-XX"
+                     },
+                     "yvalue": 29,
+                     "clade": 85
+                    },
+                    {
+                     "tvalue": null,
+                     "branch_length": 1.184186362417909e-07,
+                     "xvalue": null,
+                     "strain": "ERR551216",
+                     "aa_muts": {},
+                     "muts": [],
+                     "attr": {
+                      "date": "2005-01-02",
+                      "div": 6.946220481865235e-07,
+                      "num_date": 2005.0027635119848,
+                      "branch_length": 1.184186362417909e-07,
+                      "mutation_length": 5.728180977485805e-19,
+                      "location": "hamburg",
+                      "clock_length": 1.184186362417909e-07,
+                      "authors": "Roetzer et al",
+                      "numdate": 2005.0027635119848,
+                      "raw_date": "2005-XX-XX"
+                     },
+                     "yvalue": 28,
+                     "clade": 86
+                    }
+                   ],
+                   "branch_length": 1.1959060105029722e-07,
+                   "xvalue": null,
+                   "strain": "NODE_0000108",
+                   "aa_muts": {},
+                   "muts": [],
+                   "attr": {
+                    "date": "2001-12-19",
+                    "div": 6.946220481859507e-07,
+                    "num_date": 2001.963999485681,
+                    "branch_length": 1.1959060105029722e-07,
+                    "mutation_length": 5.728180977485805e-19,
+                    "location": "kiel",
+                    "clock_length": 1.1959060105029722e-07,
+                    "authors": null,
+                    "numdate": 2001.963999485681,
+                    "raw_date": null
+                   },
+                   "yvalue": 28.5,
+                   "clade": 87
+                  }
+                 ],
+                 "branch_length": 0.0,
+                 "xvalue": null,
+                 "strain": "NODE_0000107",
+                 "aa_muts": {},
+                 "muts": [],
+                 "attr": {
+                  "date": "1998-11-23",
+                  "div": 6.946220481853778e-07,
+                  "num_date": 1998.8951614388243,
+                  "branch_length": 0.0,
+                  "mutation_length": 5.728180977485805e-19,
+                  "location": "kiel",
+                  "clock_length": 0.0,
+                  "authors": null,
+                  "numdate": 1998.8951614388243,
+                  "raw_date": null
+                 },
+                 "yvalue": 29.25,
+                 "clade": 88
+                }
+               ],
+               "branch_length": 5.79732414016674e-09,
+               "xvalue": null,
+               "strain": "NODE_0000105",
+               "aa_muts": {},
+               "muts": [],
+               "attr": {
+                "date": "1998-11-23",
+                "div": 6.94622048184805e-07,
+                "num_date": 1998.8951614388243,
+                "branch_length": 5.79732414016674e-09,
+                "mutation_length": 5.728180977485805e-19,
+                "location": "kiel",
+                "clock_length": 5.79732414016674e-09,
+                "authors": null,
+                "numdate": 1998.8951614388243,
+                "raw_date": null
+               },
+               "yvalue": 30.375,
+               "clade": 89
+              }
+             ],
+             "branch_length": 7.372838733944071e-08,
+             "xvalue": null,
+             "strain": "NODE_0000101",
+             "aa_muts": {},
+             "muts": [],
+             "attr": {
+              "date": "1998-09-30",
+              "div": 6.946220481842322e-07,
+              "num_date": 1998.7463951584054,
+              "branch_length": 7.372838733944071e-08,
+              "mutation_length": 5.728180977485805e-19,
+              "location": "hamburg",
+              "clock_length": 7.372838733944071e-08,
+              "authors": null,
+              "numdate": 1998.7463951584054,
+              "raw_date": null
+             },
+             "yvalue": 32.4375,
+             "clade": 90
+            }
+           ],
+           "branch_length": 1.3906754906440795e-08,
+           "xvalue": null,
+           "strain": "NODE_0000098",
+           "aa_muts": {},
+           "muts": [],
+           "attr": {
+            "date": "1996-11-08",
+            "div": 6.946220481836594e-07,
+            "num_date": 1996.8544364408012,
+            "branch_length": 1.3906754906440795e-08,
+            "mutation_length": 5.728180977485805e-19,
+            "location": "hamburg",
+            "clock_length": 1.3906754906440795e-08,
+            "authors": null,
+            "numdate": 1996.8544364408012,
+            "raw_date": null
+           },
+           "yvalue": 35.34375,
+           "clade": 91
+          },
+          {
+           "tvalue": null,
+           "children": [
+            {
+             "tvalue": null,
+             "children": [
+              {
+               "tvalue": null,
+               "children": [
+                {
+                 "tvalue": null,
+                 "branch_length": 8.184301777794088e-08,
+                 "xvalue": null,
+                 "strain": "ERR551577",
+                 "aa_muts": {},
+                 "muts": [
+                  "A54346G"
+                 ],
+                 "attr": {
+                  "date": "2000-01-01",
+                  "div": 9.261601313288634e-07,
+                  "num_date": 1999.9993411985008,
+                  "branch_length": 8.184301777794088e-08,
+                  "mutation_length": 2.3153808314405836e-07,
+                  "location": "hamburg",
+                  "clock_length": 8.184301777794088e-08,
+                  "authors": "Roetzer et al",
+                  "numdate": 1999.9993411985008,
+                  "raw_date": "1999-XX-XX"
+                 },
+                 "yvalue": 27,
+                 "clade": 92
+                },
+                {
+                 "tvalue": null,
+                 "children": [
+                  {
+                   "tvalue": null,
+                   "branch_length": 0.0,
+                   "xvalue": null,
+                   "strain": "ERR552616",
+                   "aa_muts": {},
+                   "muts": [],
+                   "attr": {
+                    "date": "1998-08-31",
+                    "div": 6.946220481859507e-07,
+                    "num_date": 1998.6630627224324,
+                    "branch_length": 0.0,
+                    "mutation_length": 5.728180977485805e-19,
+                    "location": "hamburg",
+                    "clock_length": 0.0,
+                    "authors": "Roetzer et al",
+                    "numdate": 1998.6630627224324,
+                    "raw_date": "1998-XX-XX"
+                   },
+                   "yvalue": 26,
+                   "clade": 93
+                  },
+                  {
+                   "tvalue": null,
+                   "branch_length": 2.0808462913361966e-07,
+                   "xvalue": null,
+                   "strain": "ERR551678",
+                   "aa_muts": {},
+                   "muts": [],
+                   "attr": {
+                    "date": "2004-01-02",
+                    "div": 6.946220481859507e-07,
+                    "num_date": 2004.0027635119848,
+                    "branch_length": 2.0808462913361966e-07,
+                    "mutation_length": 5.728180977485805e-19,
+                    "location": "hamburg",
+                    "clock_length": 2.0808462913361966e-07,
+                    "authors": "Roetzer et al",
+                    "numdate": 2004.0027635119848,
+                    "raw_date": "2004-XX-XX"
+                   },
+                   "yvalue": 25,
+                   "clade": 94
+                  }
+                 ],
+                 "branch_length": 2.9769124114092195e-08,
+                 "xvalue": null,
+                 "strain": "NODE_0000112",
+                 "aa_muts": {},
+                 "muts": [],
+                 "attr": {
+                  "date": "1998-08-31",
+                  "div": 6.946220481853778e-07,
+                  "num_date": 1998.6630627224324,
+                  "branch_length": 2.9769124114092195e-08,
+                  "mutation_length": 5.728180977485805e-19,
+                  "location": "hamburg",
+                  "clock_length": 2.9769124114092195e-08,
+                  "authors": null,
+                  "numdate": 1998.6630627224324,
+                  "raw_date": null
+                 },
+                 "yvalue": 25.5,
+                 "clade": 95
+                }
+               ],
+               "branch_length": 2.014703585440475e-08,
+               "xvalue": null,
+               "strain": "NODE_0000111",
+               "aa_muts": {},
+               "muts": [],
+               "attr": {
+                "date": "1997-11-25",
+                "div": 6.94622048184805e-07,
+                "num_date": 1997.8991513456135,
+                "branch_length": 2.014703585440475e-08,
+                "mutation_length": 5.728180977485805e-19,
+                "location": "hamburg",
+                "clock_length": 2.014703585440475e-08,
+                "authors": null,
+                "numdate": 1997.8991513456135,
+                "raw_date": null
+               },
+               "yvalue": 26.25,
+               "clade": 96
+              },
+              {
+               "tvalue": null,
+               "children": [
+                {
+                 "tvalue": null,
+                 "children": [
+                  {
+                   "tvalue": null,
+                   "branch_length": 4.630111045114481e-10,
+                   "xvalue": null,
+                   "strain": "ERR553010",
+                   "aa_muts": {},
+                   "muts": [],
+                   "attr": {
+                    "date": "1998-01-04",
+                    "div": 6.946220481859507e-07,
+                    "num_date": 1998.0092698641927,
+                    "branch_length": 4.630111045114481e-10,
+                    "mutation_length": 5.728180977485805e-19,
+                    "location": "hamburg",
+                    "clock_length": 4.630111045114481e-10,
+                    "authors": "Roetzer et al",
+                    "numdate": 1998.0092698641927,
+                    "raw_date": "1998-XX-XX"
+                   },
+                   "yvalue": 24,
+                   "clade": 97
+                  },
+                  {
+                   "tvalue": null,
+                   "branch_length": 4.630111045114481e-10,
+                   "xvalue": null,
+                   "strain": "ERR552184",
+                   "aa_muts": {},
+                   "muts": [],
+                   "attr": {
+                    "date": "1998-01-04",
+                    "div": 6.946220481859507e-07,
+                    "num_date": 1998.0092698641927,
+                    "branch_length": 4.630111045114481e-10,
+                    "mutation_length": 5.728180977485805e-19,
+                    "location": "hamburg",
+                    "clock_length": 4.630111045114481e-10,
+                    "authors": "Roetzer et al",
+                    "numdate": 1998.0092698641927,
+                    "raw_date": "1998-XX-XX"
+                   },
+                   "yvalue": 23,
+                   "clade": 98
+                  }
+                 ],
+                 "branch_length": 1.2892213669781455e-08,
+                 "xvalue": null,
+                 "strain": "NODE_0000114",
+                 "aa_muts": {},
+                 "muts": [],
+                 "attr": {
+                  "date": "1997-12-31",
+                  "div": 6.946220481853778e-07,
+                  "num_date": 1997.9973884447402,
+                  "branch_length": 1.2892213669781455e-08,
+                  "mutation_length": 5.728180977485805e-19,
+                  "location": "hamburg",
+                  "clock_length": 1.2892213669781455e-08,
+                  "authors": null,
+                  "numdate": 1997.9973884447402,
+                  "raw_date": null
+                 },
+                 "yvalue": 23.5,
+                 "clade": 99
+                },
+                {
+                 "tvalue": null,
+                 "children": [
+                  {
+                   "tvalue": null,
+                   "branch_length": 4.753518759916907e-07,
+                   "xvalue": null,
+                   "strain": "ERR553397",
+                   "aa_muts": {},
+                   "muts": [
+                    "A1165807C",
+                    "A1165816C",
+                    "A1345066C",
+                    "A1952896C",
+                    "A2309793C",
+                    "T3477231G"
+                   ],
+                   "attr": {
+                    "date": "2011-01-01",
+                    "div": 2.315395231162431e-06,
+                    "num_date": 2010.9993411985008,
+                    "branch_length": 4.753518759916907e-07,
+                    "mutation_length": 1.3892338724516829e-06,
+                    "location": "pinneberg",
+                    "clock_length": 4.753518759916907e-07,
+                    "authors": "Roetzer et al",
+                    "numdate": 2010.9993411985008,
+                    "raw_date": "2010-XX-XX"
+                   },
+                   "yvalue": 22,
+                   "clade": 100
+                  },
+                  {
+                   "tvalue": null,
+                   "branch_length": 3.196078711347962e-07,
+                   "xvalue": null,
+                   "strain": "ERR550816",
+                   "aa_muts": {},
+                   "muts": [],
+                   "attr": {
+                    "date": "2007-01-02",
+                    "div": 9.261613587113209e-07,
+                    "num_date": 2007.0027635119848,
+                    "branch_length": 3.196078711347962e-07,
+                    "mutation_length": 5.72862325334695e-19,
+                    "location": "kiel",
+                    "clock_length": 3.196078711347962e-07,
+                    "authors": "Roetzer et al",
+                    "numdate": 2007.0027635119848,
+                    "raw_date": "2007-XX-XX"
+                   },
+                   "yvalue": 21,
+                   "clade": 101
+                  },
+                  {
+                   "tvalue": null,
+                   "branch_length": 2.80638528593963e-07,
+                   "xvalue": null,
+                   "strain": "ERR551913",
+                   "aa_muts": {},
+                   "muts": [],
+                   "attr": {
+                    "date": "2006-01-02",
+                    "div": 9.261613587113209e-07,
+                    "num_date": 2006.0027635119848,
+                    "branch_length": 2.80638528593963e-07,
+                    "mutation_length": 5.72862325334695e-19,
+                    "location": "kiel",
+                    "clock_length": 2.80638528593963e-07,
+                    "authors": "Roetzer et al",
+                    "numdate": 2006.0027635119848,
+                    "raw_date": "2006-XX-XX"
+                   },
+                   "yvalue": 20,
+                   "clade": 102
+                  },
+                  {
+                   "tvalue": null,
+                   "branch_length": 2.80638528593963e-07,
+                   "xvalue": null,
+                   "strain": "ERR550671",
+                   "aa_muts": {},
+                   "muts": [],
+                   "attr": {
+                    "date": "2006-01-02",
+                    "div": 9.261613587113209e-07,
+                    "num_date": 2006.0027635119848,
+                    "branch_length": 2.80638528593963e-07,
+                    "mutation_length": 5.72862325334695e-19,
+                    "location": "kiel",
+                    "clock_length": 2.80638528593963e-07,
+                    "authors": "Roetzer et al",
+                    "numdate": 2006.0027635119848,
+                    "raw_date": "2006-XX-XX"
+                   },
+                   "yvalue": 19,
+                   "clade": 103
+                  },
+                  {
+                   "tvalue": null,
+                   "branch_length": 2.80638528593963e-07,
+                   "xvalue": null,
+                   "strain": "ERR550888",
+                   "aa_muts": {},
+                   "muts": [],
+                   "attr": {
+                    "date": "2006-01-02",
+                    "div": 9.261613587113209e-07,
+                    "num_date": 2006.0027635119848,
+                    "branch_length": 2.80638528593963e-07,
+                    "mutation_length": 5.72862325334695e-19,
+                    "location": "kiel",
+                    "clock_length": 2.80638528593963e-07,
+                    "authors": "Roetzer et al",
+                    "numdate": 2006.0027635119848,
+                    "raw_date": "2006-XX-XX"
+                   },
+                   "yvalue": 18,
+                   "clade": 104
+                  },
+                  {
+                   "tvalue": null,
+                   "branch_length": 3.585772136756294e-07,
+                   "xvalue": null,
+                   "strain": "ERR552623",
+                   "aa_muts": {},
+                   "muts": [
+                    "A3527550T"
+                   ],
+                   "attr": {
+                    "date": "2008-01-02",
+                    "div": 1.1577012249465383e-06,
+                    "num_date": 2008.0027635119848,
+                    "branch_length": 3.585772136756294e-07,
+                    "mutation_length": 2.315398662357903e-07,
+                    "location": "kiel",
+                    "clock_length": 3.585772136756294e-07,
+                    "authors": "Roetzer et al",
+                    "numdate": 2008.0027635119848,
+                    "raw_date": "2008-XX-XX"
+                   },
+                   "yvalue": 17,
+                   "clade": 105
+                  },
+                  {
+                   "tvalue": null,
+                   "branch_length": 4.7535187599169077e-07,
+                   "xvalue": null,
+                   "strain": "ERR553401",
+                   "aa_muts": {},
+                   "muts": [
+                    "A1233372C",
+                    "T2048800G",
+                    "A2767056C",
+                    "T3734495G",
+                    "A3747550C"
+                   ],
+                   "attr": {
+                    "date": "2011-01-01",
+                    "div": 2.083868480319096e-06,
+                    "num_date": 2010.9993411985008,
+                    "branch_length": 4.7535187599169077e-07,
+                    "mutation_length": 1.157707121608348e-06,
+                    "location": "pinneberg",
+                    "clock_length": 4.7535187599169077e-07,
+                    "authors": "Roetzer et al",
+                    "numdate": 2010.9993411985008,
+                    "raw_date": "2010-XX-XX"
+                   },
+                   "yvalue": 16,
+                   "clade": 106
+                  },
+                  {
+                   "tvalue": null,
+                   "branch_length": 4.597102342173852e-07,
+                   "xvalue": null,
+                   "strain": "ERR552864",
+                   "aa_muts": {},
+                   "muts": [
+                    "C288370T",
+                    "G3497080A"
+                   ],
+                   "attr": {
+                    "date": "2010-08-07",
+                    "div": 1.3892462448347478e-06,
+                    "num_date": 2010.5979579378538,
+                    "branch_length": 4.597102342173852e-07,
+                    "mutation_length": 4.630848861239997e-07,
+                    "location": "pinneberg",
+                    "clock_length": 4.597102342173852e-07,
+                    "authors": "Roetzer et al",
+                    "numdate": 2010.5979579378538,
+                    "raw_date": "2010-XX-XX"
+                   },
+                   "yvalue": 15,
+                   "clade": 107
+                  }
+                 ],
+                 "branch_length": 4.421788823911308e-08,
+                 "xvalue": null,
+                 "strain": "NODE_0000060",
+                 "aa_muts": {},
+                 "muts": [
+                  "G1431042A"
+                 ],
+                 "attr": {
+                  "date": "1998-10-20",
+                  "div": 9.26161358710748e-07,
+                  "num_date": 1998.801242770394,
+                  "branch_length": 4.421788823911308e-08,
+                  "mutation_length": 2.31539310525943e-07,
+                  "location": "kiel",
+                  "clock_length": 4.421788823911308e-08,
+                  "authors": null,
+                  "numdate": 1998.801242770394,
+                  "raw_date": null
+                 },
+                 "yvalue": 18.5,
+                 "clade": 108
+                }
+               ],
+               "branch_length": 1.1083057350706905e-08,
+               "xvalue": null,
+               "strain": "NODE_0000113",
+               "aa_muts": {},
+               "muts": [],
+               "attr": {
+                "date": "1997-09-01",
+                "div": 6.94622048184805e-07,
+                "num_date": 1997.6665588020212,
+                "branch_length": 1.1083057350706905e-08,
+                "mutation_length": 5.728180977485805e-19,
+                "location": "kiel",
+                "clock_length": 1.1083057350706905e-08,
+                "authors": null,
+                "numdate": 1997.6665588020212,
+                "raw_date": null
+               },
+               "yvalue": 21.0,
+               "clade": 109
+              }
+             ],
+             "branch_length": 0.0,
+             "xvalue": null,
+             "strain": "NODE_0000110",
+             "aa_muts": {},
+             "muts": [],
+             "attr": {
+              "date": "1997-05-20",
+              "div": 6.946220481842322e-07,
+              "num_date": 1997.3821542771284,
+              "branch_length": 0.0,
+              "mutation_length": 5.728180977485805e-19,
+              "location": "hamburg",
+              "clock_length": 0.0,
+              "authors": null,
+              "numdate": 1997.3821542771284,
+              "raw_date": null
+             },
+             "yvalue": 23.625,
+             "clade": 110
+            },
+            {
+             "tvalue": null,
+             "children": [
+              {
+               "tvalue": null,
+               "children": [
+                {
+                 "tvalue": null,
+                 "children": [
+                  {
+                   "tvalue": null,
+                   "branch_length": 2.0478763484648742e-09,
+                   "xvalue": null,
+                   "strain": "ERR552408",
+                   "aa_muts": {},
+                   "muts": [],
+                   "attr": {
+                    "date": "1999-01-02",
+                    "div": 6.946220481859507e-07,
+                    "num_date": 1999.0027635119848,
+                    "branch_length": 2.0478763484648742e-09,
+                    "mutation_length": 5.728180977485805e-19,
+                    "location": "hamburg",
+                    "clock_length": 2.0478763484648742e-09,
+                    "authors": "Roetzer et al",
+                    "numdate": 1999.0027635119848,
+                    "raw_date": "1999-XX-XX"
+                   },
+                   "yvalue": 14,
+                   "clade": 111
+                  },
+                  {
+                   "tvalue": null,
+                   "branch_length": 2.0478763484648742e-09,
+                   "xvalue": null,
+                   "strain": "ERR553007",
+                   "aa_muts": {},
+                   "muts": [],
+                   "attr": {
+                    "date": "1999-01-02",
+                    "div": 6.946220481859507e-07,
+                    "num_date": 1999.0027635119848,
+                    "branch_length": 2.0478763484648742e-09,
+                    "mutation_length": 5.728180977485805e-19,
+                    "location": "hamburg",
+                    "clock_length": 2.0478763484648742e-09,
+                    "authors": "Roetzer et al",
+                    "numdate": 1999.0027635119848,
+                    "raw_date": "1999-XX-XX"
+                   },
+                   "yvalue": 13,
+                   "clade": 112
+                  }
+                 ],
+                 "branch_length": 3.47241280748054e-09,
+                 "xvalue": null,
+                 "strain": "NODE_0000117",
+                 "aa_muts": {},
+                 "muts": [],
+                 "attr": {
+                  "date": "1998-12-14",
+                  "div": 6.946220481853778e-07,
+                  "num_date": 1998.9502125523086,
+                  "branch_length": 3.47241280748054e-09,
+                  "mutation_length": 5.728180977485805e-19,
+                  "location": "hamburg",
+                  "clock_length": 3.47241280748054e-09,
+                  "authors": null,
+                  "numdate": 1998.9502125523086,
+                  "raw_date": null
+                 },
+                 "yvalue": 13.5,
+                 "clade": 113
+                },
+                {
+                 "tvalue": null,
+                 "children": [
+                  {
+                   "tvalue": null,
+                   "children": [
+                    {
+                     "tvalue": null,
+                     "branch_length": 4.4583039345656046e-08,
+                     "xvalue": null,
+                     "strain": "ERR550937",
+                     "aa_muts": {},
+                     "muts": [],
+                     "attr": {
+                      "date": "2007-01-02",
+                      "div": 9.261626125934892e-07,
+                      "num_date": 2007.0027635119848,
+                      "branch_length": 4.4583039345656046e-08,
+                      "mutation_length": 5.734876027999966e-19,
+                      "location": "kiel",
+                      "clock_length": 4.4583039345656046e-08,
+                      "authors": "Roetzer et al",
+                      "numdate": 2007.0027635119848,
+                      "raw_date": "2007-XX-XX"
+                     },
+                     "yvalue": 12,
+                     "clade": 114
+                    },
+                    {
+                     "tvalue": null,
+                     "branch_length": 5.613696804822882e-09,
+                     "xvalue": null,
+                     "strain": "ERR553111",
+                     "aa_muts": {},
+                     "muts": [],
+                     "attr": {
+                      "date": "2006-01-02",
+                      "div": 9.261626125934892e-07,
+                      "num_date": 2006.0027635119848,
+                      "branch_length": 5.613696804822882e-09,
+                      "mutation_length": 5.734876027999966e-19,
+                      "location": "kiel",
+                      "clock_length": 5.613696804822882e-09,
+                      "authors": "Roetzer et al",
+                      "numdate": 2006.0027635119848,
+                      "raw_date": "2006-XX-XX"
+                     },
+                     "yvalue": 11,
+                     "clade": 115
+                    }
+                   ],
+                   "branch_length": 2.6883360891279724e-07,
+                   "xvalue": null,
+                   "strain": "NODE_0000014",
+                   "aa_muts": {},
+                   "muts": [
+                    "C2450784T"
+                   ],
+                   "attr": {
+                    "date": "2005-11-10",
+                    "div": 9.261626125929158e-07,
+                    "num_date": 2005.8587093289063,
+                    "branch_length": 2.6883360891279724e-07,
+                    "mutation_length": 2.3154056440753791e-07,
+                    "location": "kiel",
+                    "clock_length": 2.6883360891279724e-07,
+                    "authors": null,
+                    "numdate": 2005.8587093289063,
+                    "raw_date": null
+                   },
+                   "yvalue": 11.5,
+                   "clade": 116
+                  },
+                  {
+                   "tvalue": null,
+                   "children": [
+                    {
+                     "tvalue": null,
+                     "branch_length": 3.944701867548483e-08,
+                     "xvalue": null,
+                     "strain": "ERR552265",
+                     "aa_muts": {},
+                     "muts": [],
+                     "attr": {
+                      "date": "2003-01-02",
+                      "div": 6.946220481865235e-07,
+                      "num_date": 2003.0027635119848,
+                      "branch_length": 3.944701867548483e-08,
+                      "mutation_length": 5.728180977485805e-19,
+                      "location": "hamburg",
+                      "clock_length": 3.944701867548483e-08,
+                      "authors": "Roetzer et al",
+                      "numdate": 2003.0027635119848,
+                      "raw_date": "2003-XX-XX"
+                     },
+                     "yvalue": 10,
+                     "clade": 117
+                    },
+                    {
+                     "tvalue": null,
+                     "branch_length": 4.77676134651612e-10,
+                     "xvalue": null,
+                     "strain": "ERR551021",
+                     "aa_muts": {},
+                     "muts": [],
+                     "attr": {
+                      "date": "2002-01-02",
+                      "div": 6.946220481865235e-07,
+                      "num_date": 2002.0027635119848,
+                      "branch_length": 4.77676134651612e-10,
+                      "mutation_length": 5.728180977485805e-19,
+                      "location": "hamburg",
+                      "clock_length": 4.77676134651612e-10,
+                      "authors": "Roetzer et al",
+                      "numdate": 2002.0027635119848,
+                      "raw_date": "2002-XX-XX"
+                     },
+                     "yvalue": 9,
+                     "clade": 118
+                    }
+                   ],
+                   "branch_length": 1.1809225941963575e-07,
+                   "xvalue": null,
+                   "strain": "NODE_0000119",
+                   "aa_muts": {},
+                   "muts": [],
+                   "attr": {
+                    "date": "2001-12-28",
+                    "div": 6.946220481859507e-07,
+                    "num_date": 2001.9905057702958,
+                    "branch_length": 1.1809225941963575e-07,
+                    "mutation_length": 5.728180977485805e-19,
+                    "location": "hamburg",
+                    "clock_length": 1.1809225941963575e-07,
+                    "authors": null,
+                    "numdate": 2001.9905057702958,
+                    "raw_date": null
+                   },
+                   "yvalue": 9.5,
+                   "clade": 119
+                  }
+                 ],
+                 "branch_length": 3.858381224157621e-09,
+                 "xvalue": null,
+                 "strain": "NODE_0000118",
+                 "aa_muts": {},
+                 "muts": [],
+                 "attr": {
+                  "date": "1998-12-17",
+                  "div": 6.946220481853778e-07,
+                  "num_date": 1998.9601169641235,
+                  "branch_length": 3.858381224157621e-09,
+                  "mutation_length": 5.728180977485805e-19,
+                  "location": "kiel",
+                  "clock_length": 3.858381224157621e-09,
+                  "authors": null,
+                  "numdate": 1998.9601169641235,
+                  "raw_date": null
+                 },
+                 "yvalue": 10.5,
+                 "clade": 120
+                }
+               ],
+               "branch_length": 0.0,
+               "xvalue": null,
+               "strain": "NODE_0000116",
+               "aa_muts": {},
+               "muts": [],
+               "attr": {
+                "date": "1998-11-11",
+                "div": 6.94622048184805e-07,
+                "num_date": 1998.8611062810432,
+                "branch_length": 0.0,
+                "mutation_length": 5.728180977485805e-19,
+                "location": "hamburg",
+                "clock_length": 0.0,
+                "authors": null,
+                "numdate": 1998.8611062810432,
+                "raw_date": null
+               },
+               "yvalue": 12.0,
+               "clade": 121
+              },
+              {
+               "tvalue": null,
+               "children": [
+                {
+                 "tvalue": null,
+                 "children": [
+                  {
+                   "tvalue": null,
+                   "branch_length": 2.2379531830721818e-07,
+                   "xvalue": null,
+                   "strain": "ERR550641",
+                   "aa_muts": {},
+                   "muts": [
+                    "T1728564G"
+                   ],
+                   "attr": {
+                    "date": "2004-08-08",
+                    "div": 9.261653195036938e-07,
+                    "num_date": 2004.6039621702007,
+                    "branch_length": 2.2379531830721818e-07,
+                    "mutation_length": 2.315432713183159e-07,
+                    "location": "hamburg",
+                    "clock_length": 2.2379531830721818e-07,
+                    "authors": "Roetzer et al",
+                    "numdate": 2004.6039621702007,
+                    "raw_date": "2004-XX-XX"
+                   },
+                   "yvalue": 8,
+                   "clade": 122
+                  },
+                  {
+                   "tvalue": null,
+                   "children": [
+                    {
+                     "tvalue": null,
+                     "branch_length": 4.492735017386938e-08,
+                     "xvalue": null,
+                     "strain": "ERR553177",
+                     "aa_muts": {},
+                     "muts": [],
+                     "attr": {
+                      "date": "2001-01-02",
+                      "div": 6.946220481865235e-07,
+                      "num_date": 2001.0027635119848,
+                      "branch_length": 4.492735017386938e-08,
+                      "mutation_length": 5.728180977485805e-19,
+                      "location": "hamburg",
+                      "clock_length": 4.492735017386938e-08,
+                      "authors": "Roetzer et al",
+                      "numdate": 2001.0027635119848,
+                      "raw_date": "2001-XX-XX"
+                     },
+                     "yvalue": 7,
+                     "clade": 123
+                    },
+                    {
+                     "tvalue": null,
+                     "branch_length": 8.38966927147026e-08,
+                     "xvalue": null,
+                     "strain": "ERR552262",
+                     "aa_muts": {},
+                     "muts": [],
+                     "attr": {
+                      "date": "2002-01-02",
+                      "div": 6.946220481865235e-07,
+                      "num_date": 2002.0027635119848,
+                      "branch_length": 8.38966927147026e-08,
+                      "mutation_length": 5.728180977485805e-19,
+                      "location": "hamburg",
+                      "clock_length": 8.38966927147026e-08,
+                      "authors": "Roetzer et al",
+                      "numdate": 2002.0027635119848,
+                      "raw_date": "2002-XX-XX"
+                     },
+                     "yvalue": 6,
+                     "clade": 124
+                    }
+                   ],
+                   "branch_length": 3.853162406374238e-08,
+                   "xvalue": null,
+                   "strain": "NODE_0000122",
+                   "aa_muts": {},
+                   "muts": [],
+                   "attr": {
+                    "date": "1999-11-07",
+                    "div": 6.946220481859507e-07,
+                    "num_date": 1999.8498739007014,
+                    "branch_length": 3.853162406374238e-08,
+                    "mutation_length": 5.728180977485805e-19,
+                    "location": "hamburg",
+                    "clock_length": 3.853162406374238e-08,
+                    "authors": null,
+                    "numdate": 1999.8498739007014,
+                    "raw_date": null
+                   },
+                   "yvalue": 6.5,
+                   "clade": 125
+                  }
+                 ],
+                 "branch_length": 0.0,
+                 "xvalue": null,
+                 "strain": "NODE_0000121",
+                 "aa_muts": {},
+                 "muts": [],
+                 "attr": {
+                  "date": "1998-11-11",
+                  "div": 6.946220481853778e-07,
+                  "num_date": 1998.8611062810432,
+                  "branch_length": 0.0,
+                  "mutation_length": 5.728180977485805e-19,
+                  "location": "hamburg",
+                  "clock_length": 0.0,
+                  "authors": null,
+                  "numdate": 1998.8611062810432,
+                  "raw_date": null
+                 },
+                 "yvalue": 7.25,
+                 "clade": 126
+                },
+                {
+                 "tvalue": null,
+                 "children": [
+                  {
+                   "tvalue": null,
+                   "children": [
+                    {
+                     "tvalue": null,
+                     "branch_length": 2.8334433523616014e-07,
+                     "xvalue": null,
+                     "strain": "ERR552236",
+                     "aa_muts": {},
+                     "muts": [
+                      "C1037848T",
+                      "C1627201T"
+                     ],
+                     "attr": {
+                      "date": "2010-01-01",
+                      "div": 1.3892452288337158e-06,
+                      "num_date": 2009.9993411985008,
+                      "branch_length": 2.8334433523616014e-07,
+                      "mutation_length": 4.630826162408e-07,
+                      "location": "kiel",
+                      "clock_length": 2.8334433523616014e-07,
+                      "authors": "Roetzer et al",
+                      "numdate": 2009.9993411985008,
+                      "raw_date": "2009-XX-XX"
+                     },
+                     "yvalue": 5,
+                     "clade": 127
+                    },
+                    {
+                     "tvalue": null,
+                     "branch_length": 2.445083580017652e-07,
+                     "xvalue": null,
+                     "strain": "ERR552026",
+                     "aa_muts": {},
+                     "muts": [],
+                     "attr": {
+                      "date": "2009-01-02",
+                      "div": 9.261626125934892e-07,
+                      "num_date": 2009.0027635119848,
+                      "branch_length": 2.445083580017652e-07,
+                      "mutation_length": 5.734876027999966e-19,
+                      "location": "hamburg",
+                      "clock_length": 2.445083580017652e-07,
+                      "authors": "Roetzer et al",
+                      "numdate": 2009.0027635119848,
+                      "raw_date": "2009-XX-XX"
+                     },
+                     "yvalue": 4,
+                     "clade": 128
+                    }
+                   ],
+                   "branch_length": 1.4789499780628574e-07,
+                   "xvalue": null,
+                   "strain": "NODE_0000059",
+                   "aa_muts": {},
+                   "muts": [
+                    "C2130537T"
+                   ],
+                   "attr": {
+                    "date": "2002-09-24",
+                    "div": 9.261626125929158e-07,
+                    "num_date": 2002.7283862179474,
+                    "branch_length": 1.4789499780628574e-07,
+                    "mutation_length": 2.3154056440753791e-07,
+                    "location": "kiel",
+                    "clock_length": 1.4789499780628574e-07,
+                    "authors": null,
+                    "numdate": 2002.7283862179474,
+                    "raw_date": null
+                   },
+                   "yvalue": 4.5,
+                   "clade": 129
+                  },
+                  {
+                   "tvalue": null,
+                   "children": [
+                    {
+                     "tvalue": null,
+                     "branch_length": 2.376453501420385e-07,
+                     "xvalue": null,
+                     "strain": "ERR550703",
+                     "aa_muts": {},
+                     "muts": [],
+                     "attr": {
+                      "date": "2008-01-02",
+                      "div": 6.946220481865235e-07,
+                      "num_date": 2008.0027635119848,
+                      "branch_length": 2.376453501420385e-07,
+                      "mutation_length": 5.728180977485805e-19,
+                      "location": "hamburg",
+                      "clock_length": 2.376453501420385e-07,
+                      "authors": "Roetzer et al",
+                      "numdate": 2008.0027635119848,
+                      "raw_date": "2008-XX-XX"
+                     },
+                     "yvalue": 3,
+                     "clade": 130
+                    },
+                    {
+                     "tvalue": null,
+                     "children": [
+                      {
+                       "tvalue": null,
+                       "branch_length": 5.613696804822882e-09,
+                       "xvalue": null,
+                       "strain": "ERR553035",
+                       "aa_muts": {},
+                       "muts": [],
+                       "attr": {
+                        "date": "2006-01-02",
+                        "div": 6.946220481870963e-07,
+                        "num_date": 2006.0027635119848,
+                        "branch_length": 5.613696804822882e-09,
+                        "mutation_length": 5.728180977485805e-19,
+                        "location": "kiel",
+                        "clock_length": 5.613696804822882e-09,
+                        "authors": "Roetzer et al",
+                        "numdate": 2006.0027635119848,
+                        "raw_date": "2006-XX-XX"
+                       },
+                       "yvalue": 2,
+                       "clade": 131
+                      },
+                      {
+                       "tvalue": null,
+                       "branch_length": 5.613696804822882e-09,
+                       "xvalue": null,
+                       "strain": "ERR551506",
+                       "aa_muts": {},
+                       "muts": [],
+                       "attr": {
+                        "date": "2006-01-02",
+                        "div": 6.946220481870963e-07,
+                        "num_date": 2006.0027635119848,
+                        "branch_length": 5.613696804822882e-09,
+                        "mutation_length": 5.728180977485805e-19,
+                        "location": "hamburg",
+                        "clock_length": 5.613696804822882e-09,
+                        "authors": "Roetzer et al",
+                        "numdate": 2006.0027635119848,
+                        "raw_date": "2006-XX-XX"
+                       },
+                       "yvalue": 1,
+                       "clade": 132
+                      }
+                     ],
+                     "branch_length": 1.5409296825554925e-07,
+                     "xvalue": null,
+                     "strain": "NODE_0000125",
+                     "aa_muts": {},
+                     "muts": [],
+                     "attr": {
+                      "date": "2005-11-10",
+                      "div": 6.946220481865235e-07,
+                      "num_date": 2005.8587093289063,
+                      "branch_length": 1.5409296825554925e-07,
+                      "mutation_length": 5.728180977485805e-19,
+                      "location": "kiel",
+                      "clock_length": 1.5409296825554925e-07,
+                      "authors": null,
+                      "numdate": 2005.8587093289063,
+                      "raw_date": null
+                     },
+                     "yvalue": 1.5,
+                     "clade": 133
+                    }
+                   ],
+                   "branch_length": 1.1578866312517927e-07,
+                   "xvalue": null,
+                   "strain": "NODE_0000124",
+                   "aa_muts": {},
+                   "muts": [],
+                   "attr": {
+                    "date": "2001-11-27",
+                    "div": 6.946220481859507e-07,
+                    "num_date": 2001.9044992188926,
+                    "branch_length": 1.1578866312517927e-07,
+                    "mutation_length": 5.728180977485805e-19,
+                    "location": "kiel",
+                    "clock_length": 1.1578866312517927e-07,
+                    "authors": null,
+                    "numdate": 2001.9044992188926,
+                    "raw_date": null
+                   },
+                   "yvalue": 2.25,
+                   "clade": 134
+                  }
+                 ],
+                 "branch_length": 2.8103587562262888e-09,
+                 "xvalue": null,
+                 "strain": "NODE_0000123",
+                 "aa_muts": {},
+                 "muts": [],
+                 "attr": {
+                  "date": "1998-12-07",
+                  "div": 6.946220481853778e-07,
+                  "num_date": 1998.9332234524654,
+                  "branch_length": 2.8103587562262888e-09,
+                  "mutation_length": 5.728180977485805e-19,
+                  "location": "kiel",
+                  "clock_length": 2.8103587562262888e-09,
+                  "authors": null,
+                  "numdate": 1998.9332234524654,
+                  "raw_date": null
+                 },
+                 "yvalue": 3.375,
+                 "clade": 135
+                }
+               ],
+               "branch_length": 0.0,
+               "xvalue": null,
+               "strain": "NODE_0000120",
+               "aa_muts": {},
+               "muts": [],
+               "attr": {
+                "date": "1998-11-11",
+                "div": 6.94622048184805e-07,
+                "num_date": 1998.8611062810432,
+                "branch_length": 0.0,
+                "mutation_length": 5.728180977485805e-19,
+                "location": "hamburg",
+                "clock_length": 0.0,
+                "authors": null,
+                "numdate": 1998.8611062810432,
+                "raw_date": null
+               },
+               "yvalue": 5.3125,
+               "clade": 136
+              }
+             ],
+             "branch_length": 5.76337872420053e-08,
+             "xvalue": null,
+             "strain": "NODE_0000115",
+             "aa_muts": {},
+             "muts": [],
+             "attr": {
+              "date": "1998-11-11",
+              "div": 6.946220481842322e-07,
+              "num_date": 1998.8611062810432,
+              "branch_length": 5.76337872420053e-08,
+              "mutation_length": 5.728180977485805e-19,
+              "location": "hamburg",
+              "clock_length": 5.76337872420053e-08,
+              "authors": null,
+              "numdate": 1998.8611062810432,
+              "raw_date": null
+             },
+             "yvalue": 8.65625,
+             "clade": 137
+            }
+           ],
+           "branch_length": 3.4471572035186545e-08,
+           "xvalue": null,
+           "strain": "NODE_0000109",
+           "aa_muts": {},
+           "muts": [],
+           "attr": {
+            "date": "1997-05-20",
+            "div": 6.946220481836594e-07,
+            "num_date": 1997.3821542771284,
+            "branch_length": 3.4471572035186545e-08,
+            "mutation_length": 5.728180977485805e-19,
+            "location": "hamburg",
+            "clock_length": 3.4471572035186545e-08,
+            "authors": null,
+            "numdate": 1997.3821542771284,
+            "raw_date": null
+           },
+           "yvalue": 16.140625,
+           "clade": 138
+          }
+         ],
+         "branch_length": 7.37344858083106e-08,
+         "xvalue": null,
+         "strain": "NODE_0000097",
+         "aa_muts": {},
+         "muts": [],
+         "attr": {
+          "date": "1996-06-30",
+          "div": 6.946220481830866e-07,
+          "num_date": 1996.497572454916,
+          "branch_length": 7.37344858083106e-08,
+          "mutation_length": 5.728180977485805e-19,
+          "location": "hamburg",
+          "clock_length": 7.37344858083106e-08,
+          "authors": null,
+          "numdate": 1996.497572454916,
+          "raw_date": null
+         },
+         "yvalue": 25.7421875,
+         "clade": 139
+        }
+       ],
+       "branch_length": 2.4863300873887206e-08,
+       "xvalue": null,
+       "strain": "NODE_0000000",
+       "aa_muts": {},
+       "muts": [
+        "G3526866C"
+       ],
+       "attr": {
+        "date": "1994-08-10",
+        "div": 6.946220481825138e-07,
+        "num_date": 1994.605457243297,
+        "branch_length": 2.4863300873887206e-08,
+        "mutation_length": 2.3153476357969027e-07,
+        "location": "hamburg",
+        "clock_length": 2.4863300873887206e-08,
+        "authors": null,
+        "numdate": 1994.605457243297,
+        "raw_date": null
+       },
+       "yvalue": 48.37109375,
+       "clade": 140
+      }
+     ],
+     "branch_length": 2.206954398114522e-07,
+     "xvalue": null,
+     "strain": "NODE_0000070",
+     "aa_muts": {},
+     "muts": [
+      "C1621106G",
+      "G1623057T"
+     ],
+     "attr": {
+      "date": "1993-12-20",
+      "div": 4.630872846028235e-07,
+      "num_date": 1993.967435166126,
+      "branch_length": 2.206954398114522e-07,
+      "mutation_length": 4.630872846022504e-07,
+      "location": "hamburg",
+      "clock_length": 2.206954398114522e-07,
+      "authors": null,
+      "numdate": 1993.967435166126,
+      "raw_date": null
+     },
+     "yvalue": 60.185546875,
+     "clade": 141
+    }
+   ],
+   "branch_length": 2.314055895736724e-09,
+   "xvalue": null,
+   "strain": "NODE_0000071",
+   "aa_muts": {},
+   "muts": [],
+   "attr": {
+    "date": "1988-04-21",
+    "div": 5.730773464980385e-19,
+    "num_date": 1988.3041258716414,
+    "branch_length": 2.314055895736724e-09,
+    "mutation_length": 5.730773464980385e-19,
+    "location": "hamburg",
+    "clock_length": 2.314055895736724e-09,
+    "authors": null,
+    "numdate": 1988.3041258716414,
+    "raw_date": null
+   },
+   "yvalue": 66.5927734375,
+   "clade": 142
+  }
+ ],
+ "branch_length": 2.2618309023551766e-07,
+ "xvalue": null,
+ "strain": "NODE_0000084",
+ "aa_muts": {},
+ "muts": [],
+ "attr": {
+  "date": "1988-03-30",
+  "div": 0,
+  "num_date": 1988.2447444260008,
+  "branch_length": 2.2618309023551766e-07,
+  "mutation_length": 2.2618309023551766e-07,
+  "location": "hamburg",
+  "clock_length": 2.2618309023551766e-07,
+  "authors": null,
+  "numdate": 1988.2447444260008,
+  "raw_date": null
+ },
+ "yvalue": 73.85888671875,
+ "clade": 143
+}
