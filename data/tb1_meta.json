@@ -1,7 +1,7 @@
 {
  "maintainer": [
-  "Emma Hodcroft",
-  "https://neherlab.org/emma-hodcroft.html"
+  "Idowu Olawoye",
+  "https://github.com/idolawoye"
  ],
  "color_options": {
   "num_date": {
@@ -34,8 +34,7 @@
    "menuItem": "genotype",
    "type": "discrete",
    "key": "genotype"
-  },
-  "cluster": {}
+  }
  },
  "virus_count": 86,
  "filters": [
