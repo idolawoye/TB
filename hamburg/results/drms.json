@@ -1,0 +1,448 @@
+{
+ "nodes": {
+  "ERR550641": {
+   "Drug_resistance": "0"
+  },
+  "ERR550671": {
+   "Drug_resistance": "0"
+  },
+  "ERR550691": {
+   "Drug_resistance": "0"
+  },
+  "ERR550703": {
+   "Drug_resistance": "0"
+  },
+  "ERR550799": {
+   "Drug_resistance": "0"
+  },
+  "ERR550804": {
+   "Drug_resistance": "0"
+  },
+  "ERR550816": {
+   "Drug_resistance": "0"
+  },
+  "ERR550870": {
+   "Drug_resistance": "0"
+  },
+  "ERR550888": {
+   "Drug_resistance": "0"
+  },
+  "ERR550917": {
+   "Drug_resistance": "0"
+  },
+  "ERR550937": {
+   "Drug_resistance": "0"
+  },
+  "ERR550970": {
+   "Drug_resistance": "0"
+  },
+  "ERR550982": {
+   "Drug_resistance": "0"
+  },
+  "ERR551021": {
+   "Drug_resistance": "0"
+  },
+  "ERR551049": {
+   "Drug_resistance": "0"
+  },
+  "ERR551088": {
+   "Drug_resistance": "0"
+  },
+  "ERR551209": {
+   "Drug_resistance": "0"
+  },
+  "ERR551216": {
+   "Drug_resistance": "0"
+  },
+  "ERR551218": {
+   "Drug_resistance": "0"
+  },
+  "ERR551325": {
+   "Drug_resistance": "0"
+  },
+  "ERR551341": {
+   "Drug_resistance": "0"
+  },
+  "ERR551425": {
+   "Drug_resistance": "0"
+  },
+  "ERR551506": {
+   "Drug_resistance": "0"
+  },
+  "ERR551517": {
+   "Drug_resistance": "0"
+  },
+  "ERR551577": {
+   "Drug_resistance": "0"
+  },
+  "ERR551678": {
+   "Drug_resistance": "0"
+  },
+  "ERR551702": {
+   "Drug_resistance": "0"
+  },
+  "ERR551764": {
+   "Drug_resistance": "0"
+  },
+  "ERR551885": {
+   "Drug_resistance": "0"
+  },
+  "ERR551903": {
+   "Drug_resistance": "0"
+  },
+  "ERR551913": {
+   "Drug_resistance": "0"
+  },
+  "ERR552026": {
+   "Drug_resistance": "0"
+  },
+  "ERR552184": {
+   "Drug_resistance": "0"
+  },
+  "ERR552236": {
+   "Drug_resistance": "0"
+  },
+  "ERR552243": {
+   "Drug_resistance": "0"
+  },
+  "ERR552262": {
+   "Drug_resistance": "0"
+  },
+  "ERR552265": {
+   "Drug_resistance": "0"
+  },
+  "ERR552275": {
+   "Drug_resistance": "0"
+  },
+  "ERR552339": {
+   "Drug_resistance": "0"
+  },
+  "ERR552360": {
+   "Drug_resistance": "0"
+  },
+  "ERR552368": {
+   "Drug_resistance": "0"
+  },
+  "ERR552380": {
+   "Drug_resistance": "0"
+  },
+  "ERR552408": {
+   "Drug_resistance": "0"
+  },
+  "ERR552414": {
+   "Drug_resistance": "0"
+  },
+  "ERR552616": {
+   "Drug_resistance": "0"
+  },
+  "ERR552623": {
+   "Drug_resistance": "0"
+  },
+  "ERR552627": {
+   "Drug_resistance": "0"
+  },
+  "ERR552629": {
+   "Drug_resistance": "0"
+  },
+  "ERR552633": {
+   "Drug_resistance": "0"
+  },
+  "ERR552650": {
+   "Drug_resistance": "0"
+  },
+  "ERR552714": {
+   "Drug_resistance": "0"
+  },
+  "ERR552735": {
+   "Drug_resistance": "0"
+  },
+  "ERR552817": {
+   "Drug_resistance": "0"
+  },
+  "ERR552854": {
+   "Drug_resistance": "0"
+  },
+  "ERR552864": {
+   "Drug_resistance": "0"
+  },
+  "ERR552867": {
+   "Drug_resistance": "0"
+  },
+  "ERR552890": {
+   "Drug_resistance": "0"
+  },
+  "ERR552967": {
+   "Drug_resistance": "0"
+  },
+  "ERR553007": {
+   "Drug_resistance": "0"
+  },
+  "ERR553010": {
+   "Drug_resistance": "0"
+  },
+  "ERR553035": {
+   "Drug_resistance": "0"
+  },
+  "ERR553080": {
+   "Drug_resistance": "0"
+  },
+  "ERR553111": {
+   "Drug_resistance": "0"
+  },
+  "ERR553115": {
+   "Drug_resistance": "0"
+  },
+  "ERR553177": {
+   "Drug_resistance": "0"
+  },
+  "ERR553279": {
+   "Drug_resistance": "0"
+  },
+  "ERR553288": {
+   "Drug_resistance": "0"
+  },
+  "ERR553305": {
+   "Drug_resistance": "0"
+  },
+  "ERR553326": {
+   "Drug_resistance": "0"
+  },
+  "ERR553395": {
+   "Drug_resistance": "0"
+  },
+  "ERR553396": {
+   "Drug_resistance": "0"
+  },
+  "ERR553397": {
+   "Drug_resistance": "0"
+  },
+  "ERR553398": {
+   "Drug_resistance": "0"
+  },
+  "ERR553399": {
+   "Drug_resistance": "0"
+  },
+  "ERR553400": {
+   "Drug_resistance": "0"
+  },
+  "ERR553401": {
+   "Drug_resistance": "0"
+  },
+  "ERR553402": {
+   "Drug_resistance": "0"
+  },
+  "ERR553403": {
+   "Drug_resistance": "0"
+  },
+  "ERR553404": {
+   "Drug_resistance": "0"
+  },
+  "ERR553405": {
+   "Drug_resistance": "0"
+  },
+  "ERR553406": {
+   "Drug_resistance": "0"
+  },
+  "ERR553407": {
+   "Drug_resistance": "0"
+  },
+  "ERR553408": {
+   "Drug_resistance": "0"
+  },
+  "ERR553409": {
+   "Drug_resistance": "0"
+  },
+  "ERR553410": {
+   "Drug_resistance": "0"
+  },
+  "ERR553411": {
+   "Drug_resistance": "0"
+  },
+  "NODE_0000000": {
+   "Drug_resistance": "0"
+  },
+  "NODE_0000036": {
+   "Drug_resistance": "0"
+  },
+  "NODE_0000037": {
+   "Drug_resistance": "0"
+  },
+  "NODE_0000038": {
+   "Drug_resistance": "0"
+  },
+  "NODE_0000045": {
+   "Drug_resistance": "0"
+  },
+  "NODE_0000046": {
+   "Drug_resistance": "0"
+  },
+  "NODE_0000049": {
+   "Drug_resistance": "0"
+  },
+  "NODE_0000052": {
+   "Drug_resistance": "0"
+  },
+  "NODE_0000053": {
+   "Drug_resistance": "0"
+  },
+  "NODE_0000062": {
+   "Drug_resistance": "0"
+  },
+  "NODE_0000064": {
+   "Drug_resistance": "0"
+  },
+  "NODE_0000065": {
+   "Drug_resistance": "0"
+  },
+  "NODE_0000066": {
+   "Drug_resistance": "0"
+  },
+  "NODE_0000068": {
+   "Drug_resistance": "0"
+  },
+  "NODE_0000070": {
+   "Drug_resistance": "0"
+  },
+  "NODE_0000085": {
+   "Drug_resistance": "0"
+  },
+  "NODE_0000086": {
+   "Drug_resistance": "0"
+  },
+  "NODE_0000087": {
+   "Drug_resistance": "0"
+  },
+  "NODE_0000088": {
+   "Drug_resistance": "0"
+  },
+  "NODE_0000089": {
+   "Drug_resistance": "0"
+  },
+  "NODE_0000090": {
+   "Drug_resistance": "0"
+  },
+  "NODE_0000091": {
+   "Drug_resistance": "0"
+  },
+  "NODE_0000092": {
+   "Drug_resistance": "0"
+  },
+  "NODE_0000093": {
+   "Drug_resistance": "0"
+  },
+  "NODE_0000094": {
+   "Drug_resistance": "0"
+  },
+  "NODE_0000095": {
+   "Drug_resistance": "0"
+  },
+  "NODE_0000096": {
+   "Drug_resistance": "0"
+  },
+  "NODE_0000097": {
+   "Drug_resistance": "0"
+  },
+  "NODE_0000098": {
+   "Drug_resistance": "0"
+  },
+  "NODE_0000099": {
+   "Drug_resistance": "0"
+  },
+  "NODE_0000100": {
+   "Drug_resistance": "0"
+  },
+  "NODE_0000101": {
+   "Drug_resistance": "0"
+  },
+  "NODE_0000102": {
+   "Drug_resistance": "0"
+  },
+  "NODE_0000103": {
+   "Drug_resistance": "0"
+  },
+  "NODE_0000104": {
+   "Drug_resistance": "0"
+  },
+  "NODE_0000105": {
+   "Drug_resistance": "0"
+  },
+  "NODE_0000106": {
+   "Drug_resistance": "0"
+  },
+  "NODE_0000107": {
+   "Drug_resistance": "0"
+  },
+  "NODE_0000108": {
+   "Drug_resistance": "0"
+  },
+  "NODE_0000109": {
+   "Drug_resistance": "0"
+  },
+  "NODE_0000110": {
+   "Drug_resistance": "0"
+  },
+  "NODE_0000111": {
+   "Drug_resistance": "0"
+  },
+  "NODE_0000112": {
+   "Drug_resistance": "0"
+  },
+  "NODE_0000113": {
+   "Drug_resistance": "0"
+  },
+  "NODE_0000114": {
+   "Drug_resistance": "0"
+  },
+  "NODE_0000115": {
+   "Drug_resistance": "0"
+  },
+  "NODE_0000116": {
+   "Drug_resistance": "0"
+  },
+  "NODE_0000117": {
+   "Drug_resistance": "0"
+  },
+  "NODE_0000118": {
+   "Drug_resistance": "0"
+  },
+  "NODE_0000119": {
+   "Drug_resistance": "0"
+  },
+  "NODE_0000120": {
+   "Drug_resistance": "0"
+  },
+  "NODE_0000121": {
+   "Drug_resistance": "0"
+  },
+  "NODE_0000122": {
+   "Drug_resistance": "0"
+  },
+  "NODE_0000123": {
+   "Drug_resistance": "0"
+  },
+  "NODE_0000124": {
+   "Drug_resistance": "0"
+  },
+  "NODE_0000125": {
+   "Drug_resistance": "0"
+  },
+  "NODE_0000126": {
+   "Drug_resistance": "0"
+  },
+  "NODE_0000127": {
+   "Drug_resistance": "0"
+  },
+  "NODE_0000128": {
+   "Drug_resistance": "0"
+  },
+  "NODE_0000129": {
+   "Drug_resistance": "0"
+  },
+  "NODE_0000130": {
+   "Drug_resistance": "0"
+  },
+  "NODE_0000131": {
+   "Drug_resistance": "0"
+  }
+ }
+}

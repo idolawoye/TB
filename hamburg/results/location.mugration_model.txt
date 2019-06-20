@@ -1,0 +1,25 @@
+Map from character to field name
+A:	hamburg
+B:	kiel
+C:	pinneberg
+D:	?
+
+
+Substitution rate (mu): 112.587681
+
+Equilibrium frequencies (pi_i):
+  A: 0.5726
+  B: 0.2785
+  C: 0.1489
+
+Symmetrized rates from j->i (W_ij):
+	A	B	C
+  A	0	2.1537	1.303
+  B	2.1537	0	1.0959
+  C	1.303	1.0959	0
+
+Actual rates from j->i (Q_ij):
+	A	B	C
+  A	0	1.2332	0.7461
+  B	0.5999	0	0.3052
+  C	0.194	0.1631	0

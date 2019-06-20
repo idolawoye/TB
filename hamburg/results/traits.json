@@ -1,0 +1,448 @@
+{
+ "nodes": {
+  "ERR550641": {
+   "location": "hamburg"
+  },
+  "ERR550671": {
+   "location": "kiel"
+  },
+  "ERR550691": {
+   "location": "hamburg"
+  },
+  "ERR550703": {
+   "location": "hamburg"
+  },
+  "ERR550799": {
+   "location": "hamburg"
+  },
+  "ERR550804": {
+   "location": "hamburg"
+  },
+  "ERR550816": {
+   "location": "kiel"
+  },
+  "ERR550870": {
+   "location": "hamburg"
+  },
+  "ERR550888": {
+   "location": "kiel"
+  },
+  "ERR550917": {
+   "location": "hamburg"
+  },
+  "ERR550937": {
+   "location": "kiel"
+  },
+  "ERR550970": {
+   "location": "hamburg"
+  },
+  "ERR550982": {
+   "location": "hamburg"
+  },
+  "ERR551021": {
+   "location": "hamburg"
+  },
+  "ERR551049": {
+   "location": "hamburg"
+  },
+  "ERR551088": {
+   "location": "hamburg"
+  },
+  "ERR551209": {
+   "location": "hamburg"
+  },
+  "ERR551216": {
+   "location": "hamburg"
+  },
+  "ERR551218": {
+   "location": "hamburg"
+  },
+  "ERR551325": {
+   "location": "hamburg"
+  },
+  "ERR551341": {
+   "location": "hamburg"
+  },
+  "ERR551425": {
+   "location": "hamburg"
+  },
+  "ERR551506": {
+   "location": "hamburg"
+  },
+  "ERR551517": {
+   "location": "hamburg"
+  },
+  "ERR551577": {
+   "location": "hamburg"
+  },
+  "ERR551678": {
+   "location": "hamburg"
+  },
+  "ERR551702": {
+   "location": "hamburg"
+  },
+  "ERR551764": {
+   "location": "hamburg"
+  },
+  "ERR551885": {
+   "location": "hamburg"
+  },
+  "ERR551903": {
+   "location": "hamburg"
+  },
+  "ERR551913": {
+   "location": "kiel"
+  },
+  "ERR552026": {
+   "location": "hamburg"
+  },
+  "ERR552184": {
+   "location": "hamburg"
+  },
+  "ERR552236": {
+   "location": "kiel"
+  },
+  "ERR552243": {
+   "location": "hamburg"
+  },
+  "ERR552262": {
+   "location": "hamburg"
+  },
+  "ERR552265": {
+   "location": "hamburg"
+  },
+  "ERR552275": {
+   "location": "kiel"
+  },
+  "ERR552339": {
+   "location": "hamburg"
+  },
+  "ERR552360": {
+   "location": "hamburg"
+  },
+  "ERR552368": {
+   "location": "hamburg"
+  },
+  "ERR552380": {
+   "location": "hamburg"
+  },
+  "ERR552408": {
+   "location": "hamburg"
+  },
+  "ERR552414": {
+   "location": "hamburg"
+  },
+  "ERR552616": {
+   "location": "hamburg"
+  },
+  "ERR552623": {
+   "location": "kiel"
+  },
+  "ERR552627": {
+   "location": "hamburg"
+  },
+  "ERR552629": {
+   "location": "hamburg"
+  },
+  "ERR552633": {
+   "location": "hamburg"
+  },
+  "ERR552650": {
+   "location": "hamburg"
+  },
+  "ERR552714": {
+   "location": "hamburg"
+  },
+  "ERR552735": {
+   "location": "hamburg"
+  },
+  "ERR552817": {
+   "location": "hamburg"
+  },
+  "ERR552854": {
+   "location": "hamburg"
+  },
+  "ERR552864": {
+   "location": "pinneberg"
+  },
+  "ERR552867": {
+   "location": "hamburg"
+  },
+  "ERR552890": {
+   "location": "hamburg"
+  },
+  "ERR552967": {
+   "location": "hamburg"
+  },
+  "ERR553007": {
+   "location": "hamburg"
+  },
+  "ERR553010": {
+   "location": "hamburg"
+  },
+  "ERR553035": {
+   "location": "kiel"
+  },
+  "ERR553080": {
+   "location": "hamburg"
+  },
+  "ERR553111": {
+   "location": "kiel"
+  },
+  "ERR553115": {
+   "location": "hamburg"
+  },
+  "ERR553177": {
+   "location": "hamburg"
+  },
+  "ERR553279": {
+   "location": "hamburg"
+  },
+  "ERR553288": {
+   "location": "kiel"
+  },
+  "ERR553305": {
+   "location": "kiel"
+  },
+  "ERR553326": {
+   "location": "hamburg"
+  },
+  "ERR553395": {
+   "location": "hamburg"
+  },
+  "ERR553396": {
+   "location": "pinneberg"
+  },
+  "ERR553397": {
+   "location": "pinneberg"
+  },
+  "ERR553398": {
+   "location": "kiel"
+  },
+  "ERR553399": {
+   "location": "kiel"
+  },
+  "ERR553400": {
+   "location": "pinneberg"
+  },
+  "ERR553401": {
+   "location": "pinneberg"
+  },
+  "ERR553402": {
+   "location": "hamburg"
+  },
+  "ERR553403": {
+   "location": "hamburg"
+  },
+  "ERR553404": {
+   "location": "pinneberg"
+  },
+  "ERR553405": {
+   "location": "hamburg"
+  },
+  "ERR553406": {
+   "location": "kiel"
+  },
+  "ERR553407": {
+   "location": "pinneberg"
+  },
+  "ERR553408": {
+   "location": "hamburg"
+  },
+  "ERR553409": {
+   "location": "hamburg"
+  },
+  "ERR553410": {
+   "location": "pinneberg"
+  },
+  "ERR553411": {
+   "location": "pinneberg"
+  },
+  "NODE_0000000": {
+   "location": "hamburg"
+  },
+  "NODE_0000036": {
+   "location": "hamburg"
+  },
+  "NODE_0000037": {
+   "location": "hamburg"
+  },
+  "NODE_0000038": {
+   "location": "hamburg"
+  },
+  "NODE_0000045": {
+   "location": "hamburg"
+  },
+  "NODE_0000046": {
+   "location": "hamburg"
+  },
+  "NODE_0000049": {
+   "location": "hamburg"
+  },
+  "NODE_0000052": {
+   "location": "hamburg"
+  },
+  "NODE_0000053": {
+   "location": "pinneberg"
+  },
+  "NODE_0000062": {
+   "location": "kiel"
+  },
+  "NODE_0000064": {
+   "location": "hamburg"
+  },
+  "NODE_0000065": {
+   "location": "hamburg"
+  },
+  "NODE_0000066": {
+   "location": "pinneberg"
+  },
+  "NODE_0000068": {
+   "location": "pinneberg"
+  },
+  "NODE_0000070": {
+   "location": "pinneberg"
+  },
+  "NODE_0000085": {
+   "location": "hamburg"
+  },
+  "NODE_0000086": {
+   "location": "hamburg"
+  },
+  "NODE_0000087": {
+   "location": "hamburg"
+  },
+  "NODE_0000088": {
+   "location": "hamburg"
+  },
+  "NODE_0000089": {
+   "location": "hamburg"
+  },
+  "NODE_0000090": {
+   "location": "pinneberg"
+  },
+  "NODE_0000091": {
+   "location": "kiel"
+  },
+  "NODE_0000092": {
+   "location": "hamburg"
+  },
+  "NODE_0000093": {
+   "location": "hamburg"
+  },
+  "NODE_0000094": {
+   "location": "hamburg"
+  },
+  "NODE_0000095": {
+   "location": "hamburg"
+  },
+  "NODE_0000096": {
+   "location": "hamburg"
+  },
+  "NODE_0000097": {
+   "location": "hamburg"
+  },
+  "NODE_0000098": {
+   "location": "hamburg"
+  },
+  "NODE_0000099": {
+   "location": "hamburg"
+  },
+  "NODE_0000100": {
+   "location": "hamburg"
+  },
+  "NODE_0000101": {
+   "location": "hamburg"
+  },
+  "NODE_0000102": {
+   "location": "hamburg"
+  },
+  "NODE_0000103": {
+   "location": "hamburg"
+  },
+  "NODE_0000104": {
+   "location": "hamburg"
+  },
+  "NODE_0000105": {
+   "location": "hamburg"
+  },
+  "NODE_0000106": {
+   "location": "hamburg"
+  },
+  "NODE_0000107": {
+   "location": "hamburg"
+  },
+  "NODE_0000108": {
+   "location": "kiel"
+  },
+  "NODE_0000109": {
+   "location": "kiel"
+  },
+  "NODE_0000110": {
+   "location": "kiel"
+  },
+  "NODE_0000111": {
+   "location": "kiel"
+  },
+  "NODE_0000112": {
+   "location": "kiel"
+  },
+  "NODE_0000113": {
+   "location": "kiel"
+  },
+  "NODE_0000114": {
+   "location": "hamburg"
+  },
+  "NODE_0000115": {
+   "location": "hamburg"
+  },
+  "NODE_0000116": {
+   "location": "hamburg"
+  },
+  "NODE_0000117": {
+   "location": "hamburg"
+  },
+  "NODE_0000118": {
+   "location": "hamburg"
+  },
+  "NODE_0000119": {
+   "location": "hamburg"
+  },
+  "NODE_0000120": {
+   "location": "hamburg"
+  },
+  "NODE_0000121": {
+   "location": "hamburg"
+  },
+  "NODE_0000122": {
+   "location": "hamburg"
+  },
+  "NODE_0000123": {
+   "location": "hamburg"
+  },
+  "NODE_0000124": {
+   "location": "hamburg"
+  },
+  "NODE_0000125": {
+   "location": "hamburg"
+  },
+  "NODE_0000126": {
+   "location": "hamburg"
+  },
+  "NODE_0000127": {
+   "location": "hamburg"
+  },
+  "NODE_0000128": {
+   "location": "hamburg"
+  },
+  "NODE_0000129": {
+   "location": "hamburg"
+  },
+  "NODE_0000130": {
+   "location": "hamburg"
+  },
+  "NODE_0000131": {
+   "location": "hamburg"
+  }
+ }
+}
