@@ -1,5 +1,7 @@
 {
   "annotations": {
+    "nuc": {
+    },
     "*MtCM": {
       "end": 2134872,
       "start": 2134272,
