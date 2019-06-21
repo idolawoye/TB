@@ -1,0 +1,2929 @@
+{
+  "aa_muts": {},
+  "attr": {
+    "Drug_resistance": "0",
+    "clock_length": 0.001,
+    "date": "1990-08-02",
+    "div": 0,
+    "location": "hamburg",
+    "num_date": 1990.586404729301
+  },
+  "branch_length": 0.001,
+  "children": [
+    {
+      "aa_muts": {},
+      "attr": {
+        "Drug_resistance": "0",
+        "clock_length": 1.363843276543538e-07,
+        "date": "1993-12-25",
+        "div": 2.334380820786355e-07,
+        "location": "hamburg",
+        "num_date": 1993.982916415348
+      },
+      "branch_length": 1.4e-07,
+      "children": [
+        {
+          "aa_muts": {},
+          "attr": {
+            "Drug_resistance": "0",
+            "authors": "Roetzer et al",
+            "clock_length": 3.6204760715956226e-07,
+            "date": "2002-12-31",
+            "div": 1.1672196043008203e-06,
+            "location": "hamburg",
+            "num_date": 2002.9993404412767,
+            "raw_date": "2002-XX-XX"
+          },
+          "branch_length": 3.6e-07,
+          "clade": 0,
+          "muts": [
+            "G2070006A",
+            "C2485931T",
+            "G2870350A",
+            "C4065000T"
+          ],
+          "strain": "ERR553080",
+          "yvalue": 86
+        },
+        {
+          "aa_muts": {},
+          "attr": {
+            "Drug_resistance": "0",
+            "clock_length": 5.952032473241102e-08,
+            "date": "1995-06-18",
+            "div": 4.668787602289478e-07,
+            "location": "hamburg",
+            "num_date": 1995.465209007084
+          },
+          "branch_length": 6e-08,
+          "children": [
+            {
+              "aa_muts": {},
+              "attr": {
+                "Drug_resistance": "0",
+                "authors": "Roetzer et al",
+                "clock_length": 3.0252728242715123e-07,
+                "date": "2002-12-31",
+                "div": 1.1672100295597336e-06,
+                "location": "hamburg",
+                "num_date": 2002.9993404412767,
+                "raw_date": "2002-XX-XX"
+              },
+              "branch_length": 3e-07,
+              "clade": 1,
+              "muts": [
+                "G1122712A",
+                "G3159627C",
+                "A3812228G"
+              ],
+              "strain": "ERR552633",
+              "yvalue": 85
+            },
+            {
+              "aa_muts": {},
+              "attr": {
+                "Drug_resistance": "0",
+                "authors": "Roetzer et al",
+                "clock_length": 3.0252728242715123e-07,
+                "date": "2002-12-31",
+                "div": 1.4006596473914828e-06,
+                "location": "hamburg",
+                "num_date": 2002.9993404412767,
+                "raw_date": "2002-XX-XX"
+              },
+              "branch_length": 3e-07,
+              "clade": 2,
+              "muts": [
+                "C643069A",
+                "G2257984T",
+                "C2680425T",
+                "G3361693A"
+              ],
+              "strain": "ERR551209",
+              "yvalue": 84
+            }
+          ],
+          "clade": 3,
+          "muts": [
+            "T561786G"
+          ],
+          "strain": "NODE_0000045",
+          "yvalue": 84.5
+        },
+        {
+          "aa_muts": {},
+          "attr": {
+            "Drug_resistance": "0",
+            "clock_length": 5.346561972442009e-08,
+            "date": "1995-04-24",
+            "div": 4.668814762520126e-07,
+            "location": "hamburg",
+            "num_date": 1995.3144227938226
+          },
+          "branch_length": 5e-08,
+          "children": [
+            {
+              "aa_muts": {},
+              "attr": {
+                "Drug_resistance": "0",
+                "authors": "Roetzer et al",
+                "clock_length": 1.8811928311297896e-07,
+                "date": "1999-12-31",
+                "div": 9.337755302134934e-07,
+                "location": "hamburg",
+                "num_date": 1999.9993404412767,
+                "raw_date": "1999-XX-XX"
+              },
+              "branch_length": 1.9e-07,
+              "clade": 4,
+              "muts": [
+                "C185521G",
+                "A2565492G",
+                "A3120994T"
+              ],
+              "strain": "ERR552629",
+              "yvalue": 83
+            },
+            {
+              "aa_muts": {},
+              "attr": {
+                "Drug_resistance": "0",
+                "authors": "Roetzer et al",
+                "clock_length": 2.2838345419032282e-07,
+                "date": "2001-01-01",
+                "div": 1.4006626082958037e-06,
+                "location": "hamburg",
+                "num_date": 2001.002078292064,
+                "raw_date": "2000-XX-XX"
+              },
+              "branch_length": 2.3e-07,
+              "clade": 5,
+              "muts": [
+                "G253283T",
+                "G942192T",
+                "G1623057T",
+                "G2078367A"
+              ],
+              "strain": "ERR550917",
+              "yvalue": 82
+            },
+            {
+              "aa_muts": {},
+              "attr": {
+                "Drug_resistance": "0",
+                "authors": "Roetzer et al",
+                "clock_length": 2.6842775266108775e-07,
+                "date": "2001-12-31",
+                "div": 1.16721661558488e-06,
+                "location": "hamburg",
+                "num_date": 2001.9993404412767,
+                "raw_date": "2001-XX-XX"
+              },
+              "branch_length": 2.7e-07,
+              "clade": 6,
+              "muts": [
+                "C166014T",
+                "C278506T",
+                "A559022C"
+              ],
+              "strain": "ERR550982",
+              "yvalue": 81
+            },
+            {
+              "aa_muts": {},
+              "attr": {
+                "Drug_resistance": "0",
+                "clock_length": 1.9722028348638568e-07,
+                "date": "2000-03-23",
+                "div": 9.33775141048025e-07,
+                "location": "hamburg",
+                "num_date": 2000.2259915136883
+              },
+              "branch_length": 2e-07,
+              "children": [
+                {
+                  "aa_muts": {},
+                  "attr": {
+                    "Drug_resistance": "0",
+                    "authors": "Roetzer et al",
+                    "clock_length": 0.0,
+                    "date": "2000-03-23",
+                    "div": 9.337751410483045e-07,
+                    "location": "hamburg",
+                    "num_date": 2000.2259915136883,
+                    "raw_date": "2000-XX-XX"
+                  },
+                  "branch_length": 0.0,
+                  "clade": 7,
+                  "muts": [],
+                  "strain": "ERR553326",
+                  "yvalue": 80
+                },
+                {
+                  "aa_muts": {
+                    "pks12": [
+                      "W389G"
+                    ]
+                  },
+                  "attr": {
+                    "Drug_resistance": "0",
+                    "authors": "Roetzer et al",
+                    "clock_length": 0.0,
+                    "date": "2000-03-23",
+                    "div": 9.337751410483045e-07,
+                    "location": "hamburg",
+                    "num_date": 2000.2259915136883,
+                    "raw_date": "2000-XX-XX"
+                  },
+                  "branch_length": 0.0,
+                  "clade": 8,
+                  "muts": [
+                    "A2305822C"
+                  ],
+                  "strain": "ERR552243",
+                  "yvalue": 79
+                }
+              ],
+              "clade": 9,
+              "muts": [
+                "C154882T",
+                "C2206435T",
+                "G3510219A"
+              ],
+              "strain": "NODE_0000049",
+              "yvalue": 79.5
+            }
+          ],
+          "clade": 10,
+          "muts": [
+            "A631189G",
+            "C3547358T"
+          ],
+          "strain": "NODE_0000046",
+          "yvalue": 81.25
+        },
+        {
+          "aa_muts": {},
+          "attr": {
+            "Drug_resistance": "0",
+            "clock_length": 1.1787031276828466e-09,
+            "date": "1994-01-04",
+            "div": 2.334380820789147e-07,
+            "location": "hamburg",
+            "num_date": 1994.0122708068416
+          },
+          "branch_length": 0.0,
+          "children": [
+            {
+              "aa_muts": {
+                "Rv2752c": [
+                  "N323Y"
+                ]
+              },
+              "attr": {
+                "Drug_resistance": "0",
+                "authors": "Roetzer et al",
+                "clock_length": 1.6009773016160762e-07,
+                "date": "1997-12-31",
+                "div": 7.003190497572115e-07,
+                "location": "hamburg",
+                "num_date": 1997.9993404412767,
+                "raw_date": "1997-XX-XX"
+              },
+              "branch_length": 1.6e-07,
+              "clade": 11,
+              "muts": [
+                "C323290G",
+                "T3065225A"
+              ],
+              "strain": "ERR552967",
+              "yvalue": 78
+            },
+            {
+              "aa_muts": {},
+              "attr": {
+                "Drug_resistance": "0",
+                "clock_length": 8.453195496726321e-09,
+                "date": "1994-03-22",
+                "div": 2.334380820791939e-07,
+                "location": "hamburg",
+                "num_date": 1994.2227889637506
+              },
+              "branch_length": 1e-08,
+              "children": [
+                {
+                  "aa_muts": {},
+                  "attr": {
+                    "Drug_resistance": "0",
+                    "authors": "Roetzer et al",
+                    "clock_length": 1.9179876943893564e-07,
+                    "date": "1998-12-31",
+                    "div": 7.003261739791329e-07,
+                    "location": "hamburg",
+                    "num_date": 1998.9993404412767,
+                    "raw_date": "1998-XX-XX"
+                  },
+                  "branch_length": 1.9e-07,
+                  "clade": 12,
+                  "muts": [
+                    "G544483A",
+                    "C2098787T",
+                    "G2239724A"
+                  ],
+                  "strain": "ERR550691",
+                  "yvalue": 77
+                },
+                {
+                  "aa_muts": {},
+                  "attr": {
+                    "Drug_resistance": "0",
+                    "clock_length": 5.098081785646677e-08,
+                    "date": "1995-06-28",
+                    "div": 2.334380820794731e-07,
+                    "location": "hamburg",
+                    "num_date": 1995.4924139022742
+                  },
+                  "branch_length": 5e-08,
+                  "children": [
+                    {
+                      "aa_muts": {},
+                      "attr": {
+                        "Drug_resistance": "0",
+                        "authors": "Roetzer et al",
+                        "clock_length": 1.0964553149696591e-07,
+                        "date": "1998-03-22",
+                        "div": 4.668868674287789e-07,
+                        "location": "hamburg",
+                        "num_date": 1998.2230233165474,
+                        "raw_date": "1998-XX-XX"
+                      },
+                      "branch_length": 1.1e-07,
+                      "clade": 13,
+                      "muts": [
+                        "A1888173G"
+                      ],
+                      "strain": "ERR552360",
+                      "yvalue": 76
+                    },
+                    {
+                      "aa_muts": {},
+                      "attr": {
+                        "Drug_resistance": "0",
+                        "clock_length": 1.4015576406264718e-07,
+                        "date": "1998-12-24",
+                        "div": 2.3343808207975232e-07,
+                        "location": "hamburg",
+                        "num_date": 1998.98284934081
+                      },
+                      "branch_length": 1.4e-07,
+                      "children": [
+                        {
+                          "aa_muts": {},
+                          "attr": {
+                            "Drug_resistance": "0",
+                            "authors": "Roetzer et al",
+                            "clock_length": 1.1787945801354022e-09,
+                            "date": "1999-01-04",
+                            "div": 2.3343808208003152e-07,
+                            "location": "hamburg",
+                            "num_date": 1999.012206009833,
+                            "raw_date": "1999-XX-XX"
+                          },
+                          "branch_length": 0.0,
+                          "clade": 14,
+                          "muts": [],
+                          "strain": "ERR552854",
+                          "yvalue": 75
+                        },
+                        {
+                          "aa_muts": {},
+                          "attr": {
+                            "Drug_resistance": "0",
+                            "authors": "Roetzer et al",
+                            "clock_length": 8.110807744703543e-08,
+                            "date": "2001-01-01",
+                            "div": 2.3343808208003152e-07,
+                            "location": "hamburg",
+                            "num_date": 2001.0027627547606,
+                            "raw_date": "2001-XX-XX"
+                          },
+                          "branch_length": 8e-08,
+                          "clade": 15,
+                          "muts": [],
+                          "strain": "ERR551341",
+                          "yvalue": 74
+                        }
+                      ],
+                      "clade": 16,
+                      "muts": [],
+                      "strain": "NODE_0000089",
+                      "yvalue": 74.5
+                    }
+                  ],
+                  "clade": 17,
+                  "muts": [],
+                  "strain": "NODE_0000088",
+                  "yvalue": 75.25
+                }
+              ],
+              "clade": 18,
+              "muts": [],
+              "strain": "NODE_0000087",
+              "yvalue": 76.125
+            }
+          ],
+          "clade": 19,
+          "muts": [],
+          "strain": "NODE_0000086",
+          "yvalue": 77.0625
+        }
+      ],
+      "clade": 20,
+      "muts": [
+        "A2078367G",
+        "A3609894G"
+      ],
+      "strain": "NODE_0000038",
+      "yvalue": 81.53125
+    },
+    {
+      "aa_muts": {},
+      "attr": {
+        "Drug_resistance": "0",
+        "clock_length": 9.958485817955827e-08,
+        "date": "1993-01-24",
+        "div": 2.3344347222131242e-07,
+        "location": "hamburg",
+        "num_date": 1993.066463401566
+      },
+      "branch_length": 1e-07,
+      "children": [
+        {
+          "aa_muts": {},
+          "attr": {
+            "Drug_resistance": "0",
+            "authors": "Roetzer et al",
+            "clock_length": 3.9898449701346284e-07,
+            "date": "2003-01-01",
+            "div": 2.3344347222159155e-07,
+            "location": "hamburg",
+            "num_date": 2003.0027627547606,
+            "raw_date": "2003-XX-XX"
+          },
+          "branch_length": 4e-07,
+          "clade": 21,
+          "muts": [],
+          "strain": "ERR550799",
+          "yvalue": 73
+        },
+        {
+          "aa_muts": {},
+          "attr": {
+            "Drug_resistance": "0",
+            "clock_length": 5.671907263050016e-08,
+            "date": "1994-06-23",
+            "div": 7.003334632428698e-07,
+            "location": "hamburg",
+            "num_date": 1994.4789936851002
+          },
+          "branch_length": 6e-08,
+          "children": [
+            {
+              "aa_muts": {},
+              "attr": {
+                "Drug_resistance": "0",
+                "authors": "Roetzer et al",
+                "clock_length": 3.305576853904462e-07,
+                "date": "2002-09-16",
+                "div": 1.4006701731718036e-06,
+                "location": "hamburg",
+                "num_date": 2002.7111935327746,
+                "raw_date": "2002-XX-XX"
+              },
+              "branch_length": 3.3e-07,
+              "clade": 22,
+              "muts": [
+                "T245326G",
+                "T857406C",
+                "C4268523T"
+              ],
+              "strain": "ERR553115",
+              "yvalue": 72
+            },
+            {
+              "aa_muts": {},
+              "attr": {
+                "Drug_resistance": "0",
+                "clock_length": 3.2397736031841813e-08,
+                "date": "1995-04-14",
+                "div": 9.337759531963487e-07,
+                "location": "hamburg",
+                "num_date": 1995.2858260457253
+              },
+              "branch_length": 3e-08,
+              "children": [
+                {
+                  "aa_muts": {},
+                  "attr": {
+                    "Drug_resistance": "0",
+                    "authors": "Roetzer et al",
+                    "clock_length": 1.8940498402895774e-07,
+                    "date": "2000-01-01",
+                    "div": 1.1672249211549125e-06,
+                    "location": "hamburg",
+                    "num_date": 2000.0027627547606,
+                    "raw_date": "2000-XX-XX"
+                  },
+                  "branch_length": 1.9e-07,
+                  "clade": 23,
+                  "muts": [
+                    "A200668C"
+                  ],
+                  "strain": "ERR552414",
+                  "yvalue": 71
+                },
+                {
+                  "aa_muts": {},
+                  "attr": {
+                    "Drug_resistance": "0",
+                    "authors": "Roetzer et al",
+                    "clock_length": 2.6957603319796146e-07,
+                    "date": "2001-12-31",
+                    "div": 2.1010053669425576e-06,
+                    "location": "hamburg",
+                    "num_date": 2001.9993404412767,
+                    "raw_date": "2001-XX-XX"
+                  },
+                  "branch_length": 2.7e-07,
+                  "clade": 24,
+                  "muts": [
+                    "A426122C",
+                    "T1165517G",
+                    "T1980341G",
+                    "A2375437C",
+                    "A3734544C",
+                    "T3844044G",
+                    "A4087958C",
+                    "A4087960C"
+                  ],
+                  "strain": "ERR553402",
+                  "yvalue": 70
+                },
+                {
+                  "aa_muts": {},
+                  "attr": {
+                    "Drug_resistance": "0",
+                    "authors": "Roetzer et al",
+                    "clock_length": 2.2955921880301208e-07,
+                    "date": "2001-01-01",
+                    "div": 1.4006587241220142e-06,
+                    "location": "hamburg",
+                    "num_date": 2001.0027627547606,
+                    "raw_date": "2001-XX-XX"
+                  },
+                  "branch_length": 2.3e-07,
+                  "clade": 25,
+                  "muts": [
+                    "T2403707G",
+                    "T3243946C",
+                    "A3731429C",
+                    "A3734998C"
+                  ],
+                  "strain": "ERR553405",
+                  "yvalue": 69
+                },
+                {
+                  "aa_muts": {
+                    "espB": [
+                      "W269G"
+                    ]
+                  },
+                  "attr": {
+                    "Drug_resistance": "0",
+                    "authors": "Roetzer et al",
+                    "clock_length": 2.6957603319796146e-07,
+                    "date": "2001-12-31",
+                    "div": 5.135787952189082e-06,
+                    "location": "hamburg",
+                    "num_date": 2001.9993404412767,
+                    "raw_date": "2001-XX-XX"
+                  },
+                  "branch_length": 2.7e-07,
+                  "clade": 26,
+                  "muts": [
+                    "C176463T",
+                    "A386136T",
+                    "A492917C",
+                    "A566807C",
+                    "G603822T",
+                    "G818073T",
+                    "T1786843G",
+                    "A1823803C",
+                    "T1876539G",
+                    "T1941683G",
+                    "T2282896G",
+                    "G2294099A",
+                    "A2939017C",
+                    "T3262355G",
+                    "A3389073C",
+                    "C3473529T",
+                    "C3649577A",
+                    "T3664901A",
+                    "A4361121C"
+                  ],
+                  "strain": "ERR551218",
+                  "yvalue": 68
+                },
+                {
+                  "aa_muts": {},
+                  "attr": {
+                    "Drug_resistance": "0",
+                    "authors": "Roetzer et al",
+                    "clock_length": 1.1680044959054687e-07,
+                    "date": "1998-03-12",
+                    "div": 1.1672226705598001e-06,
+                    "location": "hamburg",
+                    "num_date": 1998.1946213508227,
+                    "raw_date": "1998-XX-XX"
+                  },
+                  "branch_length": 1.2e-07,
+                  "clade": 27,
+                  "muts": [
+                    "T2528074G"
+                  ],
+                  "strain": "ERR552650",
+                  "yvalue": 67
+                },
+                {
+                  "aa_muts": {},
+                  "attr": {
+                    "Drug_resistance": "0",
+                    "authors": "Roetzer et al",
+                    "clock_length": 1.492507492549034e-07,
+                    "date": "1999-01-01",
+                    "div": 1.1672214039592746e-06,
+                    "location": "hamburg",
+                    "num_date": 1999.0027627547606,
+                    "raw_date": "1999-XX-XX"
+                  },
+                  "branch_length": 1.5e-07,
+                  "clade": 28,
+                  "muts": [
+                    "A54346G"
+                  ],
+                  "strain": "ERR551577",
+                  "yvalue": 66
+                },
+                {
+                  "aa_muts": {},
+                  "attr": {
+                    "Drug_resistance": "0",
+                    "authors": "Roetzer et al",
+                    "clock_length": 4.7048462744733834e-07,
+                    "date": "2007-01-01",
+                    "div": 1.6341130093880853e-06,
+                    "location": "hamburg",
+                    "num_date": 2007.0027627547606,
+                    "raw_date": "2007-XX-XX"
+                  },
+                  "branch_length": 4.7e-07,
+                  "clade": 29,
+                  "muts": [
+                    "G1211422A",
+                    "A3102337C",
+                    "C3429119A"
+                  ],
+                  "strain": "ERR552735",
+                  "yvalue": 65
+                },
+                {
+                  "aa_muts": {
+                    "Rv0026": [
+                      "S389F"
+                    ]
+                  },
+                  "attr": {
+                    "Drug_resistance": "0",
+                    "authors": "Roetzer et al",
+                    "clock_length": 1.1680042609871949e-07,
+                    "date": "1998-03-12",
+                    "div": 1.1672232598927336e-06,
+                    "location": "hamburg",
+                    "num_date": 1998.194620765783,
+                    "raw_date": "1998-XX-XX"
+                  },
+                  "branch_length": 1.2e-07,
+                  "clade": 30,
+                  "muts": [
+                    "C30887T"
+                  ],
+                  "strain": "ERR552867",
+                  "yvalue": 64
+                },
+                {
+                  "aa_muts": {},
+                  "attr": {
+                    "Drug_resistance": "0",
+                    "authors": "Roetzer et al",
+                    "clock_length": 1.08959094101744e-07,
+                    "date": "1997-12-31",
+                    "div": 1.1672187524655436e-06,
+                    "location": "hamburg",
+                    "num_date": 1997.9993404412767,
+                    "raw_date": "1997-XX-XX"
+                  },
+                  "branch_length": 1.1e-07,
+                  "clade": 31,
+                  "muts": [
+                    "G4158174A"
+                  ],
+                  "strain": "ERR552368",
+                  "yvalue": 63
+                },
+                {
+                  "aa_muts": {
+                    "*MtCM": [
+                      "G190D"
+                    ]
+                  },
+                  "attr": {
+                    "Drug_resistance": "0",
+                    "authors": "Roetzer et al",
+                    "clock_length": 4.703472070682334e-07,
+                    "date": "2006-12-31",
+                    "div": 1.8675594525909067e-06,
+                    "location": "kiel",
+                    "num_date": 2006.9993404412767,
+                    "raw_date": "2006-XX-XX"
+                  },
+                  "branch_length": 4.7e-07,
+                  "clade": 32,
+                  "muts": [
+                    "C2134304T",
+                    "A2995524C",
+                    "A2995526C",
+                    "A3747437C",
+                    "G3772764A"
+                  ],
+                  "strain": "ERR553398",
+                  "yvalue": 62
+                },
+                {
+                  "aa_muts": {
+                    "PPE20": [
+                      "L9R"
+                    ]
+                  },
+                  "attr": {
+                    "Drug_resistance": "0",
+                    "authors": "Roetzer et al",
+                    "clock_length": 1.8926756364985268e-07,
+                    "date": "1999-12-31",
+                    "div": 2.1009982207490018e-06,
+                    "location": "hamburg",
+                    "num_date": 1999.9993404412767,
+                    "raw_date": "1999-XX-XX"
+                  },
+                  "branch_length": 1.9e-07,
+                  "clade": 33,
+                  "muts": [
+                    "T1561794G",
+                    "T1639778G",
+                    "A2029855C",
+                    "T2553654G",
+                    "A3119800T",
+                    "T3750750G",
+                    "A3893236C",
+                    "A4070040C"
+                  ],
+                  "strain": "ERR553409",
+                  "yvalue": 61
+                },
+                {
+                  "aa_muts": {},
+                  "attr": {
+                    "Drug_resistance": "0",
+                    "authors": "Roetzer et al",
+                    "clock_length": 2.2953173472719653e-07,
+                    "date": "2001-01-01",
+                    "div": 1.8675598323855407e-06,
+                    "location": "hamburg",
+                    "num_date": 2001.002078292064,
+                    "raw_date": "2000-XX-XX"
+                  },
+                  "branch_length": 2.3e-07,
+                  "clade": 34,
+                  "muts": [
+                    "T1343935G",
+                    "A1979596C",
+                    "T2945713G",
+                    "T4363023G"
+                  ],
+                  "strain": "ERR553408",
+                  "yvalue": 60
+                },
+                {
+                  "aa_muts": {},
+                  "attr": {
+                    "Drug_resistance": "0",
+                    "clock_length": 2.515268150429936e-07,
+                    "date": "2001-07-19",
+                    "div": 1.1672228249296051e-06,
+                    "location": "pinneberg",
+                    "num_date": 2001.549843190077
+                  },
+                  "branch_length": 2.5e-07,
+                  "children": [
+                    {
+                      "aa_muts": {},
+                      "attr": {
+                        "Drug_resistance": "0",
+                        "authors": "Roetzer et al",
+                        "clock_length": 3.3928309634740285e-07,
+                        "date": "2009-12-31",
+                        "div": 3.034785094496076e-06,
+                        "location": "kiel",
+                        "num_date": 2009.9993404412767,
+                        "raw_date": "2009-XX-XX"
+                      },
+                      "branch_length": 3.4e-07,
+                      "clade": 35,
+                      "muts": [
+                        "T279772G",
+                        "A427023C",
+                        "A728405C",
+                        "A846164C",
+                        "A894708C",
+                        "A1979596C",
+                        "T2316001G",
+                        "A3839706C",
+                        "A3839711C",
+                        "A3839714C"
+                      ],
+                      "strain": "ERR553399",
+                      "yvalue": 59
+                    },
+                    {
+                      "aa_muts": {},
+                      "attr": {
+                        "Drug_resistance": "0",
+                        "authors": "Roetzer et al",
+                        "clock_length": 2.589746267992941e-07,
+                        "date": "2007-12-31",
+                        "div": 1.867557928533435e-06,
+                        "location": "hamburg",
+                        "num_date": 2007.9993404412767,
+                        "raw_date": "2007-XX-XX"
+                      },
+                      "branch_length": 2.6e-07,
+                      "clade": 36,
+                      "muts": [
+                        "A279779C",
+                        "T2311612G",
+                        "A2974312C",
+                        "A4264012C"
+                      ],
+                      "strain": "ERR553403",
+                      "yvalue": 58
+                    },
+                    {
+                      "aa_muts": {},
+                      "attr": {
+                        "Drug_resistance": "0",
+                        "authors": "Roetzer et al",
+                        "clock_length": 3.7943733112145724e-07,
+                        "date": "2010-12-31",
+                        "div": 1.6341183655634776e-06,
+                        "location": "pinneberg",
+                        "num_date": 2010.9993404412767,
+                        "raw_date": "2010-XX-XX"
+                      },
+                      "branch_length": 3.8e-07,
+                      "clade": 37,
+                      "muts": [
+                        "T846741G",
+                        "T1169311G",
+                        "T2975029G",
+                        "A3839698C"
+                      ],
+                      "strain": "ERR553404",
+                      "yvalue": 57
+                    },
+                    {
+                      "aa_muts": {},
+                      "attr": {
+                        "Drug_resistance": "0",
+                        "authors": "Roetzer et al",
+                        "clock_length": 3.7943733112145724e-07,
+                        "date": "2010-12-31",
+                        "div": 1.6341183655634776e-06,
+                        "location": "pinneberg",
+                        "num_date": 2010.9993404412767,
+                        "raw_date": "2010-XX-XX"
+                      },
+                      "branch_length": 3.8e-07,
+                      "clade": 38,
+                      "muts": [
+                        "A1170205C",
+                        "T1344800G",
+                        "A3488706C",
+                        "A3734993C"
+                      ],
+                      "strain": "ERR553407",
+                      "yvalue": 56
+                    },
+                    {
+                      "aa_muts": {},
+                      "attr": {
+                        "Drug_resistance": "0",
+                        "clock_length": 8.440140484207336e-08,
+                        "date": "2003-08-26",
+                        "div": 1.4006677168908669e-06,
+                        "location": "pinneberg",
+                        "num_date": 2003.651773542305
+                      },
+                      "branch_length": 8e-08,
+                      "children": [
+                        {
+                          "aa_muts": {
+                            "Rv1043c": [
+                              "W334G"
+                            ],
+                            "pks12": [
+                              "W389G"
+                            ]
+                          },
+                          "attr": {
+                            "Drug_resistance": "0",
+                            "authors": "Roetzer et al",
+                            "clock_length": 2.950359262793839e-07,
+                            "date": "2010-12-31",
+                            "div": 2.33444817741193e-06,
+                            "location": "hamburg",
+                            "num_date": 2010.9993404412767,
+                            "raw_date": "2010-XX-XX"
+                          },
+                          "branch_length": 3e-07,
+                          "clade": 39,
+                          "muts": [
+                            "A1165807C",
+                            "T1280504G",
+                            "T1979306G",
+                            "A2305822C",
+                            "A3730989C",
+                            "A3839711C"
+                          ],
+                          "strain": "ERR553395",
+                          "yvalue": 55
+                        },
+                        {
+                          "aa_muts": {},
+                          "attr": {
+                            "Drug_resistance": "0",
+                            "authors": "Roetzer et al",
+                            "clock_length": 2.950359262793839e-07,
+                            "date": "2010-12-31",
+                            "div": 1.8675623398830452e-06,
+                            "location": "pinneberg",
+                            "num_date": 2010.9993404412767,
+                            "raw_date": "2010-XX-XX"
+                          },
+                          "branch_length": 3e-07,
+                          "clade": 40,
+                          "muts": [
+                            "A581599C",
+                            "A3086403C"
+                          ],
+                          "strain": "ERR553411",
+                          "yvalue": 54
+                        }
+                      ],
+                      "clade": 41,
+                      "muts": [
+                        "T1174031G"
+                      ],
+                      "strain": "NODE_0000068",
+                      "yvalue": 54.5
+                    },
+                    {
+                      "aa_muts": {},
+                      "attr": {
+                        "Drug_resistance": "0",
+                        "clock_length": 8.440112888275927e-08,
+                        "date": "2003-08-26",
+                        "div": 1.4006674721898852e-06,
+                        "location": "pinneberg",
+                        "num_date": 2003.6517666698214
+                      },
+                      "branch_length": 8e-08,
+                      "children": [
+                        {
+                          "aa_muts": {},
+                          "attr": {
+                            "Drug_resistance": "0",
+                            "authors": "Roetzer et al",
+                            "clock_length": 2.95036202238698e-07,
+                            "date": "2010-12-31",
+                            "div": 2.3344487786119573e-06,
+                            "location": "pinneberg",
+                            "num_date": 2010.9993404412767,
+                            "raw_date": "2010-XX-XX"
+                          },
+                          "branch_length": 3e-07,
+                          "clade": 42,
+                          "muts": [
+                            "A431574C",
+                            "A434268C",
+                            "T3099608G",
+                            "A3713275C",
+                            "T3747348G",
+                            "A3841042C",
+                            "T3902989G",
+                            "A3954927C"
+                          ],
+                          "strain": "ERR553410",
+                          "yvalue": 53
+                        },
+                        {
+                          "aa_muts": {},
+                          "attr": {
+                            "Drug_resistance": "0",
+                            "authors": "Roetzer et al",
+                            "clock_length": 2.550193878437486e-07,
+                            "date": "2010-01-01",
+                            "div": 1.634114851200686e-06,
+                            "location": "pinneberg",
+                            "num_date": 2010.0027627547606,
+                            "raw_date": "2010-XX-XX"
+                          },
+                          "branch_length": 2.6e-07,
+                          "clade": 43,
+                          "muts": [
+                            "T2639282G",
+                            "A3734542C",
+                            "T4130433G"
+                          ],
+                          "strain": "ERR553396",
+                          "yvalue": 52
+                        }
+                      ],
+                      "clade": 44,
+                      "muts": [
+                        "A4070040C"
+                      ],
+                      "strain": "NODE_0000070",
+                      "yvalue": 52.5
+                    },
+                    {
+                      "aa_muts": {},
+                      "attr": {
+                        "Drug_resistance": "0",
+                        "clock_length": 1.7636748446624125e-07,
+                        "date": "2005-12-10",
+                        "div": 1.1672228249298844e-06,
+                        "location": "pinneberg",
+                        "num_date": 2005.9420943550822
+                      },
+                      "branch_length": 1.8e-07,
+                      "children": [
+                        {
+                          "aa_muts": {},
+                          "attr": {
+                            "Drug_resistance": "0",
+                            "authors": "Roetzer et al",
+                            "clock_length": 2.0306984665521599e-07,
+                            "date": "2010-12-31",
+                            "div": 1.4006682815449287e-06,
+                            "location": "pinneberg",
+                            "num_date": 2010.9993404412767,
+                            "raw_date": "2010-XX-XX"
+                          },
+                          "branch_length": 2e-07,
+                          "clade": 45,
+                          "muts": [
+                            "A431589C",
+                            "A1784483C",
+                            "A2093441G",
+                            "A3734544C",
+                            "T3734720G",
+                            "T3846497G"
+                          ],
+                          "strain": "ERR553400",
+                          "yvalue": 51
+                        },
+                        {
+                          "aa_muts": {},
+                          "attr": {
+                            "Drug_resistance": "0",
+                            "clock_length": 1.0584704623247633e-09,
+                            "date": "2005-12-19",
+                            "div": 1.1672228249301637e-06,
+                            "location": "kiel",
+                            "num_date": 2005.9684544754602
+                          },
+                          "branch_length": 0.0,
+                          "children": [
+                            {
+                              "aa_muts": {},
+                              "attr": {
+                                "Drug_resistance": "0",
+                                "authors": "Roetzer et al",
+                                "clock_length": 1.218403270238875e-07,
+                                "date": "2009-01-01",
+                                "div": 1.167222824930443e-06,
+                                "location": "kiel",
+                                "num_date": 2009.0027627547606,
+                                "raw_date": "2009-XX-XX"
+                              },
+                              "branch_length": 1.2e-07,
+                              "clade": 46,
+                              "muts": [],
+                              "strain": "ERR553305",
+                              "yvalue": 50
+                            },
+                            {
+                              "aa_muts": {},
+                              "attr": {
+                                "Drug_resistance": "0",
+                                "clock_length": 0.0,
+                                "date": "2005-12-19",
+                                "div": 1.167222824930443e-06,
+                                "location": "hamburg",
+                                "num_date": 2005.9684544754602
+                              },
+                              "branch_length": 0.0,
+                              "children": [
+                                {
+                                  "aa_muts": {},
+                                  "attr": {
+                                    "Drug_resistance": "0",
+                                    "clock_length": 3.370742425763018e-09,
+                                    "date": "2006-01-19",
+                                    "div": 1.1672228249307224e-06,
+                                    "location": "hamburg",
+                                    "num_date": 2006.0523993556137
+                                  },
+                                  "branch_length": 0.0,
+                                  "children": [
+                                    {
+                                      "aa_muts": {},
+                                      "attr": {
+                                        "Drug_resistance": "0",
+                                        "authors": "Roetzer et al",
+                                        "clock_length": 1.1846958459812448e-07,
+                                        "date": "2009-01-01",
+                                        "div": 1.1672228249310017e-06,
+                                        "location": "hamburg",
+                                        "num_date": 2009.0027627547606,
+                                        "raw_date": "2009-XX-XX"
+                                      },
+                                      "branch_length": 1.2e-07,
+                                      "clade": 47,
+                                      "muts": [],
+                                      "strain": "ERR551517",
+                                      "yvalue": 49
+                                    },
+                                    {
+                                      "aa_muts": {},
+                                      "attr": {
+                                        "Drug_resistance": "0",
+                                        "clock_length": 8.70237827330319e-11,
+                                        "date": "2006-01-19",
+                                        "div": 1.1672228249310017e-06,
+                                        "location": "hamburg",
+                                        "num_date": 2006.0545665935954
+                                      },
+                                      "branch_length": 0.0,
+                                      "children": [
+                                        {
+                                          "aa_muts": {},
+                                          "attr": {
+                                            "Drug_resistance": "0",
+                                            "authors": "Roetzer et al",
+                                            "clock_length": 7.822832604133706e-08,
+                                            "date": "2008-01-01",
+                                            "div": 1.167222824931281e-06,
+                                            "location": "hamburg",
+                                            "num_date": 2008.0027627547606,
+                                            "raw_date": "2008-XX-XX"
+                                          },
+                                          "branch_length": 8e-08,
+                                          "clade": 48,
+                                          "muts": [],
+                                          "strain": "ERR551325",
+                                          "yvalue": 48
+                                        },
+                                        {
+                                          "aa_muts": {},
+                                          "attr": {
+                                            "Drug_resistance": "0",
+                                            "authors": "Roetzer et al",
+                                            "clock_length": 1.1838256081539145e-07,
+                                            "date": "2009-01-01",
+                                            "div": 1.167222824931281e-06,
+                                            "location": "hamburg",
+                                            "num_date": 2009.0027627547606,
+                                            "raw_date": "2009-XX-XX"
+                                          },
+                                          "branch_length": 1.2e-07,
+                                          "clade": 49,
+                                          "muts": [],
+                                          "strain": "ERR551049",
+                                          "yvalue": 47
+                                        }
+                                      ],
+                                      "clade": 50,
+                                      "muts": [],
+                                      "strain": "NODE_0000094",
+                                      "yvalue": 47.5
+                                    }
+                                  ],
+                                  "clade": 51,
+                                  "muts": [],
+                                  "strain": "NODE_0000093",
+                                  "yvalue": 48.25
+                                },
+                                {
+                                  "aa_muts": {},
+                                  "attr": {
+                                    "Drug_resistance": "0",
+                                    "clock_length": 0.0,
+                                    "date": "2005-12-19",
+                                    "div": 1.1672228249307224e-06,
+                                    "location": "hamburg",
+                                    "num_date": 2005.9684544754602
+                                  },
+                                  "branch_length": 0.0,
+                                  "children": [
+                                    {
+                                      "aa_muts": {},
+                                      "attr": {
+                                        "Drug_resistance": "0",
+                                        "clock_length": 6.062608183874468e-11,
+                                        "date": "2005-12-20",
+                                        "div": 1.1672228249310017e-06,
+                                        "location": "hamburg",
+                                        "num_date": 2005.9699643057977
+                                      },
+                                      "branch_length": 0.0,
+                                      "children": [
+                                        {
+                                          "aa_muts": {},
+                                          "attr": {
+                                            "Drug_resistance": "0",
+                                            "authors": "Roetzer et al",
+                                            "clock_length": 4.147123139393997e-08,
+                                            "date": "2007-01-01",
+                                            "div": 1.167222824931281e-06,
+                                            "location": "kiel",
+                                            "num_date": 2007.0027627547606,
+                                            "raw_date": "2007-XX-XX"
+                                          },
+                                          "branch_length": 4e-08,
+                                          "clade": 52,
+                                          "muts": [],
+                                          "strain": "ERR552275",
+                                          "yvalue": 46
+                                        },
+                                        {
+                                          "aa_muts": {},
+                                          "attr": {
+                                            "Drug_resistance": "0",
+                                            "clock_length": 4.828271177245455e-09,
+                                            "date": "2006-02-01",
+                                            "div": 1.167222824931281e-06,
+                                            "location": "hamburg",
+                                            "num_date": 2006.0902074433998
+                                          },
+                                          "branch_length": 0.0,
+                                          "children": [
+                                            {
+                                              "aa_muts": {},
+                                              "attr": {
+                                                "Drug_resistance": "0",
+                                                "authors": "Roetzer et al",
+                                                "clock_length": 7.679719499074891e-08,
+                                                "date": "2008-01-01",
+                                                "div": 1.1672228249315603e-06,
+                                                "location": "hamburg",
+                                                "num_date": 2008.0027627547606,
+                                                "raw_date": "2008-XX-XX"
+                                              },
+                                              "branch_length": 8e-08,
+                                              "clade": 53,
+                                              "muts": [],
+                                              "strain": "ERR553279",
+                                              "yvalue": 45
+                                            },
+                                            {
+                                              "aa_muts": {},
+                                              "attr": {
+                                                "Drug_resistance": "0",
+                                                "authors": "Roetzer et al",
+                                                "clock_length": 7.679719499074891e-08,
+                                                "date": "2008-01-01",
+                                                "div": 1.1672228249315603e-06,
+                                                "location": "hamburg",
+                                                "num_date": 2008.0027627547606,
+                                                "raw_date": "2008-XX-XX"
+                                              },
+                                              "branch_length": 8e-08,
+                                              "clade": 54,
+                                              "muts": [],
+                                              "strain": "ERR551425",
+                                              "yvalue": 44
+                                            }
+                                          ],
+                                          "clade": 55,
+                                          "muts": [],
+                                          "strain": "NODE_0000097",
+                                          "yvalue": 44.5
+                                        }
+                                      ],
+                                      "clade": 56,
+                                      "muts": [],
+                                      "strain": "NODE_0000096",
+                                      "yvalue": 45.25
+                                    },
+                                    {
+                                      "aa_muts": {},
+                                      "attr": {
+                                        "Drug_resistance": "0",
+                                        "clock_length": 6.062608183874468e-11,
+                                        "date": "2005-12-20",
+                                        "div": 1.1672228249310017e-06,
+                                        "location": "hamburg",
+                                        "num_date": 2005.9699643057977
+                                      },
+                                      "branch_length": 0.0,
+                                      "children": [
+                                        {
+                                          "aa_muts": {},
+                                          "attr": {
+                                            "Drug_resistance": "0",
+                                            "authors": "Roetzer et al",
+                                            "clock_length": 8.162546616799436e-08,
+                                            "date": "2008-01-01",
+                                            "div": 1.167222824931281e-06,
+                                            "location": "hamburg",
+                                            "num_date": 2008.0027627547606,
+                                            "raw_date": "2008-XX-XX"
+                                          },
+                                          "branch_length": 8e-08,
+                                          "clade": 57,
+                                          "muts": [],
+                                          "strain": "ERR552627",
+                                          "yvalue": 43
+                                        },
+                                        {
+                                          "aa_muts": {},
+                                          "attr": {
+                                            "Drug_resistance": "0",
+                                            "clock_length": 4.828271177245455e-09,
+                                            "date": "2006-02-01",
+                                            "div": 1.167222824931281e-06,
+                                            "location": "hamburg",
+                                            "num_date": 2006.0902074433998
+                                          },
+                                          "branch_length": 0.0,
+                                          "children": [
+                                            {
+                                              "aa_muts": {},
+                                              "attr": {
+                                                "Drug_resistance": "0",
+                                                "authors": "Roetzer et al",
+                                                "clock_length": 7.679719499074891e-08,
+                                                "date": "2008-01-01",
+                                                "div": 1.1672228249315603e-06,
+                                                "location": "hamburg",
+                                                "num_date": 2008.0027627547606,
+                                                "raw_date": "2008-XX-XX"
+                                              },
+                                              "branch_length": 8e-08,
+                                              "clade": 58,
+                                              "muts": [],
+                                              "strain": "ERR552380",
+                                              "yvalue": 42
+                                            },
+                                            {
+                                              "aa_muts": {},
+                                              "attr": {
+                                                "Drug_resistance": "0",
+                                                "authors": "Roetzer et al",
+                                                "clock_length": 7.679719499074891e-08,
+                                                "date": "2008-01-01",
+                                                "div": 1.1672228249315603e-06,
+                                                "location": "hamburg",
+                                                "num_date": 2008.0027627547606,
+                                                "raw_date": "2008-XX-XX"
+                                              },
+                                              "branch_length": 8e-08,
+                                              "clade": 59,
+                                              "muts": [],
+                                              "strain": "ERR550804",
+                                              "yvalue": 41
+                                            }
+                                          ],
+                                          "clade": 60,
+                                          "muts": [],
+                                          "strain": "NODE_0000099",
+                                          "yvalue": 41.5
+                                        }
+                                      ],
+                                      "clade": 61,
+                                      "muts": [],
+                                      "strain": "NODE_0000098",
+                                      "yvalue": 42.25
+                                    }
+                                  ],
+                                  "clade": 62,
+                                  "muts": [],
+                                  "strain": "NODE_0000095",
+                                  "yvalue": 43.75
+                                }
+                              ],
+                              "clade": 63,
+                              "muts": [],
+                              "strain": "NODE_0000092",
+                              "yvalue": 46.0
+                            }
+                          ],
+                          "clade": 64,
+                          "muts": [],
+                          "strain": "NODE_0000091",
+                          "yvalue": 48.0
+                        }
+                      ],
+                      "clade": 65,
+                      "muts": [],
+                      "strain": "NODE_0000090",
+                      "yvalue": 49.5
+                    }
+                  ],
+                  "clade": 66,
+                  "muts": [
+                    "G1254822T"
+                  ],
+                  "strain": "NODE_0000066",
+                  "yvalue": 54.25
+                },
+                {
+                  "aa_muts": {},
+                  "attr": {
+                    "Drug_resistance": "0",
+                    "clock_length": 3.549150924426411e-08,
+                    "date": "1996-03-02",
+                    "div": 9.337759531966283e-07,
+                    "location": "hamburg",
+                    "num_date": 1996.1697056525456
+                  },
+                  "branch_length": 4e-08,
+                  "children": [
+                    {
+                      "aa_muts": {},
+                      "attr": {
+                        "Drug_resistance": "0",
+                        "clock_length": 2.9888882354453696e-07,
+                        "date": "2003-08-11",
+                        "div": 1.167223259893013e-06,
+                        "location": "hamburg",
+                        "num_date": 2003.6132250030294
+                      },
+                      "branch_length": 3e-07,
+                      "children": [
+                        {
+                          "aa_muts": {},
+                          "attr": {
+                            "Drug_resistance": "0",
+                            "authors": "Roetzer et al",
+                            "clock_length": 5.579582511042859e-08,
+                            "date": "2005-01-01",
+                            "div": 1.1672232598932922e-06,
+                            "location": "hamburg",
+                            "num_date": 2005.0027627547606,
+                            "raw_date": "2005-XX-XX"
+                          },
+                          "branch_length": 6e-08,
+                          "clade": 67,
+                          "muts": [],
+                          "strain": "ERR551885",
+                          "yvalue": 40
+                        },
+                        {
+                          "aa_muts": {},
+                          "attr": {
+                            "Drug_resistance": "0",
+                            "clock_length": 9.803020339125461e-08,
+                            "date": "2006-01-19",
+                            "div": 1.634118007683453e-06,
+                            "location": "hamburg",
+                            "num_date": 2006.0545665935954
+                          },
+                          "branch_length": 1e-07,
+                          "children": [
+                            {
+                              "aa_muts": {},
+                              "attr": {
+                                "Drug_resistance": "0",
+                                "authors": "Roetzer et al",
+                                "clock_length": 1.1838256081539145e-07,
+                                "date": "2009-01-01",
+                                "div": 1.634118007683732e-06,
+                                "location": "hamburg",
+                                "num_date": 2009.0027627547606,
+                                "raw_date": "2009-XX-XX"
+                              },
+                              "branch_length": 1.2e-07,
+                              "clade": 68,
+                              "muts": [],
+                              "strain": "ERR550970",
+                              "yvalue": 39
+                            },
+                            {
+                              "aa_muts": {},
+                              "attr": {
+                                "Drug_resistance": "0",
+                                "authors": "Roetzer et al",
+                                "clock_length": 1.5839937521034078e-07,
+                                "date": "2009-12-31",
+                                "div": 2.101008046126145e-06,
+                                "location": "hamburg",
+                                "num_date": 2009.9993404412767,
+                                "raw_date": "2009-XX-XX"
+                              },
+                              "branch_length": 1.6e-07,
+                              "clade": 69,
+                              "muts": [
+                                "C395927T",
+                                "C431131T",
+                                "C1436522T"
+                              ],
+                              "strain": "ERR550870",
+                              "yvalue": 38
+                            }
+                          ],
+                          "clade": 70,
+                          "muts": [
+                            "A483407G",
+                            "C4043372A"
+                          ],
+                          "strain": "NODE_0000065",
+                          "yvalue": 38.5
+                        }
+                      ],
+                      "clade": 71,
+                      "muts": [
+                        "C2384033T"
+                      ],
+                      "strain": "NODE_0000064",
+                      "yvalue": 39.25
+                    },
+                    {
+                      "aa_muts": {},
+                      "attr": {
+                        "Drug_resistance": "0",
+                        "clock_length": 1.0852353600612885e-08,
+                        "date": "1996-06-09",
+                        "div": 9.337759531969079e-07,
+                        "location": "hamburg",
+                        "num_date": 1996.4399723793724
+                      },
+                      "branch_length": 1e-08,
+                      "children": [
+                        {
+                          "aa_muts": {},
+                          "attr": {
+                            "Drug_resistance": "0",
+                            "clock_length": 7.063784350640898e-08,
+                            "date": "1998-03-13",
+                            "div": 9.337759531971875e-07,
+                            "location": "hamburg",
+                            "num_date": 1998.1991353643946
+                          },
+                          "branch_length": 7e-08,
+                          "children": [
+                            {
+                              "aa_muts": {},
+                              "attr": {
+                                "Drug_resistance": "0",
+                                "clock_length": 5.685932244567676e-09,
+                                "date": "1998-05-04",
+                                "div": 9.337759531974672e-07,
+                                "location": "hamburg",
+                                "num_date": 1998.3407376705165
+                              },
+                              "branch_length": 1e-08,
+                              "children": [
+                                {
+                                  "aa_muts": {},
+                                  "attr": {
+                                    "Drug_resistance": "0",
+                                    "clock_length": 0.0,
+                                    "date": "1998-05-04",
+                                    "div": 9.337759531977468e-07,
+                                    "location": "hamburg",
+                                    "num_date": 1998.3407376705165
+                                  },
+                                  "branch_length": 0.0,
+                                  "children": [
+                                    {
+                                      "aa_muts": {},
+                                      "attr": {
+                                        "Drug_resistance": "0",
+                                        "authors": "Roetzer et al",
+                                        "clock_length": 0.0,
+                                        "date": "1998-05-04",
+                                        "div": 9.337759531980264e-07,
+                                        "location": "hamburg",
+                                        "num_date": 1998.3407376705165,
+                                        "raw_date": "1998-XX-XX"
+                                      },
+                                      "branch_length": 0.0,
+                                      "clade": 72,
+                                      "muts": [],
+                                      "strain": "ERR552616",
+                                      "yvalue": 37
+                                    },
+                                    {
+                                      "aa_muts": {},
+                                      "attr": {
+                                        "Drug_resistance": "0",
+                                        "authors": "Roetzer et al",
+                                        "clock_length": 0.0,
+                                        "date": "1998-05-04",
+                                        "div": 9.337759531980264e-07,
+                                        "location": "hamburg",
+                                        "num_date": 1998.3407376705165,
+                                        "raw_date": "1998-XX-XX"
+                                      },
+                                      "branch_length": 0.0,
+                                      "clade": 73,
+                                      "muts": [],
+                                      "strain": "ERR552184",
+                                      "yvalue": 36
+                                    }
+                                  ],
+                                  "clade": 74,
+                                  "muts": [],
+                                  "strain": "NODE_0000103",
+                                  "yvalue": 36.5
+                                },
+                                {
+                                  "aa_muts": {},
+                                  "attr": {
+                                    "Drug_resistance": "0",
+                                    "clock_length": 1.6063556693488937e-08,
+                                    "date": "1998-09-27",
+                                    "div": 9.337759531977468e-07,
+                                    "location": "hamburg",
+                                    "num_date": 1998.7407840612366
+                                  },
+                                  "branch_length": 2e-08,
+                                  "children": [
+                                    {
+                                      "aa_muts": {},
+                                      "attr": {
+                                        "Drug_resistance": "0",
+                                        "authors": "Roetzer et al",
+                                        "clock_length": 0.0,
+                                        "date": "1998-09-27",
+                                        "div": 9.337759531980264e-07,
+                                        "location": "hamburg",
+                                        "num_date": 1998.7407840612366,
+                                        "raw_date": "1998-XX-XX"
+                                      },
+                                      "branch_length": 0.0,
+                                      "clade": 75,
+                                      "muts": [],
+                                      "strain": "ERR553010",
+                                      "yvalue": 35
+                                    },
+                                    {
+                                      "aa_muts": {},
+                                      "attr": {
+                                        "Drug_resistance": "0",
+                                        "authors": "Roetzer et al",
+                                        "clock_length": 4.1206190170610457e-07,
+                                        "date": "2009-01-01",
+                                        "div": 1.1672274824747662e-06,
+                                        "location": "kiel",
+                                        "num_date": 2009.0027627547606,
+                                        "raw_date": "2009-XX-XX"
+                                      },
+                                      "branch_length": 4.1e-07,
+                                      "clade": 76,
+                                      "muts": [
+                                        "G8270C"
+                                      ],
+                                      "strain": "ERR553406",
+                                      "yvalue": 34
+                                    }
+                                  ],
+                                  "clade": 77,
+                                  "muts": [],
+                                  "strain": "NODE_0000104",
+                                  "yvalue": 34.5
+                                }
+                              ],
+                              "clade": 78,
+                              "muts": [],
+                              "strain": "NODE_0000102",
+                              "yvalue": 35.5
+                            },
+                            {
+                              "aa_muts": {},
+                              "attr": {
+                                "Drug_resistance": "0",
+                                "clock_length": 2.603211623083964e-08,
+                                "date": "1998-11-05",
+                                "div": 9.337759531974672e-07,
+                                "location": "hamburg",
+                                "num_date": 1998.8474384979825
+                              },
+                              "branch_length": 3e-08,
+                              "children": [
+                                {
+                                  "aa_muts": {},
+                                  "attr": {
+                                    "Drug_resistance": "0",
+                                    "clock_length": 1.0079396208235846e-07,
+                                    "date": "2001-05-10",
+                                    "div": 9.337759531977468e-07,
+                                    "location": "hamburg",
+                                    "num_date": 2001.3576086618398
+                                  },
+                                  "branch_length": 1e-07,
+                                  "children": [
+                                    {
+                                      "aa_muts": {},
+                                      "attr": {
+                                        "Drug_resistance": "0",
+                                        "clock_length": 0.0,
+                                        "date": "2001-05-10",
+                                        "div": 9.337759531980264e-07,
+                                        "location": "hamburg",
+                                        "num_date": 2001.3576086618398
+                                      },
+                                      "branch_length": 0.0,
+                                      "children": [
+                                        {
+                                          "aa_muts": {},
+                                          "attr": {
+                                            "Drug_resistance": "0",
+                                            "authors": "Roetzer et al",
+                                            "clock_length": 2.5905668912582452e-08,
+                                            "date": "2002-01-01",
+                                            "div": 9.337759531983061e-07,
+                                            "location": "hamburg",
+                                            "num_date": 2002.0027627547606,
+                                            "raw_date": "2002-XX-XX"
+                                          },
+                                          "branch_length": 3e-08,
+                                          "clade": 79,
+                                          "muts": [],
+                                          "strain": "ERR552262",
+                                          "yvalue": 33
+                                        },
+                                        {
+                                          "aa_muts": {},
+                                          "attr": {
+                                            "Drug_resistance": "0",
+                                            "authors": "Roetzer et al",
+                                            "clock_length": 0.0,
+                                            "date": "2001-05-10",
+                                            "div": 9.337759531983061e-07,
+                                            "location": "hamburg",
+                                            "num_date": 2001.3576086618398,
+                                            "raw_date": "2001-XX-XX"
+                                          },
+                                          "branch_length": 0.0,
+                                          "clade": 80,
+                                          "muts": [],
+                                          "strain": "ERR553177",
+                                          "yvalue": 32
+                                        }
+                                      ],
+                                      "clade": 81,
+                                      "muts": [],
+                                      "strain": "NODE_0000107",
+                                      "yvalue": 32.5
+                                    },
+                                    {
+                                      "aa_muts": {},
+                                      "attr": {
+                                        "Drug_resistance": "0",
+                                        "clock_length": 9.077825800031674e-08,
+                                        "date": "2003-08-13",
+                                        "div": 9.337759531980264e-07,
+                                        "location": "kiel",
+                                        "num_date": 2003.6183479963365
+                                      },
+                                      "branch_length": 9e-08,
+                                      "children": [
+                                        {
+                                          "aa_muts": {},
+                                          "attr": {
+                                            "Drug_resistance": "0",
+                                            "clock_length": 9.804939727906812e-08,
+                                            "date": "2006-01-21",
+                                            "div": 1.1672232598944113e-06,
+                                            "location": "kiel",
+                                            "num_date": 2006.0601675909766
+                                          },
+                                          "branch_length": 1e-07,
+                                          "children": [
+                                            {
+                                              "aa_muts": {},
+                                              "attr": {
+                                                "Drug_resistance": "0",
+                                                "authors": "Roetzer et al",
+                                                "clock_length": 4.002175591019237e-10,
+                                                "date": "2006-01-25",
+                                                "div": 1.1672232598946904e-06,
+                                                "location": "kiel",
+                                                "num_date": 2006.0701345984755,
+                                                "raw_date": "2006-XX-XX"
+                                              },
+                                              "branch_length": 0.0,
+                                              "clade": 82,
+                                              "muts": [],
+                                              "strain": "ERR553111",
+                                              "yvalue": 31
+                                            },
+                                            {
+                                              "aa_muts": {},
+                                              "attr": {
+                                                "Drug_resistance": "0",
+                                                "authors": "Roetzer et al",
+                                                "clock_length": 3.7849187503469396e-08,
+                                                "date": "2007-01-01",
+                                                "div": 1.1672232598946904e-06,
+                                                "location": "kiel",
+                                                "num_date": 2007.0027627547606,
+                                                "raw_date": "2007-XX-XX"
+                                              },
+                                              "branch_length": 4e-08,
+                                              "clade": 83,
+                                              "muts": [],
+                                              "strain": "ERR550937",
+                                              "yvalue": 30
+                                            }
+                                          ],
+                                          "clade": 84,
+                                          "muts": [
+                                            "C2450784T"
+                                          ],
+                                          "strain": "NODE_0000062",
+                                          "yvalue": 30.5
+                                        },
+                                        {
+                                          "aa_muts": {},
+                                          "attr": {
+                                            "Drug_resistance": "0",
+                                            "clock_length": 0.0,
+                                            "date": "2003-08-13",
+                                            "div": 9.337759531983061e-07,
+                                            "location": "kiel",
+                                            "num_date": 2003.6183479963365
+                                          },
+                                          "branch_length": 0.0,
+                                          "children": [
+                                            {
+                                              "aa_muts": {},
+                                              "attr": {
+                                                "Drug_resistance": "0",
+                                                "authors": "Roetzer et al",
+                                                "clock_length": 5.559011523442884e-08,
+                                                "date": "2005-01-01",
+                                                "div": 9.337759531985857e-07,
+                                                "location": "hamburg",
+                                                "num_date": 2005.0027627547606,
+                                                "raw_date": "2005-XX-XX"
+                                              },
+                                              "branch_length": 6e-08,
+                                              "clade": 85,
+                                              "muts": [],
+                                              "strain": "ERR551216",
+                                              "yvalue": 29
+                                            },
+                                            {
+                                              "aa_muts": {},
+                                              "attr": {
+                                                "Drug_resistance": "0",
+                                                "authors": "Roetzer et al",
+                                                "clock_length": 9.574435000848318e-08,
+                                                "date": "2006-01-01",
+                                                "div": 9.337759531985857e-07,
+                                                "location": "kiel",
+                                                "num_date": 2006.0027627547606,
+                                                "raw_date": "2006-XX-XX"
+                                              },
+                                              "branch_length": 1e-07,
+                                              "clade": 86,
+                                              "muts": [],
+                                              "strain": "ERR553035",
+                                              "yvalue": 28
+                                            }
+                                          ],
+                                          "clade": 87,
+                                          "muts": [],
+                                          "strain": "NODE_0000109",
+                                          "yvalue": 28.5
+                                        }
+                                      ],
+                                      "clade": 88,
+                                      "muts": [],
+                                      "strain": "NODE_0000108",
+                                      "yvalue": 29.5
+                                    }
+                                  ],
+                                  "clade": 89,
+                                  "muts": [],
+                                  "strain": "NODE_0000106",
+                                  "yvalue": 31.0
+                                },
+                                {
+                                  "aa_muts": {},
+                                  "attr": {
+                                    "Drug_resistance": "0",
+                                    "clock_length": 1.932053288221473e-07,
+                                    "date": "2003-08-28",
+                                    "div": 1.167218752466662e-06,
+                                    "location": "pinneberg",
+                                    "num_date": 2003.6590188931586
+                                  },
+                                  "branch_length": 1.9e-07,
+                                  "children": [
+                                    {
+                                      "aa_muts": {
+                                        "Rv1043c": [
+                                          "C331G",
+                                          "W334G"
+                                        ]
+                                      },
+                                      "attr": {
+                                        "Drug_resistance": "0",
+                                        "authors": "Roetzer et al",
+                                        "clock_length": 2.9474499476017794e-07,
+                                        "date": "2010-12-31",
+                                        "div": 2.567895717505827e-06,
+                                        "location": "pinneberg",
+                                        "num_date": 2010.9993404412767,
+                                        "raw_date": "2010-XX-XX"
+                                      },
+                                      "branch_length": 2.9e-07,
+                                      "clade": 90,
+                                      "muts": [
+                                        "A1165807C",
+                                        "A1165816C",
+                                        "A1345066C",
+                                        "A1952896C",
+                                        "A2309793C",
+                                        "T3477231G"
+                                      ],
+                                      "strain": "ERR553397",
+                                      "yvalue": 27
+                                    },
+                                    {
+                                      "aa_muts": {},
+                                      "attr": {
+                                        "Drug_resistance": "0",
+                                        "authors": "Roetzer et al",
+                                        "clock_length": 2.9474499476017794e-07,
+                                        "date": "2010-12-31",
+                                        "div": 1.6341094772473784e-06,
+                                        "location": "pinneberg",
+                                        "num_date": 2010.9993404412767,
+                                        "raw_date": "2010-XX-XX"
+                                      },
+                                      "branch_length": 2.9e-07,
+                                      "clade": 91,
+                                      "muts": [
+                                        "A1233372C",
+                                        "T2048800G",
+                                        "A2767056C",
+                                        "T3734495G",
+                                        "A3747550C"
+                                      ],
+                                      "strain": "ERR553401",
+                                      "yvalue": 26
+                                    },
+                                    {
+                                      "aa_muts": {},
+                                      "attr": {
+                                        "Drug_resistance": "0",
+                                        "authors": "Roetzer et al",
+                                        "clock_length": 2.9474499476017794e-07,
+                                        "date": "2010-12-31",
+                                        "div": 1.6341065423489102e-06,
+                                        "location": "pinneberg",
+                                        "num_date": 2010.9993404412767,
+                                        "raw_date": "2010-XX-XX"
+                                      },
+                                      "branch_length": 2.9e-07,
+                                      "clade": 92,
+                                      "muts": [
+                                        "C288370T",
+                                        "G3497080A"
+                                      ],
+                                      "strain": "ERR552864",
+                                      "yvalue": 25
+                                    },
+                                    {
+                                      "aa_muts": {},
+                                      "attr": {
+                                        "Drug_resistance": "0",
+                                        "clock_length": 8.795496245019096e-08,
+                                        "date": "2005-11-06",
+                                        "div": 1.1672187524669412e-06,
+                                        "location": "kiel",
+                                        "num_date": 2005.8494469500029
+                                      },
+                                      "branch_length": 9e-08,
+                                      "children": [
+                                        {
+                                          "aa_muts": {},
+                                          "attr": {
+                                            "Drug_resistance": "0",
+                                            "clock_length": 1.3680124182105736e-09,
+                                            "date": "2005-11-18",
+                                            "div": 1.1672187524672203e-06,
+                                            "location": "kiel",
+                                            "num_date": 2005.883515895057
+                                          },
+                                          "branch_length": 0.0,
+                                          "children": [
+                                            {
+                                              "aa_muts": {},
+                                              "attr": {
+                                                "Drug_resistance": "0",
+                                                "authors": "Roetzer et al",
+                                                "clock_length": 4.788266400609568e-09,
+                                                "date": "2006-01-01",
+                                                "div": 1.1672187524674994e-06,
+                                                "location": "kiel",
+                                                "num_date": 2006.0027627547606,
+                                                "raw_date": "2006-XX-XX"
+                                              },
+                                              "branch_length": 0.0,
+                                              "clade": 93,
+                                              "muts": [],
+                                              "strain": "ERR550888",
+                                              "yvalue": 24
+                                            },
+                                            {
+                                              "aa_muts": {},
+                                              "attr": {
+                                                "Drug_resistance": "0",
+                                                "authors": "Roetzer et al",
+                                                "clock_length": 4.788266400609568e-09,
+                                                "date": "2006-01-01",
+                                                "div": 1.1672187524674994e-06,
+                                                "location": "kiel",
+                                                "num_date": 2006.0027627547606,
+                                                "raw_date": "2006-XX-XX"
+                                              },
+                                              "branch_length": 0.0,
+                                              "clade": 94,
+                                              "muts": [],
+                                              "strain": "ERR550671",
+                                              "yvalue": 23
+                                            }
+                                          ],
+                                          "clade": 95,
+                                          "muts": [],
+                                          "strain": "NODE_0000111",
+                                          "yvalue": 23.5
+                                        },
+                                        {
+                                          "aa_muts": {},
+                                          "attr": {
+                                            "Drug_resistance": "0",
+                                            "clock_length": 3.1036134911758404e-09,
+                                            "date": "2005-12-04",
+                                            "div": 1.1672187524672203e-06,
+                                            "location": "kiel",
+                                            "num_date": 2005.9267392582396
+                                          },
+                                          "branch_length": 0.0,
+                                          "children": [
+                                            {
+                                              "aa_muts": {},
+                                              "attr": {
+                                                "Drug_resistance": "0",
+                                                "authors": "Roetzer et al",
+                                                "clock_length": 3.272257083442601e-09,
+                                                "date": "2006-01-03",
+                                                "div": 1.1672187524674994e-06,
+                                                "location": "kiel",
+                                                "num_date": 2006.0082314620347,
+                                                "raw_date": "2006-XX-XX"
+                                              },
+                                              "branch_length": 0.0,
+                                              "clade": 96,
+                                              "muts": [],
+                                              "strain": "ERR551913",
+                                              "yvalue": 22
+                                            },
+                                            {
+                                              "aa_muts": {},
+                                              "attr": {
+                                                "Drug_resistance": "0",
+                                                "clock_length": 5.357712598229197e-09,
+                                                "date": "2006-01-21",
+                                                "div": 1.1672187524674994e-06,
+                                                "location": "kiel",
+                                                "num_date": 2006.0601675909766
+                                              },
+                                              "branch_length": 1e-08,
+                                              "children": [
+                                                {
+                                                  "aa_muts": {},
+                                                  "attr": {
+                                                    "Drug_resistance": "0",
+                                                    "authors": "Roetzer et al",
+                                                    "clock_length": 7.800342227752379e-08,
+                                                    "date": "2008-01-01",
+                                                    "div": 1.1672187524677785e-06,
+                                                    "location": "kiel",
+                                                    "num_date": 2008.0027627547606,
+                                                    "raw_date": "2008-XX-XX"
+                                                  },
+                                                  "branch_length": 8e-08,
+                                                  "clade": 97,
+                                                  "muts": [
+                                                    "A3527550T"
+                                                  ],
+                                                  "strain": "ERR552623",
+                                                  "yvalue": 21
+                                                },
+                                                {
+                                                  "aa_muts": {},
+                                                  "attr": {
+                                                    "Drug_resistance": "0",
+                                                    "authors": "Roetzer et al",
+                                                    "clock_length": 3.7849187503469396e-08,
+                                                    "date": "2007-01-01",
+                                                    "div": 1.1672187524677785e-06,
+                                                    "location": "kiel",
+                                                    "num_date": 2007.0027627547606,
+                                                    "raw_date": "2007-XX-XX"
+                                                  },
+                                                  "branch_length": 4e-08,
+                                                  "clade": 98,
+                                                  "muts": [],
+                                                  "strain": "ERR550816",
+                                                  "yvalue": 20
+                                                }
+                                              ],
+                                              "clade": 99,
+                                              "muts": [],
+                                              "strain": "NODE_0000113",
+                                              "yvalue": 20.5
+                                            }
+                                          ],
+                                          "clade": 100,
+                                          "muts": [],
+                                          "strain": "NODE_0000112",
+                                          "yvalue": 21.25
+                                        }
+                                      ],
+                                      "clade": 101,
+                                      "muts": [],
+                                      "strain": "NODE_0000110",
+                                      "yvalue": 22.375
+                                    }
+                                  ],
+                                  "clade": 102,
+                                  "muts": [
+                                    "G1431042A"
+                                  ],
+                                  "strain": "NODE_0000053",
+                                  "yvalue": 24.6875
+                                }
+                              ],
+                              "clade": 103,
+                              "muts": [],
+                              "strain": "NODE_0000105",
+                              "yvalue": 27.84375
+                            }
+                          ],
+                          "clade": 104,
+                          "muts": [],
+                          "strain": "NODE_0000101",
+                          "yvalue": 31.671875
+                        },
+                        {
+                          "aa_muts": {},
+                          "attr": {
+                            "Drug_resistance": "0",
+                            "clock_length": 4.638921563847758e-09,
+                            "date": "1996-07-21",
+                            "div": 9.337759531971875e-07,
+                            "location": "hamburg",
+                            "num_date": 1996.555499959214
+                          },
+                          "branch_length": 0.0,
+                          "children": [
+                            {
+                              "aa_muts": {},
+                              "attr": {
+                                "Drug_resistance": "0",
+                                "clock_length": 3.1556656335053283e-09,
+                                "date": "1996-08-19",
+                                "div": 9.337759531974672e-07,
+                                "location": "hamburg",
+                                "num_date": 1996.634088572626
+                              },
+                              "branch_length": 0.0,
+                              "children": [
+                                {
+                                  "aa_muts": {},
+                                  "attr": {
+                                    "Drug_resistance": "0",
+                                    "clock_length": 2.909976127234708e-09,
+                                    "date": "1996-09-15",
+                                    "div": 9.337759531977468e-07,
+                                    "location": "hamburg",
+                                    "num_date": 1996.7065585410767
+                                  },
+                                  "branch_length": 0.0,
+                                  "children": [
+                                    {
+                                      "aa_muts": {},
+                                      "attr": {
+                                        "Drug_resistance": "0",
+                                        "authors": "Roetzer et al",
+                                        "clock_length": 1.1893853537329839e-08,
+                                        "date": "1997-01-01",
+                                        "div": 9.337759531980264e-07,
+                                        "location": "hamburg",
+                                        "num_date": 1997.0027627547606,
+                                        "raw_date": "1997-XX-XX"
+                                      },
+                                      "branch_length": 1e-08,
+                                      "clade": 105,
+                                      "muts": [],
+                                      "strain": "ERR552714",
+                                      "yvalue": 19
+                                    },
+                                    {
+                                      "aa_muts": {},
+                                      "attr": {
+                                        "Drug_resistance": "0",
+                                        "clock_length": 1.4132013785379462e-07,
+                                        "date": "2000-03-23",
+                                        "div": 9.337759531980264e-07,
+                                        "location": "hamburg",
+                                        "num_date": 2000.2259915136883
+                                      },
+                                      "branch_length": 1.4e-07,
+                                      "children": [
+                                        {
+                                          "aa_muts": {},
+                                          "attr": {
+                                            "Drug_resistance": "0",
+                                            "authors": "Roetzer et al",
+                                            "clock_length": 0.0,
+                                            "date": "2000-03-23",
+                                            "div": 9.337759531983061e-07,
+                                            "location": "hamburg",
+                                            "num_date": 2000.2259915136883,
+                                            "raw_date": "2000-XX-XX"
+                                          },
+                                          "branch_length": 0.0,
+                                          "clade": 106,
+                                          "muts": [],
+                                          "strain": "ERR552817",
+                                          "yvalue": 18
+                                        },
+                                        {
+                                          "aa_muts": {},
+                                          "attr": {
+                                            "Drug_resistance": "0",
+                                            "authors": "Roetzer et al",
+                                            "clock_length": 0.0,
+                                            "date": "2000-03-23",
+                                            "div": 9.337759531983061e-07,
+                                            "location": "hamburg",
+                                            "num_date": 2000.2259915136883,
+                                            "raw_date": "2000-XX-XX"
+                                          },
+                                          "branch_length": 0.0,
+                                          "clade": 107,
+                                          "muts": [],
+                                          "strain": "ERR552890",
+                                          "yvalue": 17
+                                        }
+                                      ],
+                                      "clade": 108,
+                                      "muts": [],
+                                      "strain": "NODE_0000117",
+                                      "yvalue": 17.5
+                                    }
+                                  ],
+                                  "clade": 109,
+                                  "muts": [],
+                                  "strain": "NODE_0000116",
+                                  "yvalue": 18.25
+                                },
+                                {
+                                  "aa_muts": {},
+                                  "attr": {
+                                    "Drug_resistance": "0",
+                                    "clock_length": 2.749515328498445e-07,
+                                    "date": "2003-06-24",
+                                    "div": 9.337759531977468e-07,
+                                    "location": "hamburg",
+                                    "num_date": 2003.4814742692276
+                                  },
+                                  "branch_length": 2.7e-07,
+                                  "children": [
+                                    {
+                                      "aa_muts": {},
+                                      "attr": {
+                                        "Drug_resistance": "0",
+                                        "clock_length": 1.0332055328798109e-07,
+                                        "date": "2006-01-19",
+                                        "div": 1.1672232598941316e-06,
+                                        "location": "hamburg",
+                                        "num_date": 2006.0545665935954
+                                      },
+                                      "branch_length": 1e-07,
+                                      "children": [
+                                        {
+                                          "aa_muts": {},
+                                          "attr": {
+                                            "Drug_resistance": "0",
+                                            "authors": "Roetzer et al",
+                                            "clock_length": 1.1838256081539145e-07,
+                                            "date": "2009-01-01",
+                                            "div": 1.1672232598944107e-06,
+                                            "location": "hamburg",
+                                            "num_date": 2009.0027627547606,
+                                            "raw_date": "2009-XX-XX"
+                                          },
+                                          "branch_length": 1.2e-07,
+                                          "clade": 110,
+                                          "muts": [],
+                                          "strain": "ERR552026",
+                                          "yvalue": 16
+                                        },
+                                        {
+                                          "aa_muts": {},
+                                          "attr": {
+                                            "Drug_resistance": "0",
+                                            "authors": "Roetzer et al",
+                                            "clock_length": 1.5839937521034078e-07,
+                                            "date": "2009-12-31",
+                                            "div": 1.6341166231770718e-06,
+                                            "location": "kiel",
+                                            "num_date": 2009.9993404412767,
+                                            "raw_date": "2009-XX-XX"
+                                          },
+                                          "branch_length": 1.6e-07,
+                                          "clade": 111,
+                                          "muts": [
+                                            "C1037848T",
+                                            "C1627201T"
+                                          ],
+                                          "strain": "ERR552236",
+                                          "yvalue": 15
+                                        }
+                                      ],
+                                      "clade": 112,
+                                      "muts": [
+                                        "C2130537T"
+                                      ],
+                                      "strain": "NODE_0000052",
+                                      "yvalue": 15.5
+                                    },
+                                    {
+                                      "aa_muts": {},
+                                      "attr": {
+                                        "Drug_resistance": "0",
+                                        "clock_length": 0.0,
+                                        "date": "2003-06-24",
+                                        "div": 9.337759531980264e-07,
+                                        "location": "hamburg",
+                                        "num_date": 2003.4814742692276
+                                      },
+                                      "branch_length": 0.0,
+                                      "children": [
+                                        {
+                                          "aa_muts": {},
+                                          "attr": {
+                                            "Drug_resistance": "0",
+                                            "clock_length": 9.1728071714264e-09,
+                                            "date": "2003-09-16",
+                                            "div": 9.337759531983061e-07,
+                                            "location": "hamburg",
+                                            "num_date": 2003.7099136162365
+                                          },
+                                          "branch_length": 1e-08,
+                                          "children": [
+                                            {
+                                              "aa_muts": {},
+                                              "attr": {
+                                                "Drug_resistance": "0",
+                                                "authors": "Roetzer et al",
+                                                "clock_length": 1.1759133061674188e-08,
+                                                "date": "2004-01-01",
+                                                "div": 9.337759531985857e-07,
+                                                "location": "hamburg",
+                                                "num_date": 2004.0027627547606,
+                                                "raw_date": "2004-XX-XX"
+                                              },
+                                              "branch_length": 1e-08,
+                                              "clade": 113,
+                                              "muts": [],
+                                              "strain": "ERR551678",
+                                              "yvalue": 14
+                                            },
+                                            {
+                                              "aa_muts": {},
+                                              "attr": {
+                                                "Drug_resistance": "0",
+                                                "authors": "Roetzer et al",
+                                                "clock_length": 1.1759133061674188e-08,
+                                                "date": "2004-01-01",
+                                                "div": 9.337759531985857e-07,
+                                                "location": "hamburg",
+                                                "num_date": 2004.0027627547606,
+                                                "raw_date": "2004-XX-XX"
+                                              },
+                                              "branch_length": 1e-08,
+                                              "clade": 114,
+                                              "muts": [],
+                                              "strain": "ERR551903",
+                                              "yvalue": 13
+                                            }
+                                          ],
+                                          "clade": 115,
+                                          "muts": [],
+                                          "strain": "NODE_0000120",
+                                          "yvalue": 13.5
+                                        },
+                                        {
+                                          "aa_muts": {},
+                                          "attr": {
+                                            "Drug_resistance": "0",
+                                            "clock_length": 3.613120671007648e-09,
+                                            "date": "2003-07-27",
+                                            "div": 9.337759531983061e-07,
+                                            "location": "hamburg",
+                                            "num_date": 2003.5714553307853
+                                          },
+                                          "branch_length": 0.0,
+                                          "children": [
+                                            {
+                                              "aa_muts": {},
+                                              "attr": {
+                                                "Drug_resistance": "0",
+                                                "authors": "Roetzer et al",
+                                                "clock_length": 9.762728911020176e-08,
+                                                "date": "2006-01-01",
+                                                "div": 9.337759531985857e-07,
+                                                "location": "hamburg",
+                                                "num_date": 2006.0027627547606,
+                                                "raw_date": "2006-XX-XX"
+                                              },
+                                              "branch_length": 1e-07,
+                                              "clade": 116,
+                                              "muts": [],
+                                              "strain": "ERR551506",
+                                              "yvalue": 12
+                                            },
+                                            {
+                                              "aa_muts": {},
+                                              "attr": {
+                                                "Drug_resistance": "0",
+                                                "authors": "Roetzer et al",
+                                                "clock_length": 5.744557026033187e-08,
+                                                "date": "2005-01-01",
+                                                "div": 1.1672226705617576e-06,
+                                                "location": "hamburg",
+                                                "num_date": 2005.002078292064,
+                                                "raw_date": "2004-XX-XX"
+                                              },
+                                              "branch_length": 6e-08,
+                                              "clade": 117,
+                                              "muts": [
+                                                "T1728564G"
+                                              ],
+                                              "strain": "ERR550641",
+                                              "yvalue": 11
+                                            }
+                                          ],
+                                          "clade": 118,
+                                          "muts": [],
+                                          "strain": "NODE_0000121",
+                                          "yvalue": 11.5
+                                        }
+                                      ],
+                                      "clade": 119,
+                                      "muts": [],
+                                      "strain": "NODE_0000119",
+                                      "yvalue": 12.5
+                                    }
+                                  ],
+                                  "clade": 120,
+                                  "muts": [],
+                                  "strain": "NODE_0000118",
+                                  "yvalue": 14.0
+                                }
+                              ],
+                              "clade": 121,
+                              "muts": [],
+                              "strain": "NODE_0000115",
+                              "yvalue": 16.125
+                            },
+                            {
+                              "aa_muts": {},
+                              "attr": {
+                                "Drug_resistance": "0",
+                                "clock_length": 9.862306050179905e-08,
+                                "date": "1999-01-04",
+                                "div": 9.337759531974672e-07,
+                                "location": "hamburg",
+                                "num_date": 1999.0116060475693
+                              },
+                              "branch_length": 1e-07,
+                              "children": [
+                                {
+                                  "aa_muts": {},
+                                  "attr": {
+                                    "Drug_resistance": "0",
+                                    "clock_length": 1.1066324767064634e-09,
+                                    "date": "1999-01-14",
+                                    "div": 9.337759531977468e-07,
+                                    "location": "hamburg",
+                                    "num_date": 1999.0391655934786
+                                  },
+                                  "branch_length": 0.0,
+                                  "children": [
+                                    {
+                                      "aa_muts": {},
+                                      "attr": {
+                                        "Drug_resistance": "0",
+                                        "clock_length": 7.315709444205089e-10,
+                                        "date": "1999-01-20",
+                                        "div": 9.337759531980264e-07,
+                                        "location": "hamburg",
+                                        "num_date": 1999.057384616915
+                                      },
+                                      "branch_length": 0.0,
+                                      "children": [
+                                        {
+                                          "aa_muts": {},
+                                          "attr": {
+                                            "Drug_resistance": "0",
+                                            "authors": "Roetzer et al",
+                                            "clock_length": 0.0,
+                                            "date": "1999-01-20",
+                                            "div": 9.337759531983061e-07,
+                                            "location": "hamburg",
+                                            "num_date": 1999.057384616915,
+                                            "raw_date": "1999-XX-XX"
+                                          },
+                                          "branch_length": 0.0,
+                                          "clade": 122,
+                                          "muts": [],
+                                          "strain": "ERR553007",
+                                          "yvalue": 10
+                                        },
+                                        {
+                                          "aa_muts": {},
+                                          "attr": {
+                                            "Drug_resistance": "0",
+                                            "authors": "Roetzer et al",
+                                            "clock_length": 0.0,
+                                            "date": "1999-01-20",
+                                            "div": 9.337759531983061e-07,
+                                            "location": "hamburg",
+                                            "num_date": 1999.057384616915,
+                                            "raw_date": "1999-XX-XX"
+                                          },
+                                          "branch_length": 0.0,
+                                          "clade": 123,
+                                          "muts": [],
+                                          "strain": "ERR551702",
+                                          "yvalue": 9
+                                        }
+                                      ],
+                                      "clade": 124,
+                                      "muts": [],
+                                      "strain": "NODE_0000124",
+                                      "yvalue": 9.5
+                                    },
+                                    {
+                                      "aa_muts": {},
+                                      "attr": {
+                                        "Drug_resistance": "0",
+                                        "clock_length": 7.315709444205089e-10,
+                                        "date": "1999-01-20",
+                                        "div": 9.337759531980264e-07,
+                                        "location": "hamburg",
+                                        "num_date": 1999.057384616915
+                                      },
+                                      "branch_length": 0.0,
+                                      "children": [
+                                        {
+                                          "aa_muts": {},
+                                          "attr": {
+                                            "Drug_resistance": "0",
+                                            "authors": "Roetzer et al",
+                                            "clock_length": 0.0,
+                                            "date": "1999-01-20",
+                                            "div": 9.337759531983061e-07,
+                                            "location": "hamburg",
+                                            "num_date": 1999.057384616915,
+                                            "raw_date": "1999-XX-XX"
+                                          },
+                                          "branch_length": 0.0,
+                                          "clade": 125,
+                                          "muts": [],
+                                          "strain": "ERR551088",
+                                          "yvalue": 8
+                                        },
+                                        {
+                                          "aa_muts": {},
+                                          "attr": {
+                                            "Drug_resistance": "0",
+                                            "authors": "Roetzer et al",
+                                            "clock_length": 0.0,
+                                            "date": "1999-01-20",
+                                            "div": 9.337759531983061e-07,
+                                            "location": "hamburg",
+                                            "num_date": 1999.057384616915,
+                                            "raw_date": "1999-XX-XX"
+                                          },
+                                          "branch_length": 0.0,
+                                          "clade": 126,
+                                          "muts": [],
+                                          "strain": "ERR552339",
+                                          "yvalue": 7
+                                        }
+                                      ],
+                                      "clade": 127,
+                                      "muts": [],
+                                      "strain": "NODE_0000125",
+                                      "yvalue": 7.5
+                                    }
+                                  ],
+                                  "clade": 128,
+                                  "muts": [],
+                                  "strain": "NODE_0000123",
+                                  "yvalue": 8.5
+                                },
+                                {
+                                  "aa_muts": {},
+                                  "attr": {
+                                    "Drug_resistance": "0",
+                                    "clock_length": 1.7641417159126411e-09,
+                                    "date": "1999-01-20",
+                                    "div": 9.337759531977468e-07,
+                                    "location": "hamburg",
+                                    "num_date": 1999.0555401861686
+                                  },
+                                  "branch_length": 0.0,
+                                  "children": [
+                                    {
+                                      "aa_muts": {},
+                                      "attr": {
+                                        "Drug_resistance": "0",
+                                        "clock_length": 2.2676471579385755e-10,
+                                        "date": "1999-01-22",
+                                        "div": 9.337759531980264e-07,
+                                        "location": "hamburg",
+                                        "num_date": 1999.0611875286488
+                                      },
+                                      "branch_length": 0.0,
+                                      "children": [
+                                        {
+                                          "aa_muts": {},
+                                          "attr": {
+                                            "Drug_resistance": "0",
+                                            "authors": "Roetzer et al",
+                                            "clock_length": 0.0,
+                                            "date": "1999-01-22",
+                                            "div": 9.337759531983061e-07,
+                                            "location": "hamburg",
+                                            "num_date": 1999.0611875286488,
+                                            "raw_date": "1999-XX-XX"
+                                          },
+                                          "branch_length": 0.0,
+                                          "clade": 129,
+                                          "muts": [],
+                                          "strain": "ERR552408",
+                                          "yvalue": 6
+                                        },
+                                        {
+                                          "aa_muts": {},
+                                          "attr": {
+                                            "Drug_resistance": "0",
+                                            "authors": "Roetzer et al",
+                                            "clock_length": 0.0,
+                                            "date": "1999-01-22",
+                                            "div": 9.337759531983061e-07,
+                                            "location": "hamburg",
+                                            "num_date": 1999.0611875286488,
+                                            "raw_date": "1999-XX-XX"
+                                          },
+                                          "branch_length": 0.0,
+                                          "clade": 130,
+                                          "muts": [],
+                                          "strain": "ERR551764",
+                                          "yvalue": 5
+                                        }
+                                      ],
+                                      "clade": 131,
+                                      "muts": [],
+                                      "strain": "NODE_0000127",
+                                      "yvalue": 5.5
+                                    },
+                                    {
+                                      "aa_muts": {},
+                                      "attr": {
+                                        "Drug_resistance": "0",
+                                        "clock_length": 1.0463529677201256e-07,
+                                        "date": "2001-08-29",
+                                        "div": 9.337759531980264e-07,
+                                        "location": "hamburg",
+                                        "num_date": 2001.6613748474638
+                                      },
+                                      "branch_length": 1e-07,
+                                      "children": [
+                                        {
+                                          "aa_muts": {},
+                                          "attr": {
+                                            "Drug_resistance": "0",
+                                            "clock_length": 1.7663015654541992e-07,
+                                            "date": "2006-01-21",
+                                            "div": 9.337759531983061e-07,
+                                            "location": "hamburg",
+                                            "num_date": 2006.0601675909766
+                                          },
+                                          "branch_length": 1.8e-07,
+                                          "children": [
+                                            {
+                                              "aa_muts": {},
+                                              "attr": {
+                                                "Drug_resistance": "0",
+                                                "authors": "Roetzer et al",
+                                                "clock_length": 3.7849187503469396e-08,
+                                                "date": "2007-01-01",
+                                                "div": 9.337759531985857e-07,
+                                                "location": "kiel",
+                                                "num_date": 2007.0027627547606,
+                                                "raw_date": "2007-XX-XX"
+                                              },
+                                              "branch_length": 4e-08,
+                                              "clade": 132,
+                                              "muts": [],
+                                              "strain": "ERR553288",
+                                              "yvalue": 4
+                                            },
+                                            {
+                                              "aa_muts": {},
+                                              "attr": {
+                                                "Drug_resistance": "0",
+                                                "authors": "Roetzer et al",
+                                                "clock_length": 7.800342227752379e-08,
+                                                "date": "2008-01-01",
+                                                "div": 9.337759531985857e-07,
+                                                "location": "hamburg",
+                                                "num_date": 2008.0027627547606,
+                                                "raw_date": "2008-XX-XX"
+                                              },
+                                              "branch_length": 8e-08,
+                                              "clade": 133,
+                                              "muts": [],
+                                              "strain": "ERR550703",
+                                              "yvalue": 3
+                                            }
+                                          ],
+                                          "clade": 134,
+                                          "muts": [],
+                                          "strain": "NODE_0000129",
+                                          "yvalue": 3.5
+                                        },
+                                        {
+                                          "aa_muts": {},
+                                          "attr": {
+                                            "Drug_resistance": "0",
+                                            "clock_length": 1.831150966703062e-08,
+                                            "date": "2002-02-11",
+                                            "div": 9.337759531983061e-07,
+                                            "location": "hamburg",
+                                            "num_date": 2002.1174041995375
+                                          },
+                                          "branch_length": 2e-08,
+                                          "children": [
+                                            {
+                                              "aa_muts": {},
+                                              "attr": {
+                                                "Drug_resistance": "0",
+                                                "authors": "Roetzer et al",
+                                                "clock_length": 0.0,
+                                                "date": "2002-02-11",
+                                                "div": 9.337759531985857e-07,
+                                                "location": "hamburg",
+                                                "num_date": 2002.1174041995375,
+                                                "raw_date": "2002-XX-XX"
+                                              },
+                                              "branch_length": 0.0,
+                                              "clade": 135,
+                                              "muts": [],
+                                              "strain": "ERR551021",
+                                              "yvalue": 2
+                                            },
+                                            {
+                                              "aa_muts": {},
+                                              "attr": {
+                                                "Drug_resistance": "0",
+                                                "authors": "Roetzer et al",
+                                                "clock_length": 3.55508952856412e-08,
+                                                "date": "2003-01-01",
+                                                "div": 9.337759531985857e-07,
+                                                "location": "hamburg",
+                                                "num_date": 2003.0027627547606,
+                                                "raw_date": "2003-XX-XX"
+                                              },
+                                              "branch_length": 4e-08,
+                                              "clade": 136,
+                                              "muts": [],
+                                              "strain": "ERR552265",
+                                              "yvalue": 1
+                                            }
+                                          ],
+                                          "clade": 137,
+                                          "muts": [],
+                                          "strain": "NODE_0000130",
+                                          "yvalue": 1.5
+                                        }
+                                      ],
+                                      "clade": 138,
+                                      "muts": [],
+                                      "strain": "NODE_0000128",
+                                      "yvalue": 2.5
+                                    }
+                                  ],
+                                  "clade": 139,
+                                  "muts": [],
+                                  "strain": "NODE_0000126",
+                                  "yvalue": 4.0
+                                }
+                              ],
+                              "clade": 140,
+                              "muts": [],
+                              "strain": "NODE_0000122",
+                              "yvalue": 6.25
+                            }
+                          ],
+                          "clade": 141,
+                          "muts": [],
+                          "strain": "NODE_0000114",
+                          "yvalue": 11.1875
+                        }
+                      ],
+                      "clade": 142,
+                      "muts": [],
+                      "strain": "NODE_0000100",
+                      "yvalue": 21.4296875
+                    }
+                  ],
+                  "clade": 143,
+                  "muts": [],
+                  "strain": "NODE_0000131",
+                  "yvalue": 30.33984375
+                }
+              ],
+              "clade": 144,
+              "muts": [
+                "G3526866C"
+              ],
+              "strain": "NODE_0000000",
+              "yvalue": 50.669921875
+            }
+          ],
+          "clade": 145,
+          "muts": [
+            "C1621106G",
+            "G1623057T"
+          ],
+          "strain": "NODE_0000036",
+          "yvalue": 61.3349609375
+        }
+      ],
+      "clade": 146,
+      "muts": [],
+      "strain": "NODE_0000037",
+      "yvalue": 67.16748046875
+    }
+  ],
+  "clade": 147,
+  "muts": [],
+  "strain": "NODE_0000085",
+  "yvalue": 74.349365234375
+}
